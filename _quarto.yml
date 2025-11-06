@@ -4,6 +4,7 @@ project:
 book:
   title: "AI as a Teaching Partner: Practical Applications for Human Resource Education"
   author: "HR Education Team"
+  cover-image: cover.png
   chapters:
     - index.qmd
     - chapter-01-introduction.qmd
@@ -28,6 +29,7 @@ format:
     toc: true
     number-sections: true
     code-tools: true
+    css: custom.css
   pdf:
     documentclass: book
     toc: true
