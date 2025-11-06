@@ -1,4 +1,4 @@
-# Chapter 13: From Static to Interactive - AI-Powered Activity Transformation
+# From Static to Interactive - AI-Powered Activity Transformation
 
 ## The Challenge: Static Documents Don't Engage
 

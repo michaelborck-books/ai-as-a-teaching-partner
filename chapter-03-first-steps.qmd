@@ -1,4 +1,4 @@
-# Chapter 8: Your First Steps - A Practical Guide
+# Your First Steps - A Practical Guide
 
 ## The Implementation Challenge
 

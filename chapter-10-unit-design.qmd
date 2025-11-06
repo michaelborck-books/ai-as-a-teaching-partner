@@ -1,4 +1,4 @@
-# Chapter 10: Designing an AI-Integrated Unit
+# Designing an AI-Integrated Unit
 
 ## Beyond Individual Assignments: Whole-Unit Design
 
