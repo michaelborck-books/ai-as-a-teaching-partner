@@ -1,4 +1,4 @@
-# Appendix A: Ready-to-Use Prompt Library
+# Ready-to-Use Prompt Library
 
 ## How to Use This Appendix
 

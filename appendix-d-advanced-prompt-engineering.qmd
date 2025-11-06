@@ -1,4 +1,4 @@
-# Appendix D: Advanced Prompt Engineering for HR Education
+# Advanced Prompt Engineering for HR Education
 
 ## Why This Appendix Exists
 
