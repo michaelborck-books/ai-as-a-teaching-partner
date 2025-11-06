@@ -7,24 +7,25 @@ book:
   cover-image: cover.png
   chapters:
     - index.qmd
-    - chapter-01-introduction.qmd
-    - chapter-02-getting-started.qmd
-    - chapter-03-first-steps.qmd
-    - chapter-04-five-techniques.qmd
-    - chapter-05-flight-simulator.qmd
-    - chapter-06-self-assessment.qmd
-    - chapter-07-ethics-integrity.qmd
-    - chapter-08-process-assessment.qmd
-    - chapter-09-virtual-company.qmd
-    - chapter-10-unit-design.qmd
-    - chapter-11-research-assistant.qmd
-    - chapter-12-static-to-interactive.qmd
-    - chapter-13-conclusion.qmd
+    - introduction.qmd
+    - getting-started.qmd
+    - first-steps.qmd
+    - five-techniques.qmd
+    - flight-simulator.qmd
+    - self-assessment.qmd
+    - critique-toolkit.qmd
+    - ethics-integrity.qmd
+    - process-assessment.qmd
+    - virtual-company.qmd
+    - unit-design.qmd
+    - research-assistant.qmd
+    - static-to-interactive.qmd
+    - conclusion.qmd
   appendices:
-    - appendix-a-prompt-library.qmd
-    - appendix-b-workshop-guide.qmd
-    - appendix-c-curtin-alignment.qmd
-    - appendix-d-advanced-prompt-engineering.qmd
+    - prompt-library.qmd
+    - workshop-guide.qmd
+    - curtin-alignment.qmd
+    - advanced-prompt-engineering.qmd
 
 format:
   html:
