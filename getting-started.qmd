@@ -14,22 +14,91 @@ Let's jump straight in.
 
 ## Step 1: Accessing an AI Tool
 
-You have several free options. I recommend starting with one of these two:
+If you're a **Curtin University staff member**, you have an approved enterprise option. Otherwise, you have several free options.
 
-### Option A: ChatGPT (by OpenAI)
-1. Go to **chat.openai.com** in any web browser
-2. Create a free account (takes 2 minutes)
-3. You'll see a simple text box at the bottom of the screen
+### Option A: MS Copilot Enterprise (Curtin Staff - Recommended)
+
+If you have a Curtin University login, you have access to MS Copilot Enterprise—the officially approved tool for institutional use.
+
+**Accessing MS Copilot Enterprise:**
+1. Go to **copilot.microsoft.com** or open Microsoft Edge browser
+2. Sign in with your Curtin credentials (@curtin.edu.au)
+3. You'll see the familiar Copilot interface
 4. That's it—you're ready to go
 
-### Option B: Claude (by Anthropic)
+**Why MS Copilot Enterprise for Curtin:**
+- Your data is protected and siloed within Curtin's secure instance
+- Meets institutional data governance and compliance requirements
+- Reflects how enterprise professionals use AI tools
+- Built on OpenAI's ChatGPT technology, so it's powerful and reliable
+
+**Integration with Microsoft Suite (Major Advantage):**
+MS Copilot integrates seamlessly with tools you already use:
+- **In Word**: A chat panel opens on the right side—draft paragraphs, get feedback, revise
+- **In Excel**: Analyze data, create formulas, visualize patterns
+- **In PowerPoint**: Generate slides, refine content, create speaker notes
+- **In Outlook**: Draft emails, organize content, summarize threads
+- **In Teams**: Access Copilot in chats and meetings for real-time assistance
+
+This integration means you can work directly in your document while AI assists—no copying/pasting between windows.
+
+### Option B: ChatGPT (Free, No Login Required)
+
+If you prefer a standalone option or aren't at Curtin:
+1. Go to **chat.openai.com** in any web browser
+2. Create a free account (takes 2 minutes) or use a Google/Microsoft account
+3. You'll see a simple text box at the bottom of the screen
+4. Ready to go
+
+**Advantages:**
+- Simple, clean interface
+- No institutional login needed
+- Widely familiar
+- Can generate and export Word/Excel files (with Pro subscription)
+
+**Data Note:** Conversations may be retained by OpenAI. For Curtin staff, use MS Copilot Enterprise for institutional work.
+
+### Option C: Claude (Free, Anthropic)
+
 1. Go to **claude.ai** in any web browser
 2. Create a free account
 3. Same interface—a clean text box waiting for your instructions
 
-Both work essentially the same way. For this booklet, examples will work with either tool. Choose whichever interface you prefer.
+**Advantages:**
+- Clear, thoughtful responses
+- Good for nuanced writing and analysis
+- No login required
 
-**Note:** You don't need to download anything, install software, or configure settings. It's as simple as using Google—type something in, get a response back.
+**Data Note:** Conversations may be retained. Not integrated with Office Suite.
+
+### Option D: Google Gemini (Free, Google Ecosystem)
+
+If you prefer the Google ecosystem:
+1. Go to **gemini.google.com** in any web browser
+2. Sign in with your Google account
+3. Access Gemini directly
+
+**Integration with Google Workspace:**
+- Integrates with Google Docs, Sheets, and Slides
+- Right-side panel for real-time assistance
+- Built on Google's LLM technology
+
+**Data Note:** Subject to Google's data policies. Good for personal use; check institutional requirements for sensitive work.
+
+### Summary: Which Tool to Choose?
+
+| Tool | Best For | Data Protection | Office Integration |
+|------|----------|-----------------|-------------------|
+| **MS Copilot Enterprise (Curtin)** | Institutional work, course materials, student assignments | ✅ Enterprise-protected | ✅ Full MS Office Suite |
+| **ChatGPT** | General exploration, standalone use | ⚠️ Consumer retention | ✓ Manual export (Pro) |
+| **Claude** | Writing and nuanced analysis | ⚠️ Consumer retention | ✗ None |
+| **Google Gemini** | Google Workspace users | ⚠️ Google policies | ✓ Google Workspace |
+
+**For Curtin Staff & Students:** Use MS Copilot Enterprise for anything involving course materials, student work, or institutional data.
+
+**For General Exploration:** Any tool works—they all have similar core capabilities.
+
+**Note:** You don't need to download anything or configure complex settings. All options work directly in your web browser. If you're at Curtin, start with MS Copilot Enterprise. If you're elsewhere or just exploring, ChatGPT is the most familiar starting point.
 
 ## Step 2: Understanding Prompts
 
