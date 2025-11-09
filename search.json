@@ -4,169 +4,169 @@
     "href": "index.html",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
     "section": "",
-    "text": "1 AI as a Teaching Partner",
+    "text": "1 About This Booklet\nThis booklet is designed for business lecturers across all disciplines who want to enhance their teaching with Artificial Intelligence but don’t consider themselves “tech people.”\nYou won’t need to code, install complex software, or understand how AI works technically. What you will learn is how to use simple, plain-language instructions (called “prompts”) to create powerful learning experiences for your students.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#practical-applications-for-multidisciplinary-business-education",
-    "href": "index.html#practical-applications-for-multidisciplinary-business-education",
+    "objectID": "index.html#who-this-is-for",
+    "href": "index.html#who-this-is-for",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "1.1 Practical Applications for Multidisciplinary Business Education",
-    "text": "1.1 Practical Applications for Multidisciplinary Business Education\n\n\n1.1.1 A Guide for Business Lecturers\nCurtin University Edition\n\nVersion 1.0 | 2025",
+    "section": "1.1 Who This Is For",
+    "text": "1.1 Who This Is For\n\nBusiness lecturers at Curtin University teaching undergraduate or postgraduate students\nAcademics in business, marketing, management, tourism, accounting, economics, information systems, and supply chain\nUnit coordinators exploring AI integration aligned with learning outcomes\nResearch supervisors supporting business students\nAnyone curious about practical, non-technical AI applications in business education\n\n\n1.1.1 Discipline-Specific Pathways\nThis booklet is designed for multiple business disciplines. While the core principles and techniques are universal, examples and prompts are tailored to your field:\n\nBusiness & MarketingManagement & Organization StudiesHuman ResourcesTourism & HospitalitySupply Chain & LogisticsInformation SystemsAccounting & FinanceEconomics\n\n\nExamples include market analysis, customer behavior modeling, campaign strategy, brand positioning, and competitive intelligence simulations.\n\n\nExamples include organizational design, change management, team dynamics, leadership scenarios, and process improvement workflows.\n\n\nExamples include recruitment workflows, performance management scenarios, employee relations simulations, talent development, and organizational behavior case studies.\n\n\nExamples include destination marketing, customer experience design, revenue management, tourism planning, and hospitality crisis scenarios.\n\n\nExamples include demand forecasting, inventory optimization, supplier negotiations, network design, and supply chain risk scenarios.\n\n\nExamples include systems analysis, project management, IT governance, requirements gathering, and technology implementation planning.\n\n\nExamples include financial analysis, audit workflows, budget management, taxation scenarios, and financial reporting simulations.\n\n\nExamples include economic modeling, policy analysis, market equilibrium scenarios, microeconomic analysis, and behavioral economics simulations.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#about-this-booklet",
-    "href": "index.html#about-this-booklet",
+    "objectID": "index.html#what-you-wont-find-here",
+    "href": "index.html#what-you-wont-find-here",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "1.2 About This Booklet",
-    "text": "1.2 About This Booklet\nThis booklet is designed for business lecturers across all disciplines who want to enhance their teaching with Artificial Intelligence but don’t consider themselves “tech people.”\nYou won’t need to code, install complex software, or understand how AI works technically. What you will learn is how to use simple, plain-language instructions (called “prompts”) to create powerful learning experiences for your students.\n\n1.2.1 Who This Is For\n\nBusiness lecturers at Curtin University teaching undergraduate or postgraduate students\nAcademics in business, marketing, management, tourism, accounting, economics, information systems, and supply chain\nUnit coordinators exploring AI integration aligned with learning outcomes\nResearch supervisors supporting business students\nAnyone curious about practical, non-technical AI applications in business education\n\n\n1.2.1.1 Discipline-Specific Pathways\nThis booklet is designed for multiple business disciplines. While the core principles and techniques are universal, examples and prompts are tailored to your field:\n\nBusiness & MarketingManagement & Organization StudiesHuman ResourcesTourism & HospitalitySupply Chain & LogisticsInformation SystemsAccounting & FinanceEconomics\n\n\nExamples include market analysis, customer behavior modeling, campaign strategy, brand positioning, and competitive intelligence simulations.\n\n\nExamples include organizational design, change management, team dynamics, leadership scenarios, and process improvement workflows.\n\n\nExamples include recruitment workflows, performance management scenarios, employee relations simulations, talent development, and organizational behavior case studies.\n\n\nExamples include destination marketing, customer experience design, revenue management, tourism planning, and hospitality crisis scenarios.\n\n\nExamples include demand forecasting, inventory optimization, supplier negotiations, network design, and supply chain risk scenarios.\n\n\nExamples include systems analysis, project management, IT governance, requirements gathering, and technology implementation planning.\n\n\nExamples include financial analysis, audit workflows, budget management, taxation scenarios, and financial reporting simulations.\n\n\nExamples include economic modeling, policy analysis, market equilibrium scenarios, microeconomic analysis, and behavioral economics simulations.\n\n\n\n\n\n\n1.2.2 What You Won’t Find Here\n\nTechnical AI theory or computer science concepts\nCoding or programming requirements\nAbstract discussions about AI’s future\nComplex software installation guides\n“One size fits all” solutions\n\n\n\n1.2.3 What You Will Find Here\n\nConcrete examples: Every chapter includes ready-to-use prompts and scenarios tailored to multiple business disciplines\nPractical guidance: Step-by-step implementation for busy lecturers\nReal pedagogical value: AI applications directly support existing learning outcomes across business programs\nHonest assessment: What AI does well, what it doesn’t, and what requires human judgment\nEthical frameworks: How to integrate AI responsibly and teach students to do the same in professional practice",
+    "section": "1.2 What You Won’t Find Here",
+    "text": "1.2 What You Won’t Find Here\n\nTechnical AI theory or computer science concepts\nCoding or programming requirements\nAbstract discussions about AI’s future\nComplex software installation guides\n“One size fits all” solutions",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#how-to-use-this-booklet",
-    "href": "index.html#how-to-use-this-booklet",
+    "objectID": "index.html#what-you-will-find-here",
+    "href": "index.html#what-you-will-find-here",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "1.3 How to Use This Booklet",
-    "text": "1.3 How to Use This Booklet\n\n1.3.1 If you’re completely new to AI:\nStart with Chapter 1 (motivation) and Chapter 2 (your first AI conversation). Work through the basics before exploring advanced applications.\n\n\n1.3.2 If you want to implement AI in your teaching:\nRead Chapter 3 (your first steps) for a practical implementation plan. Then move to Chapter 4 (six essential techniques) and pick one to try immediately. Refer to Appendix A for copy-paste prompts.\n\n\n1.3.3 If you’re designing assessments:\nRead Chapter 8 (process-based assessment models) and Chapter 10 (complete unit design). Use these frameworks to redesign existing assignments.\n\n\n1.3.4 If you teach postgraduate students:\nFocus on Chapter 11 (AI as research assistant) for guidance on appropriate AI use in research contexts.\n\n\n1.3.5 If you’re presenting to colleagues:\nUse Appendix B (one-hour faculty workshop guide) as a facilitation template.\n\n\n1.3.6 If you need institutional justification:\nRefer to Appendix C (alignment with Curtin learning outcomes) to demonstrate how AI integration supports existing educational goals.",
+    "section": "1.3 What You Will Find Here",
+    "text": "1.3 What You Will Find Here\n\nConcrete examples: Every chapter includes ready-to-use prompts and scenarios tailored to multiple business disciplines\nPractical guidance: Step-by-step implementation for busy lecturers\nReal pedagogical value: AI applications directly support existing learning outcomes across business programs\nHonest assessment: What AI does well, what it doesn’t, and what requires human judgment\nEthical frameworks: How to integrate AI responsibly and teach students to do the same in professional practice",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#the-core-philosophy",
-    "href": "index.html#the-core-philosophy",
+    "objectID": "index.html#if-youre-completely-new-to-ai",
+    "href": "index.html#if-youre-completely-new-to-ai",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "1.4 The Core Philosophy",
-    "text": "1.4 The Core Philosophy\nThree principles underpin everything in this booklet:\n1. AI as Scaffolding, Not Replacement\nYou are the expert educator. AI is a tool that helps you scale what you already know works—personalized practice, immediate feedback, realistic simulations. AI builds the framework quickly; you ensure it’s pedagogically sound and academically rigorous.\nHow this applies to your discipline:\n\nBusiness & MarketingManagementHuman ResourcesTourism & HospitalitySupply ChainInformation SystemsAccounting & FinanceEconomics\n\n\nAI generates competitive analysis frameworks and customer segmentation scenarios. You validate the business logic, ensure market assumptions are sound, and teach students to question data sources and market trends.\n\n\nAI creates organizational scenarios and change management workflows. You ensure they reflect real organizational complexity, teach students about stakeholder dynamics, and guide reflection on ethical leadership implications.\n\n\nAI generates candidate profiles and HR scenarios. You ensure they reflect realistic workplace situations, teach students about bias in hiring, and guide ethical decision-making about employee relations.\n\n\nAI creates customer journey scenarios and service recovery simulations. You ensure they reflect authentic tourism contexts, teach cultural sensitivity, and guide experience design thinking.\n\n\nAI generates demand forecasts and logistics scenarios. You validate the economic logic, teach supply chain trade-offs, and guide systems thinking about global complexity.\n\n\nAI generates system requirements and IT scenarios. You ensure technical feasibility, teach about legacy system constraints, and guide project management realities.\n\n\nAI generates financial scenarios and compliance workflows. You ensure accuracy, teach professional standards, and guide ethical judgment in ambiguous situations.\n\n\nAI generates economic scenarios and policy simulations. You ensure theoretical soundness, teach empirical rigor, and guide students to understand limitations of models.\n\n\n\n2. Transparency Over Prohibition\nRather than trying to prevent AI use (impossible and counterproductive), we teach students to use AI openly, critically, and ethically. This prepares them for professional practice where AI tools are standard across all business disciplines.\n3. Start Small, Scale Gradually\nYou don’t need to revolutionize your entire curriculum overnight. Start with one prompt, one assignment, one semester. Build confidence and capability progressively.",
+    "section": "2.1 If you’re completely new to AI:",
+    "text": "2.1 If you’re completely new to AI:\nStart with Chapter 1 (motivation) and Chapter 2 (your first AI conversation). Work through the basics before exploring advanced applications.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#acknowledgments",
-    "href": "index.html#acknowledgments",
+    "objectID": "index.html#if-you-want-to-implement-ai-in-your-teaching",
+    "href": "index.html#if-you-want-to-implement-ai-in-your-teaching",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "1.5 Acknowledgments",
-    "text": "1.5 Acknowledgments\nThis booklet synthesizes ideas from multiple sources:\n\nPrompt engineering techniques adapted for professional education contexts\nCurtin University program information and learning outcomes\nPedagogical frameworks from experiential learning, reflective practice, and authentic assessment\nProfessional practice standards and ethical guidelines across business disciplines\nEmerging research on AI in higher education\n\nThe goal is not to be cutting-edge or technically impressive. The goal is to help business educators do their work better—prepare confident, competent, ethical professionals for complex workplaces.",
+    "section": "2.2 If you want to implement AI in your teaching:",
+    "text": "2.2 If you want to implement AI in your teaching:\nRead Chapter 3 (your first steps) for a practical implementation plan. Then move to Chapter 4 (six essential techniques) and pick one to try immediately. Refer to Appendix A for copy-paste prompts.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#important-notes",
-    "href": "index.html#important-notes",
+    "objectID": "index.html#if-youre-designing-assessments",
+    "href": "index.html#if-youre-designing-assessments",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "1.6 Important Notes",
-    "text": "1.6 Important Notes\n\n1.6.1 Technology Changes Rapidly\nAI tools evolve quickly. Specific platform names (ChatGPT, Claude, etc.) and capabilities described here reflect the state of technology in early 2025. The principles and pedagogical approaches remain relevant even as specific tools change.\n\n\n1.6.2 Context Matters\nThis booklet was developed for Curtin University’s business programs. If you’re at a different institution or teaching a different discipline, you’ll need to adapt examples, learning outcomes, and institutional references. The frameworks are transferable; the specifics may not be.\n\n\n1.6.3 This Is a Starting Point\nConsider this booklet a foundation, not a complete solution. You’ll discover what works for your students, your teaching style, and your context through experimentation. The appendices provide templates you can adapt and build upon.",
+    "section": "2.3 If you’re designing assessments:",
+    "text": "2.3 If you’re designing assessments:\nRead Chapter 8 (process-based assessment models) and Chapter 10 (complete unit design). Use these frameworks to redesign existing assignments.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#getting-help-and-providing-feedback",
-    "href": "index.html#getting-help-and-providing-feedback",
+    "objectID": "index.html#if-you-teach-postgraduate-students",
+    "href": "index.html#if-you-teach-postgraduate-students",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "1.7 Getting Help and Providing Feedback",
-    "text": "1.7 Getting Help and Providing Feedback\nAs you implement ideas from this booklet, you may have questions, encounter challenges, or discover innovative applications we didn’t consider.\nFor Curtin staff: - Contact your Faculty Teaching and Learning team for pedagogical support - Consult with IT Services for technical access and troubleshooting - Connect with colleagues who are experimenting with AI integration - Consider forming a learning community around AI-enhanced teaching\nFor others: - Adapt frameworks to your institutional context - Share successes and failures with your teaching and learning community - Contribute to the growing body of practice around AI in education",
+    "section": "2.4 If you teach postgraduate students:",
+    "text": "2.4 If you teach postgraduate students:\nFocus on Chapter 11 (AI as research assistant) for guidance on appropriate AI use in research contexts.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#a-personal-note-to-readers",
-    "href": "index.html#a-personal-note-to-readers",
+    "objectID": "index.html#if-youre-presenting-to-colleagues",
+    "href": "index.html#if-youre-presenting-to-colleagues",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "1.8 A Personal Note to Readers",
-    "text": "1.8 A Personal Note to Readers\nIf you’re feeling skeptical about AI in education, that’s healthy. Technology is not inherently good or bad—it’s how we use it that matters.\nIf you’re worried this is too technical, I promise it’s not. If you can write an email, you can write an AI prompt.\nIf you’re concerned about losing control of your teaching, you won’t. You’ll gain new capabilities while maintaining your pedagogical judgment and professional expertise.\nThe goal of this booklet is simple: by the end, you should feel excited and equipped to try one new thing in your next class.\nThat’s it. One simulation. One new assessment approach. One conversation where a student gets to practice being a business professional in a safe environment before they face real workplace challenges.\nBecause ultimately, that’s what we’re here for.\nLet’s begin.\n\nNext: Table of Contents",
+    "section": "2.5 If you’re presenting to colleagues:",
+    "text": "2.5 If you’re presenting to colleagues:\nUse Appendix B (one-hour faculty workshop guide) as a facilitation template.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#part-1-foundation---understanding-ai-for-business-education",
-    "href": "index.html#part-1-foundation---understanding-ai-for-business-education",
+    "objectID": "index.html#if-you-need-institutional-justification",
+    "href": "index.html#if-you-need-institutional-justification",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "2.1 Part 1: Foundation - Understanding AI for Business Education",
-    "text": "2.1 Part 1: Foundation - Understanding AI for Business Education\nChapter 1: Introduction - Why AI Matters for Business Education ………………… 1 - The Problem We’re Solving - The Flight Simulator Concept - What Makes This Different from Traditional Teaching - Three Core Principles of This Approach\nChapter 2: Getting Started - Your First AI Conversation ………………… 15 - Accessing an AI Tool (Step-by-Step) - Understanding Prompts - The Anatomy of a Good Prompt - Practice Exercise: Your Turn - Troubleshooting Common Issues\nChapter 3: Your First Steps - A Practical Implementation Guide ………………… 28 - Phase 1: Personal Experimentation - Phase 2: Low-Stakes Student Introduction - Phase 3: Pilot Assessment - Phase 4: Gather Feedback and Iterate - Phase 5: Expand and Integrate",
+    "section": "2.6 If you need institutional justification:",
+    "text": "2.6 If you need institutional justification:\nRefer to Appendix C (alignment with Curtin learning outcomes) to demonstrate how AI integration supports existing educational goals.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#part-2-core-techniques---the-teaching-toolkit",
-    "href": "index.html#part-2-core-techniques---the-teaching-toolkit",
+    "objectID": "index.html#technology-changes-rapidly",
+    "href": "index.html#technology-changes-rapidly",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "2.2 Part 2: Core Techniques - The Teaching Toolkit",
-    "text": "2.2 Part 2: Core Techniques - The Teaching Toolkit\nChapter 4: Six Essential Prompt Techniques for Business Teaching ………………… 45 - Technique 1: Reverse Prompting (for Scoping and Policy Design) - Technique 2: Pros and Cons (for Decision Making) - Technique 3: Stepwise Chain of Thought (for Process Management) - Technique 4: Role Play (for Skill Building) - Technique 5: Debating (for Strategic and Ethical Analysis) - Technique 6: Formative Assessment Generator (for Practice and Mastery) - How to Choose Which Technique to Use - Combining Techniques",
+    "section": "5.1 Technology Changes Rapidly",
+    "text": "5.1 Technology Changes Rapidly\nAI tools evolve quickly. Specific platform names (ChatGPT, Claude, etc.) and capabilities described here reflect the state of technology in early 2025. The principles and pedagogical approaches remain relevant even as specific tools change.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#part-3-practical-applications---what-you-can-do-tomorrow",
-    "href": "index.html#part-3-practical-applications---what-you-can-do-tomorrow",
+    "objectID": "index.html#context-matters",
+    "href": "index.html#context-matters",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "2.3 Part 3: Practical Applications - What You Can Do Tomorrow",
-    "text": "2.3 Part 3: Practical Applications - What You Can Do Tomorrow\nChapter 5: The Flight Simulator - Conversation Simulations ………………… 69 - The Three-Phase System (Setup, Simulation, Debrief) - Complete Worked Example: Professional Client Meeting - Adapting This for Different Business Topics - How to Use This as an Assessment - Common Questions and Answers\nChapter 6: AI as Study Buddy - Self-Assessment Tool ………………… 95 - The Academic Integrity Challenge - The Transparency Model - Complete Worked Example (Assignment → Rubric → Self-Assessment) - Variations and Adaptations - Teaching AI Literacy\nChapter 7: The Ethics & Integrity Question ………………… 112 - Reframing the Question (Prevention vs. Preparation) - The Three-Part Framework for Ethical AI Use - Student-Facing Language: Setting Expectations - Designing “Integrity-Resistant” Assignments - Red Flags for AI Misuse (And How to Address Them) - Teaching AI Ethics Through Business Scenarios",
+    "section": "5.2 Context Matters",
+    "text": "5.2 Context Matters\nThis booklet was developed for Curtin University’s business programs. If you’re at a different institution or teaching a different discipline, you’ll need to adapt examples, learning outcomes, and institutional references. The frameworks are transferable; the specifics may not be.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#part-4-assessment-revolution---rethinking-how-we-evaluate",
-    "href": "index.html#part-4-assessment-revolution---rethinking-how-we-evaluate",
+    "objectID": "index.html#this-is-a-starting-point",
+    "href": "index.html#this-is-a-starting-point",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "2.4 Part 4: Assessment Revolution - Rethinking How We Evaluate",
-    "text": "2.4 Part 4: Assessment Revolution - Rethinking How We Evaluate\nChapter 8: Process Over Product - Rethinking Assessment ………………… 139 - The Fundamental Question (What Are We Really Assessing?) - Assessment Model 1: Simulated Business Consultation and Process Audit - Assessment Model 2: Evidence-Based Strategic Intervention Plan - Assessment Model 3: Competency-Based Professional Portfolio - The Common Thread: Process as Evidence\nChapter 9: Virtual Company Simulation (Future Horizon) ………………… 166 - Level 1: Single Stakeholder Persona (Master Prompt) - Level 2: Multiple Stakeholder Personas (Cast of Characters) - Level 3: Persistent Context (Company Memory) - Level 4: Dynamic Events (Evolving Scenarios) - Semester-Long Virtual Company Project - Practical Implementation Guidance",
+    "section": "5.3 This Is a Starting Point",
+    "text": "5.3 This Is a Starting Point\nConsider this booklet a foundation, not a complete solution. You’ll discover what works for your students, your teaching style, and your context through experimentation. The appendices provide templates you can adapt and build upon.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#part-5-advanced-applications---going-deeper",
-    "href": "index.html#part-5-advanced-applications---going-deeper",
+    "objectID": "index.html#figures",
+    "href": "index.html#figures",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "2.5 Part 5: Advanced Applications - Going Deeper",
-    "text": "2.5 Part 5: Advanced Applications - Going Deeper\nChapter 10: Designing an AI-Integrated Unit ………………… 192 - Beyond Individual Assignments: Whole-Unit Design - The Backwards Design Approach - Complete 12-Week Unit Design Example - The Scaffolding Progression Model - Balancing AI and Non-AI Activities - Supporting Student AI Literacy Development - Common Design Mistakes to Avoid\nChapter 11: The Research Assistant (Postgraduate Focus) ………………… 219 - AI in Research: Promise and Peril - The Core Principle: AI for Process, Human for Insight - Application 1: Literature Review - Application 2: Research Question Development - Application 3: Data Analysis (Qualitative Research) - Application 4: Thesis Writing - Application 5: Research Proposal Development - Teaching AI Literacy for Research - Supervising Research Students Using AI",
+    "section": "15.1 Figures",
+    "text": "15.1 Figures\n\nFigure 1: The Three-Phase Conversation Simulation System (Chapter 5)\nFigure 2: AI Integration Progression Model (Chapter 10)\nFigure 3: Research AI Use Framework (Chapter 11)",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#appendices---ready-to-use-resources",
-    "href": "index.html#appendices---ready-to-use-resources",
+    "objectID": "index.html#tables",
+    "href": "index.html#tables",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "2.6 Appendices - Ready-to-Use Resources",
-    "text": "2.6 Appendices - Ready-to-Use Resources\nAppendix A: Ready-to-Use Prompt Library ………………… 246 - Section 1: Content Generation Prompts (5 prompts) - Section 2: Conversation Simulation Prompts (4 prompts) - Section 3: Assessment and Critique Prompts (3 prompts) - Section 4: Student Self-Assessment Prompts (3 prompts) - Section 5: Ethical Analysis Prompts (3 prompts) - How to Adapt These Prompts - Testing Your Prompts\nAppendix B: One-Hour Faculty Workshop Guide ………………… 269 - Pre-Workshop Preparation - Workshop Agenda (60 minutes) - Quick Start Guide (Handout Template) - Post-Workshop Follow-Up - Variations for Different Workshop Formats - Facilitation Tips - Success Indicators\nAppendix C: Alignment with Curtin University Learning Outcomes ………………… 290 - Curtin University Strategic Context - Business Program Overview - Learning Outcome Alignment Matrix (9 Core Outcomes) - Alignment with Professional Career Outcomes - Addressing Potential Institutional Concerns - Implementation Recommendations for Curtin Business Programs - Alignment with Curtin University Strategic Priorities\nConclusion: Where Do We Go From Here? ………………… 310",
+    "section": "15.2 Tables",
+    "text": "15.2 Tables\n\nTable 1: Technique Selection Guide (Chapter 4)\nTable 2: Assessment Model Comparison (Chapter 8)\nTable 3: Weekly AI Complexity Progression (Chapter 10)\nTable 4: Learning Outcome Alignment Matrix (Appendix C)",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#list-of-figures-and-tables",
-    "href": "index.html#list-of-figures-and-tables",
+    "objectID": "index.html#for-the-busy-lecturer-where-to-start",
+    "href": "index.html#for-the-busy-lecturer-where-to-start",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "2.7 List of Figures and Tables",
-    "text": "2.7 List of Figures and Tables\n\n2.7.1 Figures\n\nFigure 1: The Three-Phase Conversation Simulation System (Chapter 5)\nFigure 2: AI Integration Progression Model (Chapter 10)\nFigure 3: Research AI Use Framework (Chapter 11)\n\n\n\n2.7.2 Tables\n\nTable 1: Technique Selection Guide (Chapter 4)\nTable 2: Assessment Model Comparison (Chapter 8)\nTable 3: Weekly AI Complexity Progression (Chapter 10)\nTable 4: Learning Outcome Alignment Matrix (Appendix C)",
+    "section": "16.1 For the Busy Lecturer (Where to Start)",
+    "text": "16.1 For the Busy Lecturer (Where to Start)\n\nNever used AI before? → Chapter 2 (15 minutes)\nWant to try something today? → Chapter 4 + Appendix A (30 minutes)\nPlanning next semester? → Chapter 10 (60 minutes)\nFacing assessment redesign? → Chapter 8 (45 minutes)\nNeed to convince colleagues? → Appendix B + Appendix C (30 minutes)",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
-    "objectID": "index.html#quick-reference-guides",
-    "href": "index.html#quick-reference-guides",
+    "objectID": "index.html#for-students-if-you-share-this-resource",
+    "href": "index.html#for-students-if-you-share-this-resource",
     "title": "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education",
-    "section": "2.8 Quick Reference Guides",
-    "text": "2.8 Quick Reference Guides\n\n2.8.1 For the Busy Lecturer (Where to Start)\n\nNever used AI before? → Chapter 2 (15 minutes)\nWant to try something today? → Chapter 4 + Appendix A (30 minutes)\nPlanning next semester? → Chapter 10 (60 minutes)\nFacing assessment redesign? → Chapter 8 (45 minutes)\nNeed to convince colleagues? → Appendix B + Appendix C (30 minutes)\n\n\n\n2.8.2 For Students (If You Share This Resource)\n\nChapter 2: Learn how to use AI tools\nChapter 4: Six techniques for better learning\nChapter 6: Using AI for self-assessment\nChapter 7: Using AI ethically and responsibly\nChapter 11: AI as research assistant (postgraduate)\n\n\nLet’s begin with Chapter 1.",
+    "section": "16.2 For Students (If You Share This Resource)",
+    "text": "16.2 For Students (If You Share This Resource)\n\nChapter 2: Learn how to use AI tools\nChapter 4: Six techniques for better learning\nChapter 6: Using AI for self-assessment\nChapter 7: Using AI ethically and responsibly\nChapter 11: AI as research assistant (postgraduate)\n\n\nLet’s begin with Chapter 1.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AI as a Teaching Partner</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About This Booklet</span>"
     ]
   },
   {
