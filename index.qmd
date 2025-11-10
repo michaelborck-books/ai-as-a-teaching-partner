@@ -1,6 +1,6 @@
-# About This Booklet
+# About This Book
 
-This booklet is designed for business lecturers across all disciplines who want to enhance their teaching with Artificial Intelligence but don't consider themselves "tech people."
+This book is designed for business lecturers across all disciplines who want to enhance their teaching with Artificial Intelligence but don't consider themselves "tech people."
 
 You won't need to code, install complex software, or understand how AI works technically. What you will learn is how to use simple, plain-language instructions (called "prompts") to create powerful learning experiences for your students.
 
@@ -14,7 +14,7 @@ You won't need to code, install complex software, or understand how AI works tec
 
 ### Discipline-Specific Pathways
 
-This booklet is designed for multiple business disciplines. While the core principles and techniques are universal, examples and prompts are tailored to your field:
+This book is designed for multiple business disciplines. While the core principles and techniques are universal, examples and prompts are tailored to your field:
 
 ::: {.panel-tabset}
 
@@ -61,9 +61,19 @@ Examples include economic modeling, policy analysis, market equilibrium scenario
 - **Honest assessment**: What AI does well, what it doesn't, and what requires human judgment
 - **Ethical frameworks**: How to integrate AI responsibly and teach students to do the same in professional practice
 
+## A Core Concept: Prompting as Foundation
+
+Throughout this book, **prompting** is your core skill. Whether you're:
+- Writing direct instructions to AI tools
+- Integrating AI into familiar software (Word, PowerPoint, Teams)
+- Automating workflows with agents
+- Building custom tools
+
+...you're fundamentally communicating with AI through prompts. Master prompting, and you can adapt to any AI tool—past, present, or future. **Chapters 2-4 teach you prompting as a conceptual foundation; everything else applies that foundation to specific teaching challenges.**
+
 ---
 
-# How to Use This Booklet
+# How to Use This Book
 
 ## If you're completely new to AI:
 Start with **Chapter 1** (motivation) and **Chapter 2** (your first AI conversation). Work through the basics before exploring advanced applications.
@@ -87,7 +97,7 @@ Refer to **Appendix C** (alignment with Curtin learning outcomes) to demonstrate
 
 # The Core Philosophy
 
-Three principles underpin everything in this booklet:
+Three principles underpin everything in this book:
 
 **1. AI as Scaffolding, Not Replacement**
 
@@ -136,7 +146,7 @@ You don't need to revolutionize your entire curriculum overnight. Start with one
 
 # Acknowledgments
 
-This booklet synthesises ideas from multiple sources:
+This book synthesises ideas from multiple sources:
 
 - Prompt engineering techniques adapted for professional education contexts
 - Curtin University program information and learning outcomes
@@ -156,17 +166,17 @@ AI tools evolve quickly. Specific platform names (ChatGPT, Claude, etc.) and cap
 
 ## Context Matters
 
-This booklet was developed for Curtin University's business programs. If you're at a different institution or teaching a different discipline, you'll need to adapt examples, learning outcomes, and institutional references. The frameworks are transferable; the specifics may not be.
+This book was developed for Curtin University's business programs. If you're at a different institution or teaching a different discipline, you'll need to adapt examples, learning outcomes, and institutional references. The frameworks are transferable; the specifics may not be.
 
 ## This Is a Starting Point
 
-Consider this booklet a foundation, not a complete solution. You'll discover what works for your students, your teaching style, and your context through experimentation. The appendices provide templates you can adapt and build upon.
+Consider this book a foundation, not a complete solution. You'll discover what works for your students, your teaching style, and your context through experimentation. The appendices provide templates you can adapt and build upon.
 
 ---
 
 # Getting Help and Providing Feedback
 
-As you implement ideas from this booklet, you may have questions, encounter challenges, or discover innovative applications we didn't consider.
+As you implement ideas from this book, you may have questions, encounter challenges, or discover innovative applications we didn't consider.
 
 **For Curtin staff:**
 - Contact your Faculty Teaching and Learning team for pedagogical support
@@ -189,7 +199,7 @@ If you're worried this is too technical, I promise it's not. If you can write an
 
 If you're concerned about losing control of your teaching, you won't. You'll gain new capabilities while maintaining your pedagogical judgment and professional expertise.
 
-The goal of this booklet is simple: **by the end, you should feel excited and equipped to try one new thing in your next class.**
+The goal of this book is simple: **by the end, you should feel excited and equipped to try one new thing in your next class.**
 
 That's it. One simulation. One new assessment approach. One conversation where a student gets to practice being a business professional in a safe environment before they face real workplace challenges.
 

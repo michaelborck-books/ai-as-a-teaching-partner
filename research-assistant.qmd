@@ -1129,22 +1129,172 @@ AI should enable students to engage with MORE literature, analyse data MORE thor
 
 ---
 
-## Your Action Step
+## Office Document Outputs: From Analysis to Professional Presentation
 
-If you supervise research students or teach research methods:
+### Converting Research Findings into Professional Deliverables
 
-1. **Draft an "AI in Research" policy** for your students (1 page):
-   - What AI use is encouraged
-   - What AI use requires documentation
-   - What AI use is inappropriate
-   - How to cite AI assistance
+Beyond the research analysis itself, postgraduate students must communicate their findings professionally. This is where document generation becomes valuable: taking research analysis and converting it into formatted, professional deliverables ready for thesis submission, conference presentation, or stakeholder communication.
 
-2. **Test it yourself:** Use AI appropriately in your own research. Experience its value and limitations firsthand.
+### Three Common Scenarios
 
-3. **Have the conversation:** In your next supervision meeting, explicitly discuss AI use. Ask your students: "Have you tried using AI for your research? How? What worked? What didn't?"
+#### **Scenario 1: Research Findings → Word Document Report**
 
-Don't assume students will figure this out on their own. Teach it explicitly.
+After qualitative analysis (like the thematic analysis workflow in Chapter 14), students can generate a professional research report:
+
+```
+Based on the thematic analysis above, create a Word document research
+report (3000-4000 words) that includes:
+
+1. **Executive Summary** (200-300 words) - What this research found and why it matters
+2. **Introduction & Context** - The research question and why it matters
+3. **Methodology** (500 words) - How data was collected and analyzed
+4. **Findings** (1500-2000 words) - Themes with supporting quotes
+5. **Discussion** (800-1000 words) - What findings mean for the research area
+6. **Limitations** (300 words) - What this analysis can and cannot tell us
+7. **References** - All sources cited
+
+Format as a professional research document with:
+- Proper heading hierarchy
+- Numbered sections
+- Professional spacing and margins
+- Ready for thesis chapter or journal submission
+```
+
+**Teaching point:** The document format forces organizational clarity. Students can't hide weak analysis under poor presentation. Professional formatting reveals whether thinking is rigorous.
+
+#### **Scenario 2: Data Analysis → PowerPoint Presentation**
+
+For research students presenting findings (thesis defense, research seminar, conference):
+
+```
+I've completed analysis of [research data: survey results, statistical
+analysis, case study findings]. Create a PowerPoint presentation (15-20
+slides) suitable for [context: thesis defense / research seminar /
+conference presentation] that includes:
+
+1. Title slide with research question
+2. Context & literature (why this research matters)
+3. Methodology (how the research was conducted)
+4. Key findings (one major finding per slide, with supporting evidence)
+5. Visual representations (charts, tables, diagrams)
+6. Discussion of implications
+7. Limitations and future research
+8. Conclusion and recommendations
+
+Include:
+- Speaker notes with detailed explanations
+- Data visualizations where appropriate
+- Professional academic design
+- Clear takeaways for each slide
+```
+
+**Teaching point:** Research isn't complete until it's communicated. This scenario teaches that analysis and presentation are interconnected. Weak presentation reveals weak analysis.
+
+#### **Scenario 3: Multiple Data Sources → Integrated Report**
+
+For mixed-method research combining qualitative and quantitative data:
+
+```
+I've completed both quantitative analysis (survey data, N=200) and
+qualitative analysis (interviews, N=15). Create an integrated research
+report (4000-5000 words) that:
+
+1. Presents quantitative findings with supporting charts/tables
+2. Presents qualitative themes with supporting quotes
+3. Triangulates findings - where do quantitative and qualitative
+   results agree/disagree?
+4. Synthesizes findings into coherent narrative
+5. Discusses implications for theory and practice
+
+Format as a professional research document ready for thesis chapter
+submission, with proper citations and appendices.
+```
+
+**Teaching point:** Mixed-method research requires integration, not just reporting both streams separately. Document generation forces students to think about how quantitative and qualitative findings relate.
+
+### Integration with Chapter 14: "From Conversation to Document"
+
+The new Chapter 14 covers office document generation in depth, including the data analysis → PowerPoint workflow demonstrated above. Research students should reference that chapter for:
+
+- **Step-by-step guidance** on creating presentations from analysis
+- **Discipline-specific examples** showing how research findings are presented across business fields
+- **Tool-specific approaches** (ChatGPT artifacts, Claude canvas, Google Docs integration)
+- **Quality control principles** for reviewing AI-generated documents
+
+**Key difference:** Research context requires higher standards for accuracy and rigor. When converting research findings to documents:
+
+1. **Verify every claim** - Research documents require accuracy above typical business documents
+2. **Review quotes and citations** - Ensure quotes are accurately extracted from source material
+3. **Check calculations** - Especially for statistical findings, verify numbers are correct
+4. **Maintain methodological rigor** - Ensure research limitations and caveats are clearly stated
+5. **Preserve academic tone** - Research documents maintain formal academic voice
+
+### Assessment Considerations
+
+When students use document generation for research deliverables:
+
+**What to assess:**
+- Is the analysis accurately represented? ✓
+- Are limitations clearly acknowledged? ✓
+- Is the presentation organized logically? ✓
+- Are sources properly cited? ✓
+- Does the document reflect genuine research understanding? ✓
+
+**What NOT to assess:**
+- Whether the document looks professional (that's what AI helps with)
+- Formatting perfection (the tool handles that)
+- Time spent on presentation (students can focus on analysis)
+
+**Grading approach:**
+```
+Research Analysis (70%):
+- Quality of research thinking
+- Rigor of methodology
+- Depth of analysis
+- Critical engagement with findings
+
+Research Communication (30%):
+- Clarity of presentation (how well findings are explained)
+- Organization (logical flow, clear structure)
+- Professional appearance (formatting quality)
+- Citation accuracy
+
+Note: AI assists with communication, not analysis. Grades reflect
+research quality, which is the actual learning objective.
+```
+
+### Boundary: When NOT to Generate Research Documents
+
+**Avoid generating:**
+- Literature reviews (requires deep engagement with sources)
+- Research proposals (requires original thinking about what to study)
+- Theoretical frameworks (requires original conceptualization)
+- Conclusions that weren't genuinely discovered in the data
+- Interpretations that the student doesn't genuinely understand
+
+**The principle:** AI generates the *presentation* of research, not the research itself. If AI is doing the research thinking, you have a problem.
 
 ---
 
-**Next Chapter Preview:** In the next chapter, we explore how to make static teaching content interactive—transforming traditional lectures, readings, and materials into dynamic, AI-enhanced learning experiences. This includes live demonstrations, interactive scenarios, and engaging activities that maintain the human connection while leveraging AI's strengths.
+## Your Action Step
+
+If you supervise research students:
+
+1. **Review Chapter 14** on office document generation to understand the workflow
+2. **Decide which research deliverables** students can generate with AI:
+   - Research reports ✓ (presentation of genuine analysis)
+   - Presentation slides ✓ (visualization of genuine findings)
+   - Literature summaries ✗ (requires genuine deep reading)
+   - Thesis chapters ✓ (if analysis is genuine, presentation can be AI-generated)
+3. **Make it explicit** in your research guidelines which documents can be AI-generated and which cannot
+4. **Verify authenticity** by asking students about their analysis and thinking, not just reviewing the document
+
+---
+
+## Next Chapter Preview
+
+In the next chapter, we explore how to make static teaching content interactive—transforming traditional lectures, readings, and materials into dynamic, AI-enhanced learning experiences. This includes live demonstrations, interactive scenarios, and engaging activities that maintain the human connection while leveraging AI's strengths.
+
+---
+
+**Cross-Reference:** For detailed guidance on creating Word documents, PowerPoint presentations, and other office suite outputs from AI conversations, see **Chapter 14: From Conversation to Document**. That chapter provides step-by-step workflows and discipline-specific examples for all the document generation scenarios mentioned above.

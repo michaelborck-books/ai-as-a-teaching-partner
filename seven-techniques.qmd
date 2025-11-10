@@ -897,6 +897,200 @@ Most business teaching presents one "correct" approach. But professional practic
 
 ---
 
+## Technique 8 (Extended): Prompt Chaining - Combining Techniques Into Multi-Step Workflows
+
+All seven techniques above are powerful on their own. But the **real sophistication** comes when you chain them together—creating a multi-step workflow where each step builds on the previous one.
+
+This is where prompt chaining becomes a **meta-technique**: a way to orchestrate the other techniques into complex, professional-grade learning experiences.
+
+### What Is Prompt Chaining in Teaching?
+
+Prompt chaining is guiding students through a **sequence of prompts** where each one builds on the previous result. The student doesn't just use one technique once—they use multiple techniques in sequence to work through a realistic professional challenge.
+
+**The educator directs the sequence.** You're like a curriculum designer orchestrating a learning journey: "First, reverse-prompt the problem. Then pros-and-cons the solutions. Then role-play explaining the decision."
+
+### Simple Example: From Analysis to Action
+
+Instead of: "Use Pros and Cons to evaluate supply chain strategies"
+
+Try: A **chain** where students:
+1. **Reverse Prompt** to scope all the constraints (cost, delivery, reliability, sustainability)
+2. **Pros and Cons** to evaluate three different strategies against those constraints
+3. **Chain of Thought** to walk through implementation of the chosen strategy step-by-step
+4. **Role Play** to practice presenting the decision to skeptical stakeholders
+5. **Reflection prompt** to debrief what they learned
+
+**Same techniques, but sequenced into a realistic professional process.**
+
+### Teaching Application by Discipline
+
+::: {.panel-tabset}
+
+## Business & Marketing
+**Marketing Strategy Workflow:**
+1. **Reverse Prompt:** "What information do you need to develop a market entry strategy?"
+2. **Pros and Cons:** "Evaluate three market entry approaches (partnership, acquisition, organic growth)"
+3. **Role Play:** "Present your recommendation to the board and handle their objections"
+4. **Reflection:** "What would you change if you had to implement this?"
+
+## Management
+**Change Management Workflow:**
+1. **Reverse Prompt:** "What factors must be considered in organizational change?"
+2. **Expert Panel:** "Consult three perspectives: HR, Operations, Finance"
+3. **Pros and Cons:** "Evaluate change approaches based on stakeholder readiness"
+4. **Role Play:** "Communicate the change to resistant employees"
+5. **Reflection:** "What resistance did you encounter? How would you respond?"
+
+## Human Resources
+**Policy Development Workflow:**
+1. **Reverse Prompt:** "What legal, ethical, and operational requirements must we consider?"
+2. **Pros and Cons:** "Evaluate policy approaches for fairness and feasibility"
+3. **Debating:** "Have different stakeholders debate the policy implications"
+4. **Role Play:** "Explain the policy to employees and answer their concerns"
+5. **Reflection:** "Where is the policy strongest? Weakest? How would you refine it?"
+
+## Supply Chain & Logistics
+**Supply Chain Resilience Workflow:**
+1. **Reverse Prompt:** "What risks could disrupt our supply chain?"
+2. **Pros and Cons:** "Evaluate resilience strategies (diversification, inventory, redundancy)"
+3. **Chain of Thought:** "Walk through how each strategy addresses different risk scenarios"
+4. **Role Play:** "Present your resilience plan to executives; handle budget objections"
+5. **Reflection:** "What trade-offs are inherent in each strategy?"
+
+## Information Systems
+**System Implementation Workflow:**
+1. **Reverse Prompt:** "What requirements must the system meet? What constraints exist?"
+2. **Pros and Cons:** "Evaluate implementation approaches (big bang, phased, hybrid)"
+3. **Expert Panel:** "Consult IT, Business, Finance perspectives on each approach"
+4. **Role Play:** "Explain the implementation timeline to stakeholders concerned about disruption"
+5. **Reflection:** "What could go wrong? How would you mitigate those risks?"
+
+## Accounting & Finance
+**Audit Planning Workflow:**
+1. **Reverse Prompt:** "What audit objectives and risks must we address?"
+2. **Chain of Thought:** "Walk through audit procedures for each major account"
+3. **Pros and Cons:** "Evaluate sample size and testing approaches"
+4. **Role Play:** "Present audit findings to management; defend your conclusions"
+5. **Reflection:** "Where was your judgment critical? How did you justify it?"
+
+## Economics
+**Economic Policy Workflow:**
+1. **Reverse Prompt:** "What economic outcomes are we trying to achieve? What constraints exist?"
+2. **Pros and Cons:** "Evaluate policy interventions (taxation, regulation, incentives)"
+3. **Debating:** "Have economists debate the trade-offs and unintended consequences"
+4. **Role Play:** "Present policy recommendation to government; address political objections"
+5. **Reflection:** "What assumptions did your analysis depend on? How would different assumptions change conclusions?"
+
+:::
+
+### Why Chaining Is Powerful
+
+**Single technique:** "Use Pros and Cons to evaluate strategies"
+- Student gets practice with one skill
+- Output is an analysis
+
+**Chained sequence:** The same technique embedded in a multi-step workflow
+- Student practices techniques in **realistic sequence**
+- Student sees how **one decision flows into the next**
+- Student experiences **professional decision-making** (not just academic analysis)
+- Output is a **defensible professional recommendation** with supporting work
+
+The chain transforms isolated skill practice into authentic professional simulation.
+
+### How to Design a Prompt Chain for Your Teaching
+
+**Step 1: Identify the Real Professional Process**
+What does a practitioner actually do in your discipline?
+- HR: Scope problem → Consult stakeholders → Evaluate options → Draft policy → Communicate → Refine
+- Supply Chain: Identify risks → Evaluate responses → Model impacts → Present strategy → Implement
+- Finance: Identify question → Gather data → Analyze alternatives → Justify decision → Present findings
+
+**Step 2: Map This to Techniques**
+Which techniques align with each phase?
+- Scoping → Reverse Prompt
+- Exploring options → Pros and Cons
+- Understanding implementation → Chain of Thought
+- Handling resistance → Role Play
+- Synthesis → Reflection
+
+**Step 3: Create the Student Sequence**
+Don't ask students to do all five at once. Guide them step by step:
+
+```
+STEP 1 (Reverse Prompt): "What factors must we consider in choosing a supplier?"
+[Student lists factors, you provide feedback]
+
+STEP 2 (Pros and Cons): "Good list. Now evaluate three suppliers against these factors."
+[Student analyzes, you refine together]
+
+STEP 3 (Chain of Thought): "Now walk me through implementation. What happens in weeks 1-4? 5-8? What risks emerge?"
+[Student thinks through implementation]
+
+STEP 4 (Role Play): "Now pitch this supplier choice to the procurement committee. Address their cost concerns."
+[Student practices presenting]
+
+STEP 5 (Reflection): "What was difficult? What would you do differently next time?"
+[Student reflects on learning]
+```
+
+### Assessment Through Chained Workflows
+
+Instead of individual assignments, students complete **workflow chains** as summative assessments.
+
+**Example: HR Policy Development (worth 50% of grade)**
+
+```
+Students work through this 5-week chain:
+
+WEEK 1: Reverse Prompt to scope the policy problem
+Deliverable: Requirements document (500 words)
+
+WEEK 2: Pros and Cons to evaluate policy approaches
+Deliverable: Comparative analysis of three approaches (1000 words)
+
+WEEK 3: Draft policy using Chain of Thought
+Deliverable: Full policy document with implementation notes (1500 words)
+
+WEEK 4: Role Play explaining policy to stakeholders
+Deliverable: Transcript of three role-play scenarios with reflection (800 words)
+
+WEEK 5: Synthesis and reflection
+Deliverable: 1000-word reflection on your policy design process
+- What worked well?
+- What surprised you?
+- How would you refine the policy?
+- What would you do differently next time?
+- What did you learn about policy development?
+
+Total: ~5000 words of work that mirrors the actual professional process
+Assessment: Evaluation at each step ensures quality throughout
+```
+
+This is **not** assigning students to "write a policy." This is **walking them through the thinking process** professionals actually use, and assessing their work at each stage.
+
+### When to Use Prompt Chaining
+
+Use chaining when you want students to:
+- Experience **realistic professional workflows**
+- **Build complex skills incrementally** (not all at once)
+- See how **early decisions affect later choices**
+- Practice **managing uncertainty and iteration**
+- Develop **professional judgment** (not just knowledge)
+- Create **substantial, sophisticated work products**
+
+### The Magic Happens in the Chain
+
+Single prompts are useful. But the **real teaching power** is in the sequence.
+
+When you chain techniques together:
+- The student's learning mirrors **actual professional practice**
+- You can see their **thinking process** at each step
+- You can **intervene and adjust** based on their work
+- The final product is something they **actually built**, not just received from AI
+- They develop **professional confidence** through realistic practice
+
+---
+
 ## How to Choose Which Technique to Use
 
 Match the technique to the learning objective:
@@ -923,6 +1117,24 @@ The real power comes from combining these techniques. For example:
 5. Student uses **Debating** to analyse potential criticisms from different stakeholders
 
 This sequence takes the student through analysis, decision-making, communication, and critical reflection—a complete professional process.
+
+---
+
+## Working with Long Conversations: Managing Context
+
+As you start combining techniques and having longer conversations with students using AI, you might create substantial interactions: multiple techniques applied sequentially, or extended back-and-forths between student and AI as they refine their thinking.
+
+When conversations become lengthy (15+ prompts), you might notice that:
+- AI becomes less consistent in tracking earlier points
+- Outputs become less focused as the scope expands
+- Students ask for multiple things at once, diluting quality
+
+**This is normal, and it's manageable.** See **Chapter 6 (Managing LLM Context)** for detailed strategies on:
+- Breaking multi-technique sequences into focused steps
+- Managing conversation length effectively
+- Structuring complex learning activities for quality outputs
+
+For now: Each technique works well on its own or in short sequences. As you layer more techniques together, context management becomes your quality control tool.
 
 ---
 

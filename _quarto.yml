@@ -9,8 +9,10 @@ book:
     - index.qmd
     - introduction.qmd
     - getting-started.qmd
+    - discovering-your-strategy.qmd
     - first-steps.qmd
     - seven-techniques.qmd
+    - managing-context.qmd
     - flight-simulator.qmd
     - critique-toolkit.qmd
     - ethics-integrity.qmd
@@ -19,7 +21,9 @@ book:
     - virtual-company.qmd
     - unit-design.qmd
     - static-to-interactive.qmd
+    - from-conversation-to-document.qmd
     - research-assistant.qmd
+    - advanced-frontiers.qmd
     - conclusion.qmd
   appendices:
     - prompt-library.qmd

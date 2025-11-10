@@ -21,6 +21,170 @@ The prompts are organised by purpose:
 
 ---
 
+## Meta-Framework: Using CRAFT to Customize or Create Your Own Prompts
+
+The prompts in this library are ready to use. But the real power comes from **customizing them using the CRAFT framework** (from Chapter 2).
+
+If you want to:
+- Adapt a prompt for your specific context
+- Create a variation for your discipline
+- Build a completely new prompt
+- Make a prompt work exactly the way you need
+
+...use CRAFT to structure your thinking:
+
+### Quick CRAFT Reminder
+
+| C | **Context** | "This is for my second-year unit on..." |
+| R | **Role** | "You are an experienced [professional]..." |
+| A | **Action** | "Create/Analyse/Generate..." |
+| F | **Format** | "500 words with 4 discussion questions..." |
+| T | **Tone/Target** | "Professional and suitable for..." |
+
+### How to Use CRAFT with These Prompts
+
+**Example 1: Customizing an Existing Prompt**
+
+The Case Study Generator (Section 1.1) shows an HR version. To adapt it for your discipline using CRAFT:
+
+```
+ORIGINAL (HR):
+"You are an expert lecturer in Human Resource Management...
+Create a realistic case study scenario for my [undergraduate] students
+that focuses on [performance management]..."
+
+YOUR VERSION (Supply Chain, using CRAFT):
+C: This is for my second-year supply chain unit where students have studied
+   risk management and vendor relationships
+R: You are an experienced supply chain manager
+A: Create a realistic case study scenario focusing on supplier disruption
+F: 400-500 words, Australian context, 3-4 discussion questions
+T: Appropriate for students new to supply chain complexity
+
+Updated prompt:
+"You are an experienced supply chain manager at a major Australian manufacturer.
+
+Create a realistic case study scenario for my undergraduate students focusing on
+[supplier disruption during supply chain crisis].
+
+Requirements:
+- The scenario should be 400-500 words
+- Set in an Australian manufacturing context
+- Include enough ambiguity that students must analyse competing priorities
+  (cost vs. reliability vs. sustainability)
+- Incorporate at least two supply chain management principles:
+  [e.g., just-in-time inventory, vendor diversification, risk mitigation]
+- End with 3-4 discussion questions requiring critical thinking about
+  supply chain strategy and resilience
+
+The case should be challenging but appropriate for students who have covered
+[list topics: e.g., demand forecasting, supplier relationship management,
+supply chain risk assessment].
+
+Begin."
+```
+
+Notice: The structure is identical, but every element is adapted to your discipline using CRAFT.
+
+**Example 2: Creating a New Prompt**
+
+You want a prompt that doesn't exist in this library. Use CRAFT:
+
+```
+What I need: "A prompt that helps students analyse a real supply chain problem"
+
+CRAFT structure:
+C: This is for my applied supply chain unit where students work with real
+   companies on live projects
+R: You are a supply chain consultant advising on optimization
+A: Analyse this supply chain problem and recommend solutions
+F: 2000-word analysis with data tables, visualizations, and implementation plan
+T: Professional consultant-level analysis
+
+Your new prompt:
+"You are a supply chain consultant with 15+ years of experience optimizing
+global supply chains.
+
+I'm working with a supply chain team on a real optimization challenge.
+They've provided raw data on their current network.
+
+Please provide a comprehensive analysis including:
+1. Current state assessment (cost, delivery time, resilience)
+2. Comparison of three optimization scenarios
+3. Implementation roadmap with timeline
+4. Key risks and mitigation strategies
+5. Expected outcomes and metrics
+
+Format your analysis as a professional report suitable for executive presentation.
+Use tables and data where appropriate.
+
+Here is the supply chain data:
+[paste data]
+
+Begin."
+```
+
+Again, CRAFT structure ensures your prompt is complete and specific.
+
+### Why This Matters
+
+**Without CRAFT thinking:**
+- Your prompt might be vague
+- AI outputs might miss your context
+- You might need multiple back-and-forths to get what you want
+- Result: generic "AI sameness"
+
+**With CRAFT structure:**
+- Your prompt is clear and specific
+- AI understands your exact context
+- Results are often usable on the first try
+- If you need to refine, you know exactly what element to adjust
+- Result: content tailored to YOUR teaching
+
+### Customization Patterns
+
+**Pattern 1: Changing the Role**
+Keep everything the same, change who the AI is:
+```
+ORIGINAL: "You are an expert lecturer in HR..."
+YOUR VERSION: "You are an experienced supply chain manager..."
+```
+
+**Pattern 2: Changing the Audience**
+Keep everything the same, adjust for your students:
+```
+ORIGINAL: "...for my undergraduate students..."
+YOUR VERSION: "...for my postgraduate students with 5+ years experience..."
+```
+
+**Pattern 3: Changing the Discipline**
+Adapt Context, Role, and Action for your field:
+```
+ORIGINAL (HR): Create a performance management scenario
+YOUR VERSION (Finance): Create an audit finding communication scenario
+```
+
+**Pattern 4: Changing the Scope**
+Adjust Format and Tone:
+```
+ORIGINAL: "500 words with discussion questions"
+YOUR VERSION: "2000-word detailed analysis with tables and visualizations"
+```
+
+### Pro Tip: Combine CRAFT with Follow-Up Conversations
+
+Remember from Chapter 2: **CRAFT is a starting point, not the endpoint.**
+
+After you send your CRAFT-structured prompt:
+1. Review the first output
+2. Follow up with refinements: "Good, but make it more [specific]"
+3. Adapt based on what you see: "I like that approach, now add..."
+4. Iterate until it's exactly what you need
+
+The library gives you starting points. CRAFT helps you customize them. And follow-up conversations perfect them.
+
+---
+
 ## Section 1: Content Generation Prompts
 
 **Note:** The examples below show HR-specific prompts. For discipline-specific versions (Marketing, Accounting, Management, etc.), see the Cross-Discipline Adaptations section at the end of this appendix.

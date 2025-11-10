@@ -484,6 +484,120 @@ Before sending any prompt, ask yourself:
 
 ---
 
+## Context Management for Advanced Prompting
+
+### Why Context Management Matters for Advanced Prompts
+
+As your prompting becomes more sophisticated—combining multiple techniques, working through longer sequences, managing complex educational scenarios—the quality of context management becomes critical.
+
+**Advanced prompts demand focused conversations:**
+- Sophisticated personas require consistent framing across exchanges
+- Complex discipline-specific scenarios need clear boundaries
+- Multi-step educational sequences benefit from structured progression
+- Quality control over professional materials demands careful output management
+
+### Key Strategies for Advanced Prompts
+
+**1. Structure Complex Tasks as Multi-Step Sequences**
+
+Instead of asking for everything at once, break advanced prompts into focused steps:
+
+```
+PROMPT 1: "Help me structure a capstone project on [topic]"
+[Get: high-level plan]
+
+PROMPT 2: "Using that structure, define learning outcomes"
+[Get: aligned outcomes]
+
+PROMPT 3: "Now design the assessment rubric"
+[Get: quality rubric focused on outcomes]
+
+PROMPT 4: "Create student instructions based on the rubric"
+[Get: clear, actionable instructions]
+```
+
+Each prompt gets full attention. Quality increases because output tokens aren't split among competing demands.
+
+**2. Maintain Context Across Conversations**
+
+When you need to continue advanced work in a new conversation:
+
+```
+I'm continuing work on [project name]. Here's what we've already designed:
+- [Element 1]: [brief description]
+- [Element 2]: [brief description]
+
+Here's what we've decided about [important constraint]:
+[key decision or principle]
+
+Now let's design [next element]. Keep consistency with [previous element].
+```
+
+This prevents hallucination and maintains continuity in sophisticated work.
+
+**3. Use Output Constraints Strategically**
+
+For advanced prompts requesting multiple components, specify allocation:
+
+```
+I need a complete course design including three components:
+
+1. Learning outcomes (150–200 words total) - prioritize clarity and measurability
+2. Assessment strategy (200–250 words) - must align with outcomes
+3. Facilitator notes (250–300 words) - include teaching tips and common student challenges
+
+Keep total output around 600–750 words. Prioritize depth of thought over comprehensive coverage.
+```
+
+This prevents shallow outputs and ensures each component receives adequate focus.
+
+**4. Archive and Reference Advanced Work**
+
+For complex materials that take multiple conversations to develop:
+
+```
+I've developed course materials across 3 conversations. Here's the complete
+resource library I've built:
+
+**Session 1 outputs:**
+- Course outline (created [date])
+- Learning outcomes framework (created [date])
+
+**Session 2 outputs:**
+- Assessment rubric (created [date])
+- Unit 1 detailed design (created [date])
+
+I'm continuing with Unit 2. Keep consistency with the patterns established
+in Unit 1. Here's Unit 1 for reference: [paste]
+
+Now design Unit 2 following the same structure and pedagogical approach.
+```
+
+This maintains coherence across extended development work.
+
+### For Advanced Teaching Sequences
+
+When designing complex learning sequences (like the prompt chaining in Chapter 8 or multi-week simulations), context management keeps quality consistent:
+
+**Break it into phases:**
+1. **Phase 1 (Conversation 1):** Design the learning arc and sequence
+2. **Phase 2 (Conversation 2):** Develop Phase 1 components in detail
+3. **Phase 3 (Conversation 3):** Develop Phase 2 components, referring back to Phase 1
+4. **Integration (Conversation 4):** Ensure all phases connect coherently
+
+This modular approach produces more coherent educational experiences than trying to design everything at once.
+
+### Cross-Reference
+
+For comprehensive context management strategies, see **Chapter 6: Managing LLM Context**. That chapter covers:
+- Breaking complex tasks into focused steps
+- Managing conversation length effectively
+- Explicit context specification
+- Batching similar tasks
+- Summarizing and handing off for extended projects
+
+---
+
 ## Integration with Main Chapters
 
 ### Chapter Cross-Reference

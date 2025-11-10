@@ -13,21 +13,25 @@ This Quarto book provides practical, evidence-based approaches to using generati
 
 ## Features
 
-### 15 Main Chapters
+### 18 Main Chapters
 1. **Introduction** - The problem we're solving and core principles
-2. **Getting Started** - First steps for implementing AI in your teaching
-3. **First Steps** - Week-by-week implementation guidance
-4. **Seven Essential Techniques** - Core prompt engineering techniques
-5. **Flight Simulator** - Creating realistic practice scenarios
-6. **Self-Assessment** - Building student metacognition with AI
-7. **Critique Toolkit** - Teaching students to evaluate AI critically
-8. **Ethics & Integrity** - Transparent approaches to AI use
-9. **Process Assessment** - Assessing thinking, not just outputs
-10. **Virtual Company** - Sustained simulation learning
-11. **Unit Design** - Integrating AI across full units
-12. **Research Assistant** - AI for postgraduate research
-13. **Static to Interactive** - Converting existing content to AI-enhanced learning
-14. **Conclusion** - Bringing it all together
+2. **Getting Started** - CRAFT framework for structured prompting
+3. **Discovering Your Teaching Strategy** - Using AI to discover your personal AI strategy
+4. **First Steps** - Week-by-week implementation guidance
+5. **Seven Essential Techniques** - Core prompt engineering techniques (including prompt chaining)
+6. **Managing LLM Context** - Working smarter with AI conversations and managing long-form interactions
+7. **Flight Simulator** - Creating realistic practice scenarios
+8. **Critique Toolkit** - Teaching students to evaluate AI critically
+9. **Ethics, Data Governance & Integrity** - Transparent approaches to AI use with data protection
+10. **Process Assessment** - Assessing thinking, not just outputs
+11. **Self-Assessment** - Building student metacognition with AI
+12. **Virtual Company** - Sustained simulation learning
+13. **Unit Design** - Integrating AI across full units
+14. **Static to Interactive** - Converting existing content to AI-enhanced learning
+15. **From Conversation to Document** - Creating professional deliverables (Word, PowerPoint, Excel) from AI conversations
+16. **Research Assistant** - AI for postgraduate research
+17. **Advanced Frontiers** - Agents, automation, RAG, emerging capabilities
+18. **Conclusion** - Bringing it all together
 
 ### 4 Appendices
 - **Prompt Library** - Ready-to-use prompts with cross-discipline adaptations
@@ -184,14 +188,14 @@ Use Appendix B (Workshop Guide) for colleague training that:
 1. Update `_quarto.yml` title to include your discipline
 2. In each chapter, emphasize your discipline's tabs when creating examples
 3. Add discipline-specific learning outcomes to Chapter 1
-4. Customize Chapter 11 (Unit Design) with your program's structure
+4. Customize Chapter 13 (Unit Design) with your program's structure
 5. Update Appendix C with your institution's alignment
 
 ### For a Different Institution
 
 1. Search for "Curtin" and replace with your institution name
 2. Update Appendix C learning outcomes to match your program
-3. Modify Chapter 3 implementation timeline if needed
+3. Modify Chapter 4 (First Steps) implementation timeline if needed
 4. Update any institutional policy references
 5. Adjust examples to match your local context
 
@@ -209,15 +213,15 @@ Appendix D (Advanced Prompt Engineering) provides techniques for:
 The book develops three levels of AI competency:
 
 **Level 1: Basic Use**
-- Chapters 2-3 teach using AI to practice and explore
+- Chapters 2-5 teach using AI to practice and explore
 - Students use simple prompts with basic feedback loops
 
 **Level 2: Strategic Use**
-- Chapters 4-7 teach prompting techniques and critical evaluation
+- Chapters 6-9 teach prompting techniques and critical evaluation
 - Students craft sophisticated prompts and evaluate outputs
 
 **Level 3: Professional Integration**
-- Chapters 8-13 show how professionals integrate AI into work
+- Chapters 10-17 show how professionals integrate AI into work
 - Students apply AI responsibly in authentic scenarios
 
 ## Implementation Timeline
@@ -236,9 +240,9 @@ The book develops three levels of AI competency:
 - Refine approach based on results
 
 ### Month 2-3: Integration
-- Implement across a unit (Chapter 11)
+- Implement across a unit (Chapter 13)
 - Develop shared resources with colleagues
-- Address academic integrity questions (Chapter 8)
+- Address academic integrity questions (Chapter 9)
 
 ### Ongoing
 - Scale to more units
@@ -272,16 +276,16 @@ All prompts can be adapted to your specific context—simply adjust the discipli
 ### Common Questions Addressed
 
 **"Will students just use the AI output without thinking?"**
-→ See Chapter 9 on process-based assessment and Chapter 5 on scaffold design
+→ See Chapter 10 on process-based assessment and Chapter 7 on flight simulator design
 
 **"How do I address academic integrity concerns?"**
-→ See Chapter 8 on transparent approaches and Appendix C on institutional alignment
+→ See Chapter 9 on transparent approaches and Appendix C on institutional alignment
 
 **"How do I start small?"**
-→ See Chapter 2 (Getting Started) and Chapter 3 (First Steps)
+→ See Chapter 2 (Getting Started) and Chapter 4 (First Steps)
 
 **"How is this different from just letting students use ChatGPT?"**
-→ See Chapter 1 on Flight Simulator learning and Chapter 7 on critical evaluation
+→ See Chapter 1 on Flight Simulator learning and Chapter 8 on critical evaluation
 
 **"Which examples apply to my discipline?"**
 → Each section has tabbed examples for 8+ business disciplines
@@ -309,16 +313,18 @@ This living document benefits from educator feedback.
 Read in book order (each chapter builds on previous):
 1. Introduction
 2. Getting Started
-3. First Steps
-4. Seven Techniques
-5-13. Each chapter as you plan implementation
-14. Conclusion - synthesis and vision
+3. Discovering Your Teaching Strategy
+4. First Steps
+5. Seven Techniques
+6. Managing LLM Context
+7-16. Each chapter as you plan implementation
+17. Conclusion - synthesis and vision
 
 ### For Program Design
 1. Chapter 1 - Pedagogical foundation
-2. Chapter 11 - Unit design framework
+2. Chapter 13 - Unit design framework
 3. Appendix C - Learning outcome alignment
-4. Chapter 8 - Academic integrity approach
+4. Chapter 9 - Academic integrity approach
 5. Appendix B - Faculty development
 
 ## Technical Requirements

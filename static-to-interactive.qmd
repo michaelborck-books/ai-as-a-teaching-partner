@@ -613,17 +613,459 @@ Include organisational development theory and change management frameworks.
 
 ---
 
-## 🚀 Next Steps
+---
 
-1. **Choose one activity** to transform
-2. **Use basic prompt** to generate HTML
-3. **Test locally** before uploading
-4. **Deploy to Blackboard** 
-5. **Gather student feedback**
-6. **Iterate and improve**
+## 📸 Expanding Beyond HTML: Multimedia & Visual Learning
 
-**Start small, think big, transform gradually.**
+While HTML interactive tools are powerful, they're just the beginning. AI can help transform static content into rich multimedia experiences.
+
+### Converting PDFs to Interactive Learning Guides (Using RAG)
+
+**The Challenge:** Students have 50-page PDF reading. How do you make this interactive without asking them to read differently?
+
+**The Solution:** Use AI with Retrieval-Augmented Generation (RAG) to create interactive guides from documents.
+
+**Tools:**
+- **NotebookLM** - Google's tool for uploading documents and generating interactive guides
+- **Copilot with Notebooks** - MS Copilot with document integration
+- **Custom RAG workflows** - More advanced but fully customizable
+
+**What You Can Generate:**
+1. **Interactive study guides** with key concepts and discussion questions
+2. **Quiz generators** - AI creates questions from the PDF
+3. **Concept maps** - Visual relationship between ideas
+4. **Flashcard decks** - Auto-generated from document content
+5. **Lecture summaries** - AI extracts and summarizes key points
+6. **Discussion prompts** - Higher-order thinking questions
+
+**Practical Example:**
+```
+Upload: Your 30-page textbook chapter to NotebookLM
+Ask: "Generate 20 multiple-choice questions at the undergraduate level"
+Result: Ready-to-use quiz in minutes
+
+Then ask: "Create a concept map showing relationships between these terms..."
+Result: Visual knowledge structure for students
+```
+
+### Generating Visual Content for Curriculum
+
+**Why:** Concepts are often easier to understand visually. AI can create illustrations, diagrams, and infographics instantly.
+
+**What AI Can Generate:**
+- **Flowcharts & process diagrams** - Visualize workflows and procedures
+- **Concept diagrams** - Show relationships between ideas
+- **Infographics** - Convert statistics into visual stories
+- **Business scenario illustrations** - Visual context for case studies
+- **Timeline graphics** - Historical or project progression visualization
+
+**Practical Applications by Discipline:**
+
+**Marketing Example:**
+```
+Prompt: "Create an infographic showing the customer journey for a SaaS product,
+including awareness, consideration, purchase, and retention stages."
+
+Result: Professional infographic showing funnel with key metrics and touchpoints
+```
+
+**Supply Chain Example:**
+```
+Prompt: "Create a flowchart showing a supply chain network with suppliers,
+manufacturing, distribution centers, and retail, highlighting critical paths."
+
+Result: Professional diagram showing complexity and dependencies
+```
+
+**Finance Example:**
+```
+Prompt: "Generate a visual diagram showing how financial ratios interconnect
+(liquidity, profitability, leverage, efficiency)."
+
+Result: Connected diagram showing relationships between ratio categories
+```
+
+### Using AI for Video and Audio Content
+
+**Text-to-Video Tools:**
+While AI video generation is still emerging, you can:
+- Generate scripts with AI
+- Use AI voiceover for narration
+- Create video summarization from lectures
+- Extract key moments from longer videos
+
+**Audio Applications:**
+- **Podcast transcription & summarization** - Turn lecture recordings into text guides
+- **AI voiceover** - Generate narration for visual content
+- **Audio quiz prompts** - Create review audio for commute/gym study
+- **Accessibility** - Auto-generate captions for videos
+
+**Practical Workflow:**
+```
+1. Record lecture (video or audio)
+2. Use AI to transcribe and summarize key points
+3. Generate study questions from transcript
+4. Create visual summary infographic
+5. Combine into multimedia learning package
+```
 
 ---
 
-*This chapter bridges the gap between static content and interactive learning experiences, making your teaching materials more engaging and effective across all business disciplines.*
+## 🎮 Building Interactive Learning Objects
+
+Beyond simple HTML conversion, AI can help you build sophisticated interactive tools specifically designed for learning.
+
+### Creating Interactive Quizzes & Assessments
+
+**Better than multiple-choice:** Use AI to generate branching quizzes where the next question depends on the student's previous answer.
+
+**Prompt Template:**
+```
+Create an interactive HTML quiz for [topic] at [level]:
+
+Content:
+[Paste learning material]
+
+Requirements:
+1. 10-15 questions
+2. Branching paths - easier questions if students struggle, harder if they excel
+3. Immediate feedback explaining correct answers
+4. Progress tracking
+5. Final score with learning recommendations
+
+Make it engaging but educationally rigorous.
+```
+
+**Result:** Students get personalized quiz experience; you see detailed performance data.
+
+### Building Flashcard Systems
+
+**Traditional flashcard:** Word ↔ Definition. Effective but basic.
+
+**AI-Enhanced flashcard:** AI generates multiple question formats and memory aids.
+
+**Practical Application with NotebookLM:**
+```
+Upload: Your course readings/lecture notes
+Ask NotebookLM: "Generate flashcard questions covering key concepts"
+Result: Pre-made flashcards with retrieval practice optimization
+
+Then import into Anki or Quizlet for spaced repetition learning
+```
+
+### Creating Interactive Mind Maps & Knowledge Graphs
+
+**What it looks like:** Visual web of concepts where students can click to explore connections and explanations.
+
+**How to create:**
+1. **Describe your topic structure** to AI
+2. **Get a visual diagram** showing relationships
+3. **Add interactive elements** - click a concept to see explanation
+4. **Link to resources** - connect concepts to readings, examples, videos
+
+**Prompt Example:**
+```
+Create an interactive knowledge graph for "Supply Chain Management":
+
+Concepts to include: Procurement, Inventory, Logistics, Demand Planning,
+Supplier Relationships, Risk Management
+
+For each concept:
+1. Brief 1-sentence definition
+2. 3-4 key sub-concepts
+3. Real-world example
+4. Link to next concepts
+
+Format: HTML with click-to-expand nodes showing connected ideas
+```
+
+---
+
+## 🎨 Creative Content Generation & Narrative Transformation
+
+### Comic Strips & Storyboards
+
+**Why:** Complex scenarios are easier to understand as visual narratives.
+
+**How:** AI generates text for comic panels; you add visuals (or use AI image generation).
+
+**Practical Application:**
+
+**Scenario:** Teaching conflict resolution in management
+
+```
+Prompt: "Create a 6-panel comic script showing a conflict between team members,
+the escalation, a turning point intervention by the manager, and resolution.
+Include dialogue and stage directions for each panel."
+
+Result: Ready-to-illustrate comic script
+```
+
+Then:
+- Use AI image generation (DALL-E, Midjourney) for illustrations
+- Add dialogue using AI
+- Create engaging narrative learning experience
+
+### Interactive Scenario Sequences
+
+**Beyond simple branching:** Create rich narrative scenarios that unfold based on student choices.
+
+**Example Structure:**
+
+```
+SCENARIO: You're a new HR manager on your first day...
+
+SCENE 1: You arrive at office
+  - Assistant flags 3 urgent issues
+  - Student chooses which to address first
+
+SCENE 2: First situation unfolds
+  - Student makes decision
+  - Consequences play out
+  - New complications arise
+
+SCENE 3-4: Additional layers of complexity
+  - Stakeholder reactions
+  - Policy constraints
+  - Budget limitations
+```
+
+**Prompt for generating this:**
+```
+Create a complex HR scenario game where students make sequential decisions
+with cascading consequences:
+
+Setup: [Describe initial situation]
+
+Required elements:
+1. 5-6 decision points
+2. Multiple stakeholder perspectives shown
+3. Consequences that compound (early decisions affect later options)
+4. Ethical dilemmas with no perfect answer
+5. Complete playthrough takes 20-30 minutes
+
+Format: HTML game with narrative text, decision buttons, and outcome tracking.
+```
+
+### Infographics & Visual Storytelling
+
+**Transforming data into narrative:**
+
+```
+Before: "The supply chain disruption affected lead times by 45% in Q2"
+After: Visual timeline showing impact progression with icons, key events,
+       stakeholder reactions, and resolution
+```
+
+**Prompt Template:**
+```
+Create an interactive infographic showing [business scenario]:
+
+Data points to visualize:
+[List key numbers/facts]
+
+Story arc:
+1. Starting situation
+2. Key turning points
+3. Impact visualization
+4. Resolution/lessons learned
+
+Include: Timeline, key metrics, decision points, stakeholder perspectives
+
+Make it suitable for teaching [discipline] students about [concept].
+```
+
+---
+
+## 🔧 Advanced Interactive Tools: Building Agents & Automations (Future Capability)
+
+**Looking ahead:** Once you're comfortable with static-to-interactive transformation, you can explore building custom AI agents to automate these processes.
+
+**Examples of What's Possible:**
+
+### Custom Quiz Generator Agent
+Rather than manually creating a quiz prompt each time:
+- Set up an agent that processes course documents
+- Automatically generates quizzes with proper difficulty calibration
+- Distributes to students and collects responses
+- Provides analytics on learning gaps
+
+### Interactive Content Creator Agent
+- Upload your slides/documents
+- Agent extracts key concepts
+- Generates interactive HTML versions
+- Creates supporting flashcards
+- Builds infographics
+- Deploys to LMS automatically
+
+### Student Learning Guide Agent
+- Student uploads their completed assignment
+- Agent generates interactive guide to improve
+- Creates practice scenarios matching their weak areas
+- Suggests resources for concept review
+- Tracks progress toward mastery
+
+**Note:** These agents require more technical setup but dramatically increase your teaching leverage. See Advanced Frontiers chapter for more on agents and automation.
+
+---
+
+## Exporting Conversation Results: From Interactive Back to Document
+
+### When Students Generate Deliverables
+
+A complementary workflow to this chapter's focus on transforming static content to interactive experiences is students using AI to **generate professional documents from their conversations and analyses**.
+
+When students:
+- Complete an interactive simulation and want to document their decisions
+- Have a conversation analyzing a case study and need to produce a report
+- Gather data and want to create a presentation of findings
+- Conduct analysis and need professional documentation
+
+...they can request AI generate the appropriate document format.
+
+### Common Scenarios
+
+#### **Interactive Simulation → Report**
+
+A student completes an interactive business scenario (built using the techniques in this chapter), then wants to document their learning:
+
+```
+I just completed an interactive business simulation where I made strategic
+decisions about [topic]. The simulation walked me through [scenario].
+
+Here's what I decided and why:
+[Student describes their choices and reasoning]
+
+Create a professional business report (1500-2000 words) documenting:
+1. The scenario and decision context
+2. The strategic choices I made
+3. My reasoning for each decision
+4. How those choices affected outcomes
+5. What I learned from the simulation
+
+Format as a professional report suitable for [class submission/portfolio].
+```
+
+#### **Conversation Analysis → Presentation**
+
+A student has an extended conversation with AI analyzing a complex business case, then needs to present findings:
+
+```
+I've had a detailed conversation analyzing [case study]. Here's a summary
+of what we explored:
+[Paste key points from conversation]
+
+Create a PowerPoint presentation (12-15 slides) that presents these findings
+in a way suitable for [class presentation / stakeholder meeting / board review].
+
+Include:
+- Executive summary of the case
+- Key analysis points
+- My strategic recommendations
+- Supporting evidence
+- Visual representations where appropriate
+```
+
+#### **Data Exploration → Technical Report**
+
+A student explores a dataset conversationally with AI, then needs to document findings:
+
+```
+I've explored this dataset with AI analysis, identifying [key patterns].
+The main findings are:
+[List findings with supporting data]
+
+Create a professional data analysis report (2000-3000 words) that:
+1. Describes the dataset and analysis approach
+2. Presents findings with supporting visualizations
+3. Discusses implications for [business context]
+4. Recommends next steps
+
+Format as a technical report suitable for [stakeholder type].
+```
+
+### Integration with Chapter 14: "From Conversation to Document"
+
+The new Chapter 14 ("From Conversation to Document") covers this workflow in comprehensive detail, including:
+
+- **Complete step-by-step guidance** on generating Word documents, PowerPoint presentations, and Excel files from AI conversations
+- **Data analysis → PowerPoint workflow** - the exact workflow of CSV upload → analysis → visualizations → presentation that you may demo
+- **Qualitative analysis → documentation workflow** - audio transcription → thematic analysis → research memo
+- **Discipline-specific examples** across all 8 business fields
+- **Tool-specific approaches** for different AI platforms and export options
+- **Quality control principles** for reviewing AI-generated documents
+
+### Teaching Application
+
+#### **Assessment Strategy When Students Generate Documents**
+
+When students use AI to generate presentations or reports:
+
+**What to assess:**
+- ✓ Quality of analysis/thinking behind the document
+- ✓ Accuracy of data representation
+- ✓ Clarity of communication
+- ✓ Appropriateness of format for audience
+- ✓ Evidence of student judgment and decision-making
+
+**What NOT to assess:**
+- ✗ Formatting perfection (AI handles that)
+- ✗ Time spent on presentation design (focus was analysis)
+- ✗ Writing quality at sentence level (AI assists with writing)
+
+**Grading recommendation:**
+```
+Instead of:
+"Write a 2000-word report analyzing [case study]"
+
+Try:
+"Analyze [case study] with AI's help, then request AI generate a
+professional report of your analysis. Submit:
+1. A summary of your analysis process (500 words)
+2. The generated report
+3. A reflection on what the document shows about your understanding"
+```
+
+This reveals thinking, not just output.
+
+#### **Where This Fits in Your Teaching**
+
+This workflow complements the static-to-interactive work in this chapter:
+
+| Direction | Chapter Focus | Tool Purpose |
+|-----------|---|---|
+| **Static → Interactive** | This Chapter (13) | Engage students *in* learning |
+| **Interactive/Conversation → Document** | Chapter 14 | Students *communicate* their learning |
+
+Both represent the full cycle of AI-enhanced teaching:
+1. Transform static content to interactive experience (Chapter 13)
+2. Students engage with interactive content, have conversations, conduct analysis
+3. Students use AI to generate professional deliverables of their work (Chapter 14)
+4. Students submit documents reflecting genuine learning
+
+---
+
+## 🚀 Next Steps
+
+1. **Start with HTML conversion** - Transform one static document to interactive
+2. **Add multimedia** - Generate visuals or use RAG for interactive guides
+3. **Explore creative formats** - Try comic strips or scenario sequences
+4. **Scale with templates** - Develop reusable prompts for your discipline
+5. **Connect to Chapter 14** - Teach students how to generate documents from their analysis
+6. **Consider automation** - Once confident, explore custom agents (see Advanced Frontiers)
+
+**Start small, think big, transform gradually.**
+
+### Cross-Reference
+
+For comprehensive guidance on having students generate professional documents (Word, PowerPoint, Excel, etc.) from their conversations and analyses, see **Chapter 14: From Conversation to Document**. That chapter provides:
+- Complete workflows for data analysis → presentation
+- Qualitative analysis → research documentation
+- Assessment strategies for document-generating assignments
+- Discipline-specific examples
+
+**Key Principle:** This chapter focuses on practical transformations you can do today with current AI tools. As capabilities evolve, your teaching can evolve with them. The pedagogical principles remain constant even as tools change.
+
+---
+
+*This chapter bridges the gap between static content and interactive learning experiences, making your teaching materials more engaging and effective across all business disciplines. See Chapter 14 to complete the cycle—showing students how to generate professional deliverables from their learning work.*

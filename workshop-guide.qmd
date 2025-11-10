@@ -22,7 +22,7 @@ By the end of this 60-minute session, participants will:
 ### Materials Needed
 - [ ] Laptop with projector
 - [ ] Access to ChatGPT or Claude (have both open in browser tabs)
-- [ ] This booklet (digital copies for participants if possible)
+- [ ] This book (digital copies for participants if possible)
 - [ ] Handout: "Quick Start Guide" (template included below)
 - [ ] Example prompts printed or shared digitally
 - [ ] Whiteboard or flip chart for capturing questions
@@ -303,7 +303,7 @@ Here is the student's response:
 **Q: "What about academic integrity? Won't students just cheat?"**
 
 **A:**
-> "Great question. This booklet includes a whole chapter on this (Chapter 9). Short answer: We make AI use transparent and expected, then we grade students on their critical use of AI, not their avoidance of it. We teach them to *critique* AI outputs and improve on them. That's harder than avoiding AI—and it's a professional skill they'll need."
+> "Great question. This book includes a whole chapter on this (Chapter 9). Short answer: We make AI use transparent and expected, then we grade students on their critical use of AI, not their avoidance of it. We teach them to *critique* AI outputs and improve on them. That's harder than avoiding AI—and it's a professional skill they'll need."
 
 **Q: "I'm not technical. Is this too complex for me?"**
 
@@ -326,7 +326,7 @@ Here is the student's response:
 
 **Provide participants with:**
 
-1. **Digital copy of this booklet** or link to access it
+1. **Digital copy of this book** or link to access it
 
 2. **The Quick Start Guide handout** (one-page reference)
 
@@ -437,7 +437,7 @@ identification, (2) Theory application, (3) Practical recommendations.
 Contact: [Your email]
 
 **Want to learn more?**
-Read the full booklet: [Link or location]
+Read the full book: [Link or location]
 
 ---
 
@@ -448,7 +448,7 @@ Read the full booklet: [Link or location]
 ### Within 1 Week:
 - [ ] Send follow-up email with:
   - Thank you for attending
-  - Link to the booklet
+  - Link to the book
   - Quick Start Guide (digital version)
   - Invitation to share what they try
   - Reminder of your availability for support
