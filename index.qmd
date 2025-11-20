@@ -90,19 +90,19 @@ Examples include economic modelling, policy analysis, market equilibrium scenari
 
 This book follows a carefully designed progression from foundational concepts to advanced excellence:
 
-#### 🏗️ **Foundation Pathway** (Chapters 1-6)
+#### **Foundation Pathway** (Chapters 1-6)
 **For educators:** Build pedagogical understanding and basic AI skills  
 **For students:** Develop AI literacy and foundational capabilities
 
-#### 🚀 **Core Applications Pathway** (Chapters 7-18)
+#### **Core Applications Pathway** (Chapters 7-18)
 **For educators:** Practical teaching implementations across disciplines  
 **For students:** Applied learning and professional skill development
 
-#### ⭐ **Implementation Excellence Pathway** (Chapters 19-22)
+#### **Implementation Excellence Pathway** (Chapters 19-22)
 **For educators:** Advanced assessment, accessibility, and global adaptation  
 **For students:** Meta-skills development and inclusive learning practices
 
-#### 📚 **Resources Pathway** (Appendices A-E)
+#### **Resources Pathway** (Appendices A-E)
 **For both audiences:** Ready-to-use materials and references
 
 ## Recommended Reading Pathways
@@ -251,12 +251,12 @@ Throughout this book, **prompting** is your core skill. Whether you're:
 
 | Your Situation | Recommended Reading Path |
 |---|---|
-| **🤷 Completely new to AI** | Start with **Chapter 1** (motivation) and **Chapter 2** (your first AI conversation). Work through the basics before exploring advanced applications. |
-| **👨‍🏫 Want to implement AI in teaching** | Read **Chapter 3** (your first steps) for a practical implementation plan. Then move to **Chapter 4** (six essential techniques) and pick one to try immediately. Refer to **Appendix A** for copy-paste prompts. |
-| **📝 Designing assessments** | Read **Chapter 11** (process-based assessment models) and **Chapter 19** (assessment design & rubrics). Use these frameworks to redesign existing assignments. |
-| **🎓 Teach postgraduate students** | Focus on **Chapter 17** (AI as research assistant) for guidance on appropriate AI use in research contexts. |
-| **👥 Presenting to colleagues** | Use **Appendix B** (one-hour faculty workshop guide) as a facilitation template. |
-| **🏛️ Need institutional justification** | Refer to **Appendix C** (alignment with Curtin learning outcomes) to demonstrate how AI integration supports existing educational goals. |
+| **Completely new to AI** | Start with **Chapter 1** (motivation) and **Chapter 2** (your first AI conversation). Work through the basics before exploring advanced applications. |
+| **Want to implement AI in teaching** | Read **Chapter 3** (your first steps) for a practical implementation plan. Then move to **Chapter 4** (six essential techniques) and pick one to try immediately. Refer to **Appendix A** for copy-paste prompts. |
+| **Designing assessments** | Read **Chapter 11** (process-based assessment models) and **Chapter 19** (assessment design & rubrics). Use these frameworks to redesign existing assignments. |
+| **Teach postgraduate students** | Focus on **Chapter 17** (AI as research assistant) for guidance on appropriate AI use in research contexts. |
+| **Presenting to colleagues** | Use **Appendix B** (one-hour faculty workshop guide) as a facilitation template. |
+| **Need institutional justification** | Refer to **Appendix C** (alignment with Curtin learning outcomes) to demonstrate how AI integration supports existing educational goals. |
 
 ---
 
