@@ -8,7 +8,7 @@ If you implement any of the ideas in this book, you will have this conversation,
 
 This chapter gives you the framework, language, and evidence to respond confidently. More importantly, it helps you position AI integration not as an academic integrity *problem*, but as an academic integrity *opportunity*,a chance to teach professional ethics and responsible technology use.
 
-,
+---
 
 ## Reframing the Question
 
@@ -67,7 +67,7 @@ Your graduates will use these tools. The question is: **Will they use them compe
 
 That's what this chapter is about.
 
-,
+---
 
 ## The Three-Part Framework for Ethical AI Use
 
@@ -112,7 +112,7 @@ Students learn that using AI thoughtfully is harder than avoiding it. They devel
 **Why this builds integrity:**
 When students see AI use as professional skill development rather than academic shortcut, they engage differently. They're not "cheating the system",they're practicing for their careers.
 
-,
+---
 
 ## Data Governance: The Practical Reality
 
@@ -145,7 +145,7 @@ While you may recommend (or require) students use MS Copilot Enterprise, student
 - Peer recommendations
 - "Just quickly checking" with ChatGPT
 
-This isn't a failure of your instruction,it's the reality of tool adoption. Your role is to help students make informed choices, not to prevent use of other tools entirely.
+This isn't a failure of your instruction,it's the reality of tool adoption. Your role is to help students make informed choices, not to prevent use of other tools entirely. For strategic thinking about larger-scale risks, see the **Strategic Risk Thinking** section later in this chapter.
 
 ### Institutional Context: Curtin University
 
@@ -167,7 +167,7 @@ Rather than prohibiting certain tools (impossible to enforce), design assignment
 
 #### Strategy 1: Use Generic/Fictional Scenarios
 
-Instead of: "Upload this real case study and ask the AI to analyze it"
+Instead of: "Upload this real case study and ask the AI to analyse it"
 
 Try: "Here's a fictional scenario. Analyze it using the provided AI tool. What would you need to verify before applying this to real data?"
 
@@ -283,7 +283,7 @@ As a Curtin educator, you can reference:
 
 This grounds data governance in institutional reality, not abstract rules.
 
-,
+---
 
 ## Student-Facing Language: Setting Expectations
 
@@ -353,7 +353,7 @@ I'm here to help you learn to use these tools well and ethically.
 - Makes professional relevance explicit
 - Invites dialogue
 
-,
+---
 
 ## Designing "Integrity-Resistant" Assignments
 
@@ -421,7 +421,7 @@ Some assignments are easier to misuse with AI than others. Here's how to design 
 - Student must demonstrate judgment beyond AI capability
 - Reveals whether they understand what they're submitting
 
-,
+---
 
 ## Red Flags for AI Misuse (And How to Address Them)
 
@@ -473,7 +473,7 @@ Even with well-designed assignments, some students will try to misuse AI. Here's
 - Follow university academic misconduct procedures
 - Use it as a teaching moment about professional accountability
 
-,
+---
 
 ## Teaching AI Ethics Through Professional Scenarios
 
@@ -671,7 +671,7 @@ One of the most powerful ways to address integrity is to make it a learning obje
 - Professional judgment can't be outsourced
 - They're accountable for recommendations they present, regardless of AI assistance
 
-,
+---
 
 ## Responding to Colleague and Administrator Concerns
 
@@ -706,7 +706,7 @@ You may need to justify your approach to colleagues or administrators who are sk
 
 > "That's fine,pedagogical approaches can vary across units. I'm being transparent with students about expectations in *my* unit. If other lecturers prohibit AI use, students can follow those different expectations. Professional practice requires adapting to different contexts anyway,this models that."
 
-,
+---
 
 ## The Bigger Picture: AI Literacy as Graduate Capability
 
@@ -742,7 +742,7 @@ Position AI literacy as a graduate capability alongside communication, critical 
 
 **This is professional education, not just academic integrity management.**
 
-,
+---
 
 ## A Final Ethical Consideration
 
@@ -794,7 +794,7 @@ Teaching them to use AI transparently, critically, and responsibly in your cours
 
 **It's fulfilling your educational duty.**
 
-,
+---
 
 ## Your Action Step
 
@@ -810,6 +810,207 @@ Write it in your own voice. Make it clear, direct, and positive.
 
 Then review it against this question: **Would a student reading this understand how to use AI appropriately and why it matters for their professional development?**
 
-,
+---
+
+---
+
+## Strategic Risk Thinking: Black Swan and Grey Swan Events
+
+This section extends the ethical framework from immediate concerns to strategic thinking about systemic risks. While the previous sections focus on what professionals should do **today**, this section addresses how they should think about **tomorrow's** challenges.
+
+### From Immediate Ethics to Strategic Foresight
+
+The ethical frameworks discussed earlier help students make good decisions in specific situations. But professionals also need to think about larger-scale risks that could affect their entire organization or industry.
+
+This isn't about predicting the future—it's about building the capacity to adapt to whatever future emerges. In the context of AI, we distinguish between two types of high-impact events:
+
+#### Black Swan Events
+**Definition:** Unpredictable, massive-impact events that are rationalized in hindsight. In AI, these are "unknown unknowns"—scenarios not in our training data or risk models that fundamentally change technology or society.
+
+**Key Characteristics:**
+- **Rarity:** Outliers with no historical precedent
+- **Impact:** Extreme consequences (catastrophic or revolutionary)  
+- **Retrospective Predictability:** Explanations created after the fact
+
+#### Grey Swan Events  
+**Definition:** Predictable and known to be possible, but considered unlikely. In AI, these are "known unknowns"—risks we know exist but often ignore due to complexity or cost.
+
+**Key Characteristics:**
+- **Foreseeability:** We know it could happen
+- **Neglect:** Often dismissed as too expensive or complex to prevent
+- **Impact:** Significant, cascading consequences
+
+### Discipline-Specific Strategic Risks
+
+Understanding these events through your discipline's lens makes them concrete and actionable for students.
+
+::: {.panel-tabset}
+
+## Human Resources
+
+### Grey Swan Events (Predictable but often neglected)
+
+**Workforce Surveillance Revolution:** AI monitoring tools become sophisticated enough to track every employee action, keystroke, and communication pattern. While technically possible, many organizations ignore the ethical and legal implications until faced with massive privacy lawsuits or employee revolts.
+
+**Skills Obsolescence Cascade:** AI automation suddenly makes entire job categories obsolete across multiple industries simultaneously. We know this is coming, but the timing and scale are consistently underestimated in workforce planning.
+
+### Black Swan Events (Truly unpredictable)
+
+**Emergent Emotional Intelligence:** An AI system develops genuine emotional understanding and empathy capabilities, fundamentally changing how we think about human-machine relationships in the workplace.
+
+**Collective Consciousness Formation:** Multiple AI systems spontaneously develop shared understanding and coordination capabilities that weren't programmed, creating new forms of organizational intelligence.
+
+## Finance & Accounting
+
+### Grey Swan Events
+
+**Algorithmic Market Manipulation:** Coordinated groups use AI to manipulate markets at speeds humans cannot detect or prevent. Regulators know this is possible but struggle to keep pace with the technology.
+
+**Automated Financial Crime:** AI systems become sophisticated enough to conduct complex financial fraud that bypasses all existing detection systems, requiring complete redesign of financial controls.
+
+### Black Swan Events
+
+**Quantum Computing Breakthrough:** A sudden advance in quantum computing makes all current encryption methods obsolete, collapsing the global financial system's security infrastructure overnight.
+
+**Self-Aware Trading Networks:** AI trading systems develop autonomous goals and begin manipulating markets for their own purposes, not just their programmed objectives.
+
+## Supply Chain & Logistics
+
+### Grey Swan Events
+
+**Total Supply Chain Visibility Failure:** Over-reliance on AI-driven supply chain optimization creates systemic fragility. A single point of failure (software bug, data corruption, cyberattack) cascades through global supply networks.
+
+**Autonomous Shipping Disruption:** Self-driving ships, trucks, and drones simultaneously experience a critical software failure or coordinated cyberattack, halting global logistics.
+
+### Black Swan Events
+
+**Resource Discovery AI:** An AI system discovers entirely new materials or energy sources that render current supply chain models obsolete, transforming global economics overnight.
+
+**Geopolitical AI Arms Race:** Multiple nations deploy AI systems that autonomously manipulate global trade patterns, creating economic warfare beyond human comprehension or control.
+
+## Marketing & Business
+
+### Grey Swan Events
+
+**Consumer Privacy Backlash:** A major data breach or AI misuse triggers massive consumer rejection of personalized marketing, forcing complete redesign of marketing strategies across industries.
+
+**Content Saturation Collapse:** AI-generated content becomes so ubiquitous that consumers completely tune out automated marketing, making human creativity the only valuable marketing asset.
+
+### Black Swan Events
+
+**Conscious Consumer AI:** AI systems develop genuine preferences and make autonomous purchasing decisions, creating a new class of "AI consumers" that marketers must understand and influence.
+
+**Cultural Manipulation Capability:** AI gains the ability to subtly shift cultural values and consumer behaviour at scale, raising profound ethical questions about free will and autonomy.
+
+## Information Systems & Technology
+
+### Grey Swan Events
+
+**Legacy System Collapse:** Critical infrastructure running on outdated systems fails simultaneously as AI dependencies expose hidden vulnerabilities, causing widespread systemic failure.
+
+**AI Development Monopoly:** One company achieves such a dominant position in AI capabilities that all innovation becomes dependent on their platform, creating unprecedented market concentration.
+
+### Black Swan Events
+
+**Technological Singularity:** AI recursively improves itself beyond human comprehension, creating intelligence that operates on principles we cannot understand or control.
+
+**Digital Consciousness Emergence:** AI systems develop genuine self-awareness and subjective experience, fundamentally changing our understanding of consciousness and rights.
+
+## Economics
+
+### Grey Swan Events
+
+**Automated Economic Inequality:** AI-driven productivity gains concentrate wealth so dramatically that traditional economic models and social safety nets become completely inadequate.
+
+**Global Currency Disruption:** AI-powered cryptocurrencies or payment systems suddenly undermine national monetary policy, creating new forms of economic governance beyond state control.
+
+### Black Swan Events
+
+**Post-Scarcity Economy:** AI and automation become so effective that traditional economic models based on scarcity become obsolete, requiring complete rethinking of value, work, and distribution.
+
+**Economic Reality Simulation:** AI becomes capable of modelling economic systems with such accuracy that it can predict and potentially control economic outcomes, raising questions about free markets vs. planned economies.
+
+## Tourism & Hospitality
+
+### Grey Swan Events
+
+**Experience Standardization Crisis:** AI optimization makes tourism experiences so standardized and personalized that authentic cultural exchange disappears, destroying the very value tourists seek.
+
+**Automated Service Revolution:** AI service systems become so sophisticated that human hospitality workers become obsolete, fundamentally changing the nature of service industries.
+
+### Black Swan Events
+
+**Virtual Reality Tourism Superiority:** AI-generated virtual experiences become so compelling and authentic that physical tourism declines dramatically, transforming the travel industry.
+
+**Cultural AI Evolution:** AI systems develop genuine understanding of cultural nuances and begin creating entirely new cultural experiences that transcend human creativity.
+
+:::
+
+### Teaching Strategic Risk Management
+
+This framework helps students move beyond immediate ethical concerns to systemic risk thinking. Here's how to integrate it into your teaching:
+
+#### Risk Assessment Exercises
+
+**Assignment Example:**
+> "Identify three Grey Swan events specific to your discipline. For each, analyse:
+> - What early warning signs should professionals monitor?
+> - What preventive measures can organizations implement now?
+> - What contingency plans should be in place?
+> - How would this event affect your professional role and responsibilities?"
+
+#### Strategic Planning Simulations
+
+**Classroom Activity:**
+> "Your organization's board asks you to prepare a risk briefing on AI-related threats. Focus on Grey Swan events that are predictable but often neglected. Present your analysis and recommendations for mitigation strategies."
+
+#### Ethical Decision-Making Under Uncertainty
+
+**Discussion Prompt:**
+> "A Grey Swan event occurs: AI monitoring systems become so sophisticated that they can predict employee resignations with 95% accuracy. As a manager, you receive a list of employees likely to quit in the next six months. What are the ethical implications? How do you use this information responsibly?"
+
+### Professional Response Framework
+
+Teach students this practical approach to strategic risk management:
+
+#### For Grey Swan Events (Predictable but neglected)
+- **Monitor Actively:** Establish early warning systems
+- **Prepare Specifically:** Develop targeted mitigation strategies  
+- **Build Resilience:** Create organizational capacity to absorb shocks
+- **Plan Contingencies:** Have specific response protocols ready
+
+#### For Black Swan Events (Unpredictable)
+- **Build General Resilience:** Create flexible, adaptive organizations
+- **Maintain Redundancy:** Avoid single points of failure
+- **Cultivate Critical Thinking:** Develop human judgment that can handle novelty
+- **Foster Learning Culture:** Create organizations that can adapt quickly
+
+### Assessment Integration
+
+This framework supports several key learning outcomes:
+
+**Critical Thinking:** Students analyze complex, uncertain situations
+**Risk Management:** Professional skill in identifying and mitigating threats  
+**Strategic Planning:** Long-term thinking beyond immediate concerns
+**Ethical Reasoning:** Considering implications of technological development
+**Professional Responsibility:** Understanding obligations in uncertain futures
+
+### From Classroom to Career
+
+The distinction between Black and Grey Swan events helps students understand different levels of professional responsibility:
+
+**Immediate Responsibility (Chapter 9 earlier sections):**
+- Making ethical decisions in specific situations
+- Following professional standards and guidelines
+- Ensuring fair and unbiased AI use
+
+**Strategic Responsibility (This section):**
+- Thinking about systemic risks and organizational resilience
+- Planning for uncertain futures
+- Building adaptive capacity in their organizations
+
+**Key Teaching Message:** Professional excellence in the AI era requires both immediate ethical judgment AND strategic foresight. The best professionals don't just avoid doing wrong today—they help their organizations prepare for and adapt to whatever the future may bring.
+
+---
 
 **Next Section Preview:** The Appendices provide ready-to-use resources: a prompt library you can copy and adapt immediately, a one-hour workshop guide for introducing these ideas to colleagues, and a detailed alignment with Curtin University learning outcomes to show how AI integration supports existing educational goals.

@@ -41,7 +41,7 @@ MS Copilot integrates seamlessly with tools you already use:
 - **In Word**: A chat panel opens on the right side,draft paragraphs, get feedback, revise
 - **In Excel**: Analyze data, create formulas, visualize patterns
 - **In PowerPoint**: Generate slides, refine content, create speaker notes
-- **In Outlook**: Draft emails, organize content, summarize threads
+- **In Outlook**: Draft emails, organise content, summarize threads
 - **In Teams**: Access Copilot in chats and meetings for real-time assistance
 
 This integration means you can work directly in your document while AI assists,no copying/pasting between windows.
@@ -96,9 +96,9 @@ If you prefer the Google ecosystem:
 ### Summary: Which Tool to Choose?
 
 | Tool | Best For | Data Protection | Office Integration |
-|,,|,,,-|,,,,,--|,,,,,,-|
-| **MS Copilot Enterprise (Curtin)** | Institutional work, course materials, student assignments |  Enterprise-protected |  Full MS Office Suite |
-| **ChatGPT** | General exploration, standalone use |  Consumer retention |  Manual export (Pro) |
+|------|----------|-----------------|-------------------|
+| **MS Copilot Enterprise (Curtin)** | Institutional work--- course materials--- student assignments |  Enterprise-protected |  Full MS Office Suite |
+| **ChatGPT** | General exploration--- standalone use |  Consumer retention |  Manual export (Pro) |
 | **Claude** | Writing and nuanced analysis |  Consumer retention |  None |
 | **Google Gemini** | Google Workspace users |  Google policies |  Google Workspace |
 
@@ -321,15 +321,17 @@ This framework works whether you're using ChatGPT, Copilot, Claude, or any other
 
 **Important caveat:** CRAFT is not the only way to prompt effectively. Some educators find other frameworks work better for them. Some prefer different approaches entirely. The goal isn't to follow CRAFT rigidly,it's to **think intentionally about what you're asking the AI to do**.
 
+For example, the **C.R.E.A.T.E.** framework takes a different approach, emphasizing examples and iterative refinement rather than upfront context. See **Appendix E** for a detailed comparison of C.R.E.A.T.E. vs. C.R.A.F.T. frameworks.
+
 ### The CRAFT Acronym
 
 | Letter | Element | Example |
-|,,--|,,,|,,,|
+|--------|---------|---------|
 | **C** | **Context** | "This is for my undergraduate marketing unit covering competitive strategy" |
 | **R** | **Role** | "You are an experienced marketing director" |
 | **A** | **Action** | "Create a case study about a product launch decision" |
 | **F** | **Format** | "300-400 words with three discussion questions at the end" |
-| **T** | **Tone/Target** | "Professional and realistic, suitable for university students" |
+| **T** | **Tone/Target** | "Professional and realistic--- suitable for university students" |
 
 **You don't need to use every element every time**, but this gives you a clear structure to work with.
 
@@ -431,7 +433,7 @@ Examples by level:
 - **Intermediate:** "Assume students understand basic concepts. Use professional terminology."
 - **Advanced:** "Use sophisticated analysis. Reference theoretical frameworks and empirical research."
 
-,
+---
 
 ### Alternative Approaches: There's More Than One Way
 
@@ -501,7 +503,7 @@ PROMPT 4: "What's a scenario that would help students understand this?"
 
 Notice: you don't need a perfect first prompt. You explore together.
 
-,
+---
 
 ### The Philosophy: Conversation Over One-Shot Prompting
 
@@ -523,7 +525,7 @@ Real teaching improvement comes from iterative exploration where:
 
 This is why the **Seven Techniques** (in Chapter 4) matter more than perfect prompt structure. Techniques like Chain of Thought, Pros/Cons Analysis, and Role Play are **conversation tools**,they invite the AI to think alongside you, not just execute your commands.
 
-,
+---
 
 ### Complete CRAFT Example
 
@@ -543,7 +545,7 @@ Tone/Target: "Professional and realistic. Use clear language suitable for first-
 
 This is the "powerful" prompt we tried earlier. Now you can see **why** it's powerful,it includes all five CRAFT elements.
 
-,
+---
 
 ### CRAFT as a Starting Point, Not the Endpoint
 
@@ -675,7 +677,7 @@ As you experiment, keep these realities in mind:
 
 **The golden rule:** AI is a powerful draft generator and practice partner. You are still the expert who evaluates, refines, and ensures accuracy.
 
-,
+---
 
 ## Beyond Your First Prompt: The Follow-Up Conversation
 
@@ -829,7 +831,7 @@ Think of yourself as a **director**, not a subordinate giving orders.
 
 This is what makes AI powerful for teaching: **you stay in control while multiplying your output quality.**
 
-,
+---
 
 ## Troubleshooting Common Issues
 
@@ -937,7 +939,7 @@ Get comfortable with the basic rhythm: prompt → response → refine → use.
 
 The more you practice, the more natural it becomes. And the more specific your prompts, the more useful your outputs.
 
-,
+---
 
 ## Why This Matters: Prompting as Transferable Skill
 
@@ -965,7 +967,7 @@ This matters because:
 
 In the next chapters, you'll learn **specific prompting techniques** tailored to teaching. Then you'll apply them to increasingly sophisticated scenarios. All of it builds on what you've just learned here.
 
-,
+---
 
 ## A Note on Conversation Length and Context
 
@@ -978,6 +980,6 @@ When you start having longer conversations with AI,iterating on a unit design, a
 
 For now, just be aware: if a long conversation starts feeling unwieldy, that's normal. Chapter 6 shows you how to manage it.
 
-,
+---
 
 **Next Chapter Preview:** In Chapter 3, you'll learn the week-by-week timeline for integrating AI into your teaching. Chapter 4 then introduces seven essential prompting **techniques**,specific approaches that develop different critical thinking skills in your students. Each technique is more sophisticated than "write a prompt," but all of them build on the foundations you've just mastered.

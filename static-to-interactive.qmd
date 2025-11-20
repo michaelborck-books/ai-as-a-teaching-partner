@@ -6,7 +6,7 @@ You have a well-designed case study in Word or PDF. Students read it, maybe disc
 
 **What if you could transform that static document into an interactive experience where every student actively engages with the content?**
 
-,
+---
 
 ## The Solution: AI-Generated Interactive HTML
 
@@ -24,7 +24,7 @@ You have a well-designed case study in Word or PDF. Students read it, maybe disc
 - **Printable** - Students can save their work
 - **Offline capable** - Download for later use
 
-,
+---
 
 ##  The Transformation Process
 
@@ -82,7 +82,7 @@ Technical requirements:
 Make it engaging but academically rigorous and appropriate for [your discipline].
 ```
 
-,
+---
 
 ##  Example Transformations
 
@@ -106,7 +106,7 @@ Make it engaging but academically rigorous and appropriate for [your discipline]
 - **Save progress** functionality
 - **Print-ready format**
 
-,
+---
 
 ##  Practical Examples by Discipline
 
@@ -124,7 +124,7 @@ Depending on your field, here are typical interactive transformations:
 
 ### Accounting & Finance Examples
 1. **Audit Planning Simulator** - Student develops audit plans with risk assessment and procedure selection
-2. **Financial Analysis Tool** - Student analyzes financial statements with ratio calculations and interpretation
+2. **Financial Analysis Tool** - Student analyses financial statements with ratio calculations and interpretation
 3. **Valuation Decision Tree** - Student applies valuation methods with assumptions and sensitivity analysis
 
 ### Management Examples
@@ -135,7 +135,7 @@ Depending on your field, here are typical interactive transformations:
 ### More Examples
 See the Cross-Discipline Applications section below for additional detailed examples for Supply Chain, Information Systems, Tourism & Hospitality, and Analytics.
 
-,
+---
 
 ##  Uploading to Blackboard
 
@@ -153,12 +153,12 @@ See the Cross-Discipline Applications section below for additional detailed exam
 - Paste generated HTML code
 - Interactive content appears directly in LMS
 
-,
+---
 
 ##  Design Best Practices
 
 ### Keep It Professional
-- **University branding** colors/logos
+- **University branding** colours/logos
 - **Clean typography** - readable fonts
 - **Consistent spacing** - not cluttered
 - **Academic tone** - professional language
@@ -174,7 +174,7 @@ See the Cross-Discipline Applications section below for additional detailed exam
 - **Touch-friendly** - large buttons
 - **Readable text** - no pinching required
 
-,
+---
 
 ##  Getting Started Template
 
@@ -210,7 +210,7 @@ Add:
 Keep everything in a single HTML file.
 ```
 
-,
+---
 
 ##  Integration with Existing Activities
 
@@ -228,7 +228,7 @@ Keep everything in a single HTML file.
 - **Include media** - images, videos
 - **Connect systems** - grade book integration
 
-,
+---
 
 ##  Success Stories
 
@@ -242,7 +242,7 @@ Keep everything in a single HTML file.
 **After:** Interactive policy analysis tool
 **Result:** Deeper understanding, practical application
 
-,
+---
 
 ##  Technical Tips
 
@@ -258,7 +258,7 @@ Keep everything in a single HTML file.
 - **Save not working** - verify browser permissions
 - **Mobile layout** - test responsive design
 
-,
+---
 
 ##  Measuring Success
 
@@ -274,7 +274,7 @@ Keep everything in a single HTML file.
 - **Critical thinking** - deeper analysis
 - **Professional readiness** - workplace preparation
 
-,
+---
 
 ##  Continuous Improvement
 
@@ -289,7 +289,7 @@ Keep everything in a single HTML file.
 - **LMS changes** - adapt to Blackboard updates
 - **Accessibility standards** - maintain compliance
 
-,
+---
 
 ##  Ready-to-Use Prompt Library
 
@@ -317,7 +317,7 @@ Build interactive assessment from this worksheet:
 Include scoring, feedback, progress tracking.
 ```
 
-,
+---
 
 ## Cross-Discipline Applications: Interactive Content Transformation
 
@@ -426,7 +426,7 @@ Create an interactive HTML data analysis tool from this dataset:
 Build:
 1. Data exploration interface with filtering and sorting
 2. Chart type recommendation system
-3. Visualization parameter controls (colors, scales, labels)
+3. Visualization parameter controls (colours, scales, labels)
 4. Statistical summary generator
 5. Interpretation guidance with common pitfalls
 
@@ -448,7 +448,7 @@ Include business analytics terminology and best practices.
 
 **Interactive Transformation:**
 ```html
-<!-- Student analyzes complaint details -->
+<!-- Student analyses complaint details -->
 <!-- Identifies service failure type -->
 <!-- Selects recovery strategy options -->
 <!-- Calculates compensation recommendations -->
@@ -472,7 +472,7 @@ Include hospitality-specific service standards and recovery best practices.
 ```
 
 **Key Interactive Elements:**
-- **Service failure analyzer** - categorizes complaint types with recovery implications
+- **Service failure analyser** - categorizes complaint types with recovery implications
 - **Compensation matrix** - industry-standard recovery offers
 - **Communication composer** - templates for different guest situations
 - **Satisfaction prediction tool** - estimates recovery success probability
@@ -511,7 +511,7 @@ Include IT project management terminology and system development best practices.
 
 **Key Interactive Elements:**
 - **Requirements traceability matrix** - links business needs to technical solutions
-- **Technical feasibility analyzer** - assesses implementation complexity
+- **Technical feasibility analyser** - assesses implementation complexity
 - **Stakeholder influence mapping** - identifies key decision-makers
 - **Project timeline visualizer** - Gantt chart builder with critical paths
 
@@ -551,7 +551,7 @@ Include organisational development theory and change management frameworks.
 - **Stakeholder influence mapper** - visual positioning of key players
 - **Change readiness calculator** - assesses organisational capacity
 - **Communication campaign builder** - multi-channel messaging planner
-- **Resistance pattern analyzer** - identifies common barriers and solutions
+- **Resistance pattern analyser** - identifies common barriers and solutions
 
 :::
 
@@ -611,9 +611,9 @@ Include organisational development theory and change management frameworks.
 - Content updates to reflect current industry practices
 - Student feedback integration for continuous improvement
 
-,
+---
 
-,
+---
 
 ## 📸 Expanding Beyond HTML: Multimedia & Visual Learning
 
@@ -675,7 +675,7 @@ Result: Professional infographic showing funnel with key metrics and touchpoints
 ```
 
 Prompt: "Create a flowchart showing a supply chain network with suppliers,
-manufacturing, distribution centers, and retail, highlighting critical paths."
+manufacturing, distribution centres, and retail, highlighting critical paths."
 
 Result: Professional diagram showing complexity and dependencies
 ```
@@ -714,7 +714,7 @@ While AI video generation is still emerging, you can:
 5. Combine into multimedia learning package
 ```
 
-,
+---
 
 ## 🎮 Building Interactive Learning Objects
 
@@ -786,7 +786,7 @@ For each concept:
 Format: HTML with click-to-expand nodes showing connected ideas
 ```
 
-,
+---
 
 ## 🎨 Creative Content Generation & Narrative Transformation
 
@@ -882,7 +882,7 @@ Include: Timeline, key metrics, decision points, stakeholder perspectives
 Make it suitable for teaching [discipline] students about [concept].
 ```
 
-,
+---
 
 ## 🔧 Advanced Interactive Tools: Building Agents & Automations (Future Capability)
 
@@ -914,7 +914,7 @@ Rather than manually creating a quiz prompt each time:
 
 **Note:** These agents require more technical setup but dramatically increase your teaching leverage. See Advanced Frontiers chapter for more on agents and automation.
 
-,
+---
 
 ## Exporting Conversation Results: From Interactive Back to Document
 
@@ -1041,7 +1041,7 @@ This reveals thinking, not just output.
 This workflow complements the static-to-interactive work in this chapter:
 
 | Direction | Chapter Focus | Tool Purpose |
-|,,,--|,|,|
+|-----------|---|---|
 | **Static → Interactive** | This Chapter (13) | Engage students *in* learning |
 | **Interactive/Conversation → Document** | Chapter 14 | Students *communicate* their learning |
 
@@ -1051,7 +1051,7 @@ Both represent the full cycle of AI-enhanced teaching:
 3. Students use AI to generate professional deliverables of their work (Chapter 14)
 4. Students submit documents reflecting genuine learning
 
-,
+---
 
 ## 🚀 Next Steps
 
@@ -1074,6 +1074,6 @@ For comprehensive guidance on having students generate professional documents (W
 
 **Key Principle:** This chapter focuses on practical transformations you can do today with current AI tools. As capabilities evolve, your teaching can evolve with them. The pedagogical principles remain constant even as tools change.
 
-,
+---
 
 *This chapter bridges the gap between static content and interactive learning experiences, making your teaching materials more engaging and effective across all business disciplines. See Chapter 14 to complete the cycle,showing students how to generate professional deliverables from their learning work.*

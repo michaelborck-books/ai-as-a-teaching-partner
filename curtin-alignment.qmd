@@ -9,17 +9,41 @@ This appendix demonstrates how AI integration in multidisciplinary business educ
 - Academic administrators assessing alignment with university strategy
 - Accreditation reviews demonstrating innovative teaching aligned with standards
 
-,
+---
 
 ## Curtin University Strategic Context
 
-**From the source material:**
+**From the Curtin University AI Policy (November 2025):**
 
-Curtin University explicitly lists **Artificial Intelligence** as a component of its values, vision, and strategy. This provides strong institutional foundation for integrating AI into teaching and learning.
+Curtin University aims to be a world leader in the use of Artificial Intelligence (AI) within tertiary education and research. The university explicitly acknowledges AI's potential to enhance the student experience, contribute to academic excellence, improve research methods, enhance employee experience, and equip students with skills for AI-augmented workplaces.
 
-The university's commitment to innovation and technological advancement means that AI integration in HR education is not only permitted but aligned with strategic priorities.
+The university's **AI Guidance Principles** (adapted from the Western Australian Government AI Policy) provide a framework for ethical AI integration:
 
-,
+1. **Human, societal and environmental wellbeing** - AI systems should benefit individuals, society, and/or the environment
+2. **Human-centred values** - Respect human rights, diversity, and individual autonomy
+3. **Fairness** - No unfair discrimination; train on relevant, accurate datasets
+4. **Privacy protection and security** - Comply with data protection policies and legislation
+5. **Reliability and safety** - Operate AI systems according to approved purposes with appropriate safety measures
+6. **Transparency, Explainability and Contestability** - Maximize transparency and allow stakeholders to contest AI decisions
+7. **Accountability** - Implement human oversight and identify individuals accountable for AI-based decisions
+8. **Accuracy** - Check inputs/outputs for factual reliability and disclose model limitations
+
+This provides strong institutional foundation for integrating AI into teaching and learning, with clear ethical guidelines and governance frameworks.
+
+### AI Integration and Curtin's AI Guidance Principles
+
+The book's AI integration approach directly supports Curtin's **8 AI Guidance Principles**:
+
+- **Human, societal and environmental wellbeing**: AI enhances student learning and prepares graduates for AI-augmented careers
+- **Human-centred values**: Teaching focuses on human judgment, critical thinking, and ethical AI use
+- **Fairness**: Process-based assessment reduces bias by evaluating thinking rather than just outputs
+- **Privacy protection and security**: Transparency models ensure responsible data handling
+- **Reliability and safety**: Human oversight ensures AI serves educational purposes safely
+- **Transparency, Explainability and Contestability**: Students learn to critique and contest AI outputs
+- **Accountability**: Educators maintain responsibility for assessment integrity and learning outcomes
+- **Accuracy**: Teaching emphasizes verification of AI outputs and understanding model limitations
+
+---
 
 ## Business Programs at Curtin University
 
@@ -37,7 +61,7 @@ Each program has its own learning outcomes framework, and AI applications suppor
 
 **Note:** To adapt this appendix for your specific program, substitute your program's learning outcomes where HR outcomes are referenced, and apply the same alignment logic using examples from your discipline.
 
-,
+---
 
 ## Learning Outcome Alignment Matrix
 
@@ -45,7 +69,7 @@ This section maps specific AI teaching applications from this book to Curtin bus
 
 **For your program:** Substitute your discipline-specific learning outcomes in each section and apply the same AI application frameworks using examples from your field.
 
-,
+---
 
 ## Core Learning Outcome 1: Apply Discipline-Specific Theory to Evidence-Based Practice
 
@@ -57,9 +81,9 @@ Students must demonstrate ability to apply discipline-specific theories (psychol
 ### How AI Integration Supports This:
 
 | AI Application (Chapter) | How It Supports Theory Application |
-|,|,|
-| **Conversation Simulations (Chapter 4)** | Students must apply motivational theory, conflict resolution models, and organisational justice principles *in real-time* during dynamic conversations. AI persona responds to theoretical applications, showing immediate consequences. |
-| **Evidence-Based Strategic Intervention (Chapter 7, Model 2)** | Students use AI to analyse mock HR data, then must justify recommendations using theory. Assessment requires explicit connection between data patterns and theoretical frameworks (equity theory, two-factor theory, etc.). |
+|---|---|
+| **Conversation Simulations (Chapter 4)** | Students must apply motivational theory--- conflict resolution models--- and organisational justice principles *in real-time* during dynamic conversations. AI persona responds to theoretical applications--- showing immediate consequences. |
+| **Evidence-Based Strategic Intervention (Chapter 7--- Model 2)** | Students use AI to analyse mock HR data--- then must justify recommendations using theory. Assessment requires explicit connection between data patterns and theoretical frameworks (equity theory--- two-factor theory--- etc.). |
 | **Debating Technique (Chapter 3)** | Multi-perspective analysis requires students to evaluate competing HR strategies through theoretical lenses and identify which theories best explain stakeholder positions. |
 
 ### Evidence of Learning:
@@ -67,7 +91,7 @@ Students must demonstrate ability to apply discipline-specific theories (psychol
 - Students critique AI recommendations by identifying missing theoretical considerations
 - Students demonstrate application, not just definition, of theory
 
-,
+---
 
 ## Core Learning Outcome 2: Knowledge of Relevant Legislative and Legal Rules
 
@@ -77,17 +101,17 @@ Students must demonstrate understanding and application of employment law, workp
 ### How AI Integration Supports This:
 
 | AI Application (Chapter) | How It Supports Legal Application |
-|,|,|
-| **Conversation Simulations (Chapter 4)** | Scenarios embed legal considerations (procedural fairness, natural justice, privacy law). Students must demonstrate compliance in real-time. AI personas can reference or challenge legal issues. |
-| **Process Audit Assessment (Chapter 7, Model 1)** | Students must identify where they did/didn't apply legal principles during conversations and cite specific legislation. Self-audit forces explicit legal reasoning. |
-| **Ethical Analysis Exercises (Appendix A, Section 5)** | Students evaluate AI-generated policies and identify legal flaws, discriminatory provisions, and compliance gaps. Must explain *why* something is legally problematic. |
+|---|---|
+| **Conversation Simulations (Chapter 4)** | Scenarios embed legal considerations (procedural fairness--- natural justice--- privacy law). Students must demonstrate compliance in real-time. AI personas can reference or challenge legal issues. |
+| **Process Audit Assessment (Chapter 7--- Model 1)** | Students must identify where they did/didn't apply legal principles during conversations and cite specific legislation. Self-audit forces explicit legal reasoning. |
+| **Ethical Analysis Exercises (Appendix A--- Section 5)** | Students evaluate AI-generated policies and identify legal flaws--- discriminatory provisions--- and compliance gaps. Must explain *why* something is legally problematic. |
 
 ### Evidence of Learning:
 - Transcripts show students applying legal principles in decision-making
 - Process audits include citations to Fair Work Act, WHS legislation, etc.
 - Students identify when AI recommendations violate legal requirements
 
-,
+---
 
 ## Core Learning Outcome 3: Demonstrate Effective Communication and Empathetic Practices
 
@@ -97,17 +121,17 @@ Students must communicate effectively with individuals and groups, demonstrate e
 ### How AI Integration Supports This:
 
 | AI Application (Chapter) | How It Supports Communication Skills |
-|,|,|
-| **Conversation Simulations (Chapter 4)** | Every simulation requires students to practice active listening, empathetic responses, and professional communication. AI responds dynamically to communication quality,empathy unlocks information, poor communication causes resistance. |
-| **Multiple Practice Cycles** | Unlike traditional role-play (one attempt), students can practice the same conversation multiple times, refining communication approach each time. Develops fluency and confidence. |
-| **AI Critique of Communication (Chapter 4, Phase 3)** | Detailed feedback on tone, word choice, questioning technique, and empathy demonstration. Students receive specific quotes showing effective/ineffective communication. |
+|---|---|
+| **Conversation Simulations (Chapter 4)** | Every simulation requires students to practice active listening--- empathetic responses--- and professional communication. AI responds dynamically to communication quality---empathy unlocks information--- poor communication causes resistance. |
+| **Multiple Practice Cycles** | Unlike traditional role-play (one attempt)--- students can practice the same conversation multiple times--- refining communication approach each time. Develops fluency and confidence. |
+| **AI Critique of Communication (Chapter 4--- Phase 3)** | Detailed feedback on tone--- word choice--- questioning technique--- and empathy demonstration. Students receive specific quotes showing effective/ineffective communication. |
 
 ### Evidence of Learning:
 - Transcripts demonstrate professional tone, active listening, appropriate empathy
 - Students show improvement between first and revised conversation attempts
 - Reflections articulate understanding of communication impact
 
-,
+---
 
 ## Core Learning Outcome 4: Apply Professional Skills in an Ethical Manner
 
@@ -117,17 +141,17 @@ Students must demonstrate understanding and respect for human rights, cultural d
 ### How AI Integration Supports This:
 
 | AI Application (Chapter) | How It Supports Ethical Practice |
-|,|,|
-| **Transparency Model (Chapter 5)** | Teaching students to use AI openly and critically models professional integrity. Students learn to acknowledge sources, verify information, and maintain accountability. |
-| **AI Ethics Scenarios (Chapter 9)** | Students analyse ethical problems with AI use in HR (biased screening tools, algorithmic discrimination, accountability questions). Develops ethical reasoning about technology in professional practice. |
-| **Critique and Override Exercises (Chapter 7, Model 3)** | Students must identify when AI recommendations are ethically problematic and demonstrate superior human judgment. Cannot delegate ethical responsibility to technology. |
+|---|---|
+| **Transparency Model (Chapter 5)** | Teaching students to use AI openly and critically models professional integrity. Students learn to acknowledge sources--- verify information--- and maintain accountability. |
+| **AI Ethics Scenarios (Chapter 9)** | Students analyse ethical problems with AI use in HR (biased screening tools--- algorithmic discrimination--- accountability questions). Develops ethical reasoning about technology in professional practice. |
+| **Critique and Override Exercises (Chapter 7--- Model 3)** | Students must identify when AI recommendations are ethically problematic and demonstrate superior human judgment. Cannot delegate ethical responsibility to technology. |
 
 ### Evidence of Learning:
 - Students identify bias, discrimination, or ethical flaws in AI outputs
 - Students demonstrate human oversight of AI-generated decisions
 - Reflections show awareness of professional accountability
 
-,
+---
 
 ## Core Learning Outcome 5: Utilise Critical Thinking Skills to Evaluate and Integrate Information
 
@@ -137,17 +161,17 @@ Students must critically analyse problems, evaluate information from multiple so
 ### How AI Integration Supports This:
 
 | AI Application (Chapter) | How It Supports Critical Thinking |
-|,|,|
-| **Pros and Cons Technique (Chapter 3)** | Students evaluate AI-generated analysis of multiple HR approaches, then must critique AI's reasoning and add missing considerations. Requires going beyond AI's thinking. |
-| **Self-Assessment Tool (Chapter 5)** | Students receive AI feedback, but must critically evaluate whether feedback is correct. Strong students challenge AI's assessment and justify their position. |
-| **Evidence-Based Strategic Intervention (Chapter 7, Model 2)** | Students must identify what AI got wrong in data analysis or recommendations. Demonstrates critical evaluation, not blind acceptance of technology. |
+|---|---|
+| **Pros and Cons Technique (Chapter 3)** | Students evaluate AI-generated analysis of multiple HR approaches--- then must critique AI's reasoning and add missing considerations. Requires going beyond AI's thinking. |
+| **Self-Assessment Tool (Chapter 5)** | Students receive AI feedback--- but must critically evaluate whether feedback is correct. Strong students challenge AI's assessment and justify their position. |
+| **Evidence-Based Strategic Intervention (Chapter 7--- Model 2)** | Students must identify what AI got wrong in data analysis or recommendations. Demonstrates critical evaluation--- not blind acceptance of technology. |
 
 ### Evidence of Learning:
 - Students successfully identify AI errors or limitations
 - Students improve AI recommendations with additional analysis
 - Students demonstrate reasoning that surpasses AI capability
 
-,
+---
 
 ## Core Learning Outcome 6: Ability for Self-Directed Learning and Reflective Practice
 
@@ -157,9 +181,9 @@ Students must demonstrate capacity for independent learning, reflection on pract
 ### How AI Integration Supports This:
 
 | AI Application (Chapter) | How It Supports Self-Directed Learning |
-|,|,|
+|---|---|
 | **Self-Assessment Tool (Chapter 5)** | Students drive their own improvement cycle: draft → AI feedback → reflection → revision. Takes ownership of learning process without waiting for lecturer feedback. |
-| **Process Audit (Chapter 7, Model 1)** | Students analyse their own performance, identify strengths/weaknesses, and propose improvements. Develops metacognitive awareness essential for professional growth. |
+| **Process Audit (Chapter 7--- Model 1)** | Students analyse their own performance--- identify strengths/weaknesses--- and propose improvements. Develops metacognitive awareness essential for professional growth. |
 | **Unlimited Practice** | AI simulations available 24/7. Students who want additional practice can self-direct their learning beyond required assignments. |
 
 ### Evidence of Learning:
@@ -167,7 +191,7 @@ Students must demonstrate capacity for independent learning, reflection on pract
 - Evidence of revision between drafts shows iterative improvement
 - Students articulate what they learned and how they'll apply it
 
-,
+---
 
 ## Core Learning Outcome 7: Demonstrate Technological Proficiency in HR Management Contexts
 
@@ -177,17 +201,17 @@ Students must select and effectively use appropriate technologies relevant to HR
 ### How AI Integration Supports This:
 
 | AI Application (Chapter) | How It Supports Technological Proficiency |
-|,|,|
-| **All AI-Enhanced Assignments** | Direct practice with AI tools that are increasingly standard in professional HR practice (resume screening, data analysis, policy drafting, chatbot support). |
-| **Critical Oversight Training (Chapter 9)** | Students learn when to use AI, when to verify AI outputs, when human judgment must override technology. Essential digital literacy for modern HR professionals. |
-| **AI Literacy as Graduate Capability (Chapter 9)** | Explicit teaching of AI ethics, limitations, bias recognition, and accountability,preparing students for AI-augmented workplaces. |
+|---|---|
+| **All AI-Enhanced Assignments** | Direct practice with AI tools that are increasingly standard in professional HR practice (resume screening--- data analysis--- policy drafting--- chatbot support). |
+| **Critical Oversight Training (Chapter 9)** | Students learn when to use AI--- when to verify AI outputs--- when human judgment must override technology. Essential digital literacy for modern HR professionals. |
+| **AI Literacy as Graduate Capability (Chapter 9)** | Explicit teaching of AI ethics--- limitations--- bias recognition--- and accountability---preparing students for AI-augmented workplaces. |
 
 ### Evidence of Learning:
 - Students competently use AI tools to support HR tasks
 - Students identify appropriate vs. risky AI use cases
 - Students demonstrate human oversight and accountability
 
-,
+---
 
 ## Core Learning Outcome 8: Resolve Issues in the Workplace
 
@@ -197,17 +221,17 @@ Students must demonstrate ability to investigate complaints, mediate conflicts, 
 ### How AI Integration Supports This:
 
 | AI Application (Chapter) | How It Supports Issue Resolution |
-|,|,|
-| **Conversation Simulations (Chapter 4, 6)** | Practice full investigation processes: interviewing complainants, gathering evidence, interviewing respondents, making recommendations. Realistic practice in safe environment. |
-| **Stepwise Chain of Thought (Chapter 3)** | Guides students through proper resolution processes step-by-step, ensuring they understand *why* each step matters and what happens if steps are skipped. |
-| **Virtual Company Simulations (Chapter 6)** | Complex, evolving workplace issues that require strategic problem-solving over time. Students see consequences of their resolution approaches. |
+|---|---|
+| **Conversation Simulations (Chapter 4--- 6)** | Practice full investigation processes: interviewing complainants--- gathering evidence--- interviewing respondents--- making recommendations. Realistic practice in safe environment. |
+| **Stepwise Chain of Thought (Chapter 3)** | Guides students through proper resolution processes step-by-step--- ensuring they understand *why* each step matters and what happens if steps are skipped. |
+| **Virtual Company Simulations (Chapter 6)** | Complex--- evolving workplace issues that require strategic problem-solving over time. Students see consequences of their resolution approaches. |
 
 ### Evidence of Learning:
 - Students demonstrate proper investigative process
 - Students balance competing interests and make justified recommendations
 - Students apply fair process principles consistently
 
-,
+---
 
 ## Core Learning Outcome 9: Recruit Employees and Improve Individual and Team Performance
 
@@ -217,17 +241,17 @@ Students gain expertise in recruitment processes, selection methods, performance
 ### How AI Integration Supports This:
 
 | AI Application (Chapter) | How It Supports Recruitment & Performance Management |
-|,|,|
-| **Competency-Based Recruitment Portfolio (Chapter 7, Model 3)** | End-to-end recruitment process: job analysis, interview design, candidate evaluation. Students demonstrate methodology and critical judgment. |
+|---|---|
+| **Competency-Based Recruitment Portfolio (Chapter 7--- Model 3)** | End-to-end recruitment process: job analysis--- interview design--- candidate evaluation. Students demonstrate methodology and critical judgment. |
 | **Behavioural Interview Question Generator (Appendix A)** | Practice designing competency-based selection tools and evaluating their effectiveness. |
-| **Performance Management Simulations (Chapter 4)** | Practice conducting performance discussions, PIP meetings, feedback conversations. Multiple scenarios covering coaching, discipline, and development. |
+| **Performance Management Simulations (Chapter 4)** | Practice conducting performance discussions--- PIP meetings--- feedback conversations. Multiple scenarios covering coaching--- discipline--- and development. |
 
 ### Evidence of Learning:
 - Students design effective selection tools aligned with competencies
 - Students conduct professional performance conversations
 - Students demonstrate ability to evaluate candidates/performance fairly
 
-,
+---
 
 ## Alignment with Professional Career Outcomes
 
@@ -327,7 +351,7 @@ The AI applications in this book directly prepare students for careers across al
 :::
 
 
-,
+---
 
 ## Addressing Potential Institutional Concerns
 
@@ -347,13 +371,16 @@ Students cannot succeed simply by having AI generate answers,they must demonstra
 
 **Response:**
 
-The transparency model (Chapter 5, Chapter 9) aligns with academic integrity principles by:
-- Making AI use explicit and expected (not hidden)
-- Requiring critical engagement with AI outputs (not passive acceptance)
-- Assessing students' thinking process (not just final products)
-- Teaching professional ethics around technology use
+The transparency model (Chapter 5, Chapter 9) aligns with Curtin's academic integrity policies and the **Assessment and Student Progression Manual (2025)** by:
 
-This approach prepares students for professional practice where AI use is normal and expected, but accountability remains with the human professional.
+- **Making AI use explicit and expected** (not hidden), consistent with Curtin's guidance on generative AI in assessment
+- **Requiring critical engagement with AI outputs** (not passive acceptance), aligning with confirmation check procedures for Gen-AI use
+- **Assessing students' thinking process** (not just final products), supporting the manual's emphasis on authentic assessment
+- **Teaching professional ethics around technology use**, preparing students for AI-augmented workplaces
+
+The **Assessment Manual (PC1: Assessment Design)** permits piloting Generative AI for grading with permission from the relevant Dean (Learning and Teaching), provided outputs are verified, use is declared to students, and human marking is available for appeals.
+
+This approach prepares students for professional practice where AI use is normal and expected, but accountability remains with the human professional, fully compliant with Curtin's academic integrity framework.
 
 ### Concern: "What evidence supports this pedagogical approach?"
 
@@ -367,9 +394,19 @@ This approach is grounded in:
 
 AI enables scaling of pedagogical best practices that were previously limited by lecturer time and resources.
 
-,
+---
 
 ## Implementation Recommendations for Curtin Business Programs
+
+### Policy Compliance Requirements
+
+**Assessment and Student Progression Manual (2025)** requirements for AI integration:
+- Obtain permission from relevant Dean (Learning and Teaching) for piloting Generative AI in grading
+- Have AI systems assessed and approved by Privacy Officer and Digital & Technology Solutions
+- Verify all AI outputs before use in assessment
+- Declare AI use to students beforehand and explain how it will be used
+- Maintain human marking capability for appeals processes
+- Implement confirmation checks where Gen-AI use is suspected (Confirmation Checks Guidance Notes)
 
 ### Short-Term (Current Semester)
 1. Pilot 1-2 conversation simulations in units covering core discipline topics
@@ -395,9 +432,17 @@ AI enables scaling of pedagogical best practices that were previously limited by
 3. Track graduate outcomes: Are AI-trained students more confident and competent in their discipline?
 4. Share innovations with professional bodies and other universities
 
-,
+---
 
 ## Alignment with Curtin University Strategic Priorities
+
+This AI integration approach fully aligns with **Curtin's 2030 Strategic Vision** of making a difference to People, Planet and Partnerships, as outlined in the AI Policy:
+
+- **People**: Enhances student experience, academic excellence, and employee experience through ethical AI integration
+- **Planet**: Promotes responsible AI use that considers environmental impacts and sustainability
+- **Partnerships**: Equips students with skills for AI-augmented workplaces and fosters industry partnerships
+
+The approach also supports Curtin's commitment to innovation, productivity, and leveraging leading-edge technology while maintaining human oversight and ethical standards.
 
 This AI integration supports multiple institutional priorities:
 
@@ -411,7 +456,7 @@ This AI integration supports multiple institutional priorities:
 
 **Digital Transformation:** Prepares both students and staff for AI-enhanced environments in their professional fields
 
-,
+---
 
 ## Conclusion
 
@@ -432,7 +477,7 @@ Given the university's strategic commitment to AI and the professional reality t
 
 This book provides the answer,for HR education, marketing, accounting, management, tourism & hospitality, supply chain, information systems, economics, and beyond.
 
-,
+---
 
 ## For Further Discussion
 

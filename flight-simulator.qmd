@@ -26,7 +26,7 @@ AI-powered simulation solves all of these:
 
 Let's walk through a complete example.
 
-,
+---
 
 ## Complete Worked Example: The Performance Improvement Plan Meeting
 
@@ -40,7 +40,7 @@ This is a common high-stakes conversation in HR. It's legally sensitive, emotion
 - Document the conversation appropriately
 - Avoid common legal pitfalls (discrimination, unfair dismissal)
 
-,
+---
 
 ## Phase 1: The Setup Prompt
 
@@ -101,10 +101,10 @@ statement. I will start the conversation now.
 **Key Design Elements:**
 - **Complexity:** Alex isn't purely defensive or purely cooperative,there's legitimate work performance decline *and* extenuating circumstances
 - **Realistic emotion:** Alex is stressed and embarrassed, not theatrical or extreme
-- **Conditional behavior:** How Alex responds depends on the student's approach (rewards good technique)
+- **Conditional behaviour:** How Alex responds depends on the student's approach (rewards good technique)
 - **Hidden information:** The personal context isn't revealed unless the student asks the right questions with the right tone
 
-,
+---
 
 ## Phase 2: The Simulation
 
@@ -154,7 +154,7 @@ The student now conducts the meeting. Here's an example of how this might play o
 **AI (as Alex):**
 > *manages a small, tired smile* "Thanks. I appreciate you actually listening."
 
-,
+---
 
 ## Phase 3: The Debrief (AI Critique)
 
@@ -218,7 +218,7 @@ Begin your critique.
 
 The AI will provide something like this:
 
-,
+---
 
 **CRITIQUE OF PIP MEETING PERFORMANCE**
 
@@ -235,7 +235,7 @@ You could have been even more explicit about the timeline and previous feedback.
 **Suggestion:**
 Always reference specific dates and documented prior warnings. This strengthens the legal defensibility of your process.
 
-,
+---
 
 **2. COMMUNICATION EFFECTIVENESS: 10/10**
 
@@ -249,7 +249,7 @@ Your handling of defensiveness was textbook-perfect. When Alex said the PIP felt
 **Where you could improve:**
 Nothing significant. Your communication was professional, empathetic, and effective throughout.
 
-,
+---
 
 **3. LEGAL AND ETHICAL CONSIDERATIONS: 9/10**
 
@@ -264,7 +264,7 @@ You should explicitly document this conversation. At the end of the meeting, you
 **Suggestion:**
 Always verbally confirm that documentation will be provided. This ensures transparency and gives the employee a chance to correct any misunderstandings immediately.
 
-,
+---
 
 **4. APPLICATION OF HR THEORY: 8/10**
 
@@ -279,7 +279,7 @@ You could have applied **goal-setting theory** more explicitly. When finalising 
 **Suggestion:**
 In your follow-up meeting, involve Alex in defining the specific, measurable targets for the PIP. For example: "What do you think is a realistic number of on-time deliverables over the next 30 days, given the support we're putting in place?" This increases ownership and reduces resistance.
 
-,
+---
 
 **OVERALL ASSESSMENT**
 
@@ -297,13 +297,13 @@ You established psychological safety (Alex felt safe disclosing personal informa
 **One Risk to Watch:**
 Ensure that the flexible schedule accommodation is documented and approved by the manager. If the manager later claims they weren't consulted or don't agree, this could create conflict. Always confirm that proposed accommodations are feasible with all stakeholders before committing to them in a meeting.
 
-,
+---
 
 **FINAL SCORE: 36/40 (90%)**
 
 This was a highly competent performance. You demonstrated strong communication skills, applied HR principles effectively, and handled a complex, emotionally charged situation with professionalism and empathy. The areas for improvement are minor and relate to documentation and collaborative goal-setting,both easily addressed in your follow-up meeting.
 
-,
+---
 
 ## What Makes This Critique Valuable
 
@@ -317,7 +317,7 @@ Notice what the AI's critique provides:
 
 This level of detailed, personalised feedback would take a lecturer 20-30 minutes per student to write manually. The AI generates it in seconds, and it's consistent across all students.
 
-,
+---
 
 ## How to Use This as an Assessment
 
@@ -364,23 +364,23 @@ You have several options for how to structure this as a graded assignment:
 - Performance in the simulation
 - Reflective analysis
 
-,
+---
 
 ## Adapting This for Different Conversational Skills
 
 The three-phase system works for any high-stakes conversation in business. Below are examples across different skills and disciplines:
 
 | Skill Area | Simulation Scenario | Key Learning Focus |
-|,|,|,|
-| **HR: Recruitment** | AI plays a candidate with vague answers | Behavioural interviewing, probing, bias awareness |
-| **HR: Conflict Resolution** | AI plays employee making complaint | Investigation, empathy, impartiality, documentation |
-| **HR: Negotiation** | AI plays union representative | Interest-based negotiation, legal boundaries, compromise |
-| **Management: Change Leadership** | AI plays resistant manager | Communication, stakeholder management, emotional intelligence |
-| **Marketing: Client Negotiation** | AI plays demanding client | Persuasion, objection handling, value communication |
-| **Supply Chain: Supplier Crisis** | AI plays supplier announcing delay | Problem-solving, negotiation, relationship management |
-| **Information Systems: Implementation** | AI plays resistant end-user | Change management, technical communication, adoption strategies |
-| **Accounting: Audit Findings** | AI plays finance manager | Compliance communication, relationship management, remediation planning |
-| **Business: Board Presentation** | AI plays questioning board member | Executive communication, strategic thinking, confidence |
+|---|---|---|
+| **HR: Recruitment** | AI plays a candidate with vague answers | Behavioural interviewing--- probing--- bias awareness |
+| **HR: Conflict Resolution** | AI plays employee making complaint | Investigation--- empathy--- impartiality--- documentation |
+| **HR: Negotiation** | AI plays union representative | Interest-based negotiation--- legal boundaries--- compromise |
+| **Management: Change Leadership** | AI plays resistant manager | Communication--- stakeholder management--- emotional intelligence |
+| **Marketing: Client Negotiation** | AI plays demanding client | Persuasion--- objection handling--- value communication |
+| **Supply Chain: Supplier Crisis** | AI plays supplier announcing delay | Problem-solving--- negotiation--- relationship management |
+| **Information Systems: Implementation** | AI plays resistant end-user | Change management--- technical communication--- adoption strategies |
+| **Accounting: Audit Findings** | AI plays finance manager | Compliance communication--- relationship management--- remediation planning |
+| **Business: Board Presentation** | AI plays questioning board member | Executive communication--- strategic thinking--- confidence |
 
 For each scenario, you simply adjust:
 1. The persona and context in the **Setup Prompt**
@@ -389,7 +389,7 @@ For each scenario, you simply adjust:
 
 The three-phase structure remains the same.
 
-,
+---
 
 ## Cross-Discipline Applications: Flight Simulator Adaptations
 
@@ -631,7 +631,7 @@ For each discipline, adjust the critique prompt to focus on discipline-specific 
 
 Use the same assessment options (simulation + critique, re-do + comparison, student-designed scenarios) across all disciplines, adjusting the evaluation criteria to match discipline-specific competencies and professional standards.
 
-,
+---
 
 ## Common Questions
 
@@ -651,7 +651,7 @@ A: You should review a sample of critiques initially to ensure quality. However,
 
 A: Yes! Many AI tools now support voice conversation mode. Students can literally *speak* their way through the simulation, making it even more realistic. The conversation can then be transcribed for the critique phase.
 
-,
+---
 
 ## Your Action Step
 
@@ -665,6 +665,6 @@ Before moving to the next chapter, try this:
 
 Once you've experienced the full cycle yourself, you'll be ready to introduce it to your class.
 
-,
+---
 
 **Next Chapter Preview:** In the next chapter, we'll explore how to use AI as a transparent, ethical self-assessment tool. You'll learn how to give students both the grading rubric *and* the AI critique prompt upfront, teaching them to use AI responsibly as an advanced editing and analysis tool rather than a shortcut. This shifts the conversation from "preventing AI cheating" to "teaching AI literacy."

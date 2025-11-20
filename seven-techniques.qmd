@@ -14,7 +14,7 @@ These aren't random AI tricks. These are seven proven prompting techniques speci
 
 Each technique is easy to adapt and can be used by students directly or by you to generate teaching materials. Let's explore each one with ready-to-use examples.
 
-,
+---
 
 ## Technique 1: Reverse Prompting (for Scoping and Policy Design)
 
@@ -106,12 +106,12 @@ The student must think through each question before responding. By the end, they
 ### Teaching Tip
 Use this as a **pre-writing exercise**. Have students complete the AI questioning session, then require them to submit both the transcript and their subsequent policy draft. You can assess whether they actually incorporated the insights from the questions.
 
-,
+---
 
 ## Technique 2: Pros and Cons (for Decision Making)
 
 ### What It Does
-The AI systematically analyzes multiple approaches to a business problem, evaluating each option against specific criteria. This develops the ability to make justified recommendations rather than just stating preferences.
+The AI systematically analyses multiple approaches to a business problem, evaluating each option against specific criteria. This develops the ability to make justified recommendations rather than just stating preferences.
 
 ### Why It Works Across Disciplines
 All business professionals must evaluate competing strategies and make balanced, evidence-based recommendations. This technique builds the muscle for weighing trade-offs, considering multiple stakeholder perspectives, and justifying strategic choices.
@@ -185,7 +185,7 @@ This transforms the AI output from an answer into a starting point for deeper an
 
 ## Economics
 - "Compare different policy approaches to addressing unemployment: fiscal stimulus, labour market training, labour market deregulation. Evaluate each for effectiveness, cost, and trade-offs."
-- "Analyze different economic models: Keynesian, neoclassical, behavioral. What assumptions and limitations does each have?"
+- "Analyse different economic models: Keynesian, neoclassical, behavioural. What assumptions and limitations does each have?"
 - "What are the pros and cons of different monetary policy tools: interest rates, quantitative easing, forward guidance?"
 
 :::
@@ -194,7 +194,7 @@ This transforms the AI output from an answer into a starting point for deeper an
 ### Teaching Tip
 This technique works brilliantly for **in-class discussions**. Project the AI's analysis on screen, then divide students into groups where each group must argue for one of the models. They have to use the AI's framework but add their own reasoning.
 
-,
+---
 
 ## Technique 3: Stepwise Chain of Thought (for Process Management)
 
@@ -285,7 +285,7 @@ This is excellent for **individual revision or exam prep**. Students can practic
 
 You can also use this to **generate assessment materials**: Have the AI walk through a process, then you create an exam question where one of the steps was done incorrectly and students must identify the error and its consequences.
 
-,
+---
 
 ## Technique 4: Role Play (for Skill Building)
 
@@ -341,7 +341,7 @@ motivated.
 
 I am the HR representative who has to conduct this PIP meeting with you.
 
-Your behavior:
+Your behaviour:
 - Start the conversation by immediately challenging the fairness of the PIP
 - Bring up a recent successful project you led
 - Hint that you believe this is retaliation for raising a complaint about
@@ -416,7 +416,7 @@ Now the student has to manage a realistic, emotionally charged scenario. They mu
 
 This makes the process visible and assessable.
 
-,
+---
 
 ## Technique 5: Debating (for Strategic and Ethical Analysis)
 
@@ -521,7 +521,7 @@ After reading the debate, students must:
 ### Teaching Tip
 This technique is perfect for **preparing students for case study exams**. Instead of memorizing model answers, they practice analysing competing priorities and justifying nuanced positions,exactly what they'll need to do in professional practice.
 
-,
+---
 
 ## Technique 6: Formative Assessment Generator (for Practice and Mastery)
 
@@ -555,7 +555,7 @@ The AI creates scenario after scenario. Students test themselves, get immediate 
 
 **Key feature:** AI adapts. If student gets several wrong, AI can simplify. If student masters basic scenarios, AI can make them more complex.
 
-,
+---
 
 ### Use Case 2: Application Practice
 
@@ -579,7 +579,7 @@ Begin with Scenario 1.
 **What Happens:**
 Progressive difficulty builds confidence and competence. Students move from obvious cases to nuanced judgment calls.
 
-,
+---
 
 ### Use Case 3: Exam Preparation
 
@@ -606,7 +606,7 @@ on what I got right/wrong and why.
 **What Happens:**
 Students can generate multiple practice exams with different questions each time. They enter the real exam having practiced extensively.
 
-,
+---
 
 ### Use Case 4: Targeted Remediation
 
@@ -633,7 +633,7 @@ Generate the quiz.
 **What You Get:**
 A targeted remediation tool that teaches while testing. Students who failed your assessment can use this to identify and fix their knowledge gaps.
 
-,
+---
 
 ### Teaching Tip: How to Integrate This
 
@@ -654,7 +654,7 @@ Worth 5% of final grade,graded on completion and reflection quality, not on how 
 
 Combines AI efficiency with peer learning.
 
-,
+---
 
 ### Critical Principle: Formative, Not Summative
 
@@ -667,7 +667,7 @@ Combines AI efficiency with peer learning.
 
 **The value:** Unlimited, personalised practice that builds confidence and competence before high-stakes assessment.
 
-,
+---
 
 ### Variation: Adaptive Difficulty
 
@@ -688,7 +688,7 @@ Begin.
 
 This creates a personalised learning path,AI adjusts difficulty based on student performance.
 
-,
+---
 
 ### Why This Matters
 
@@ -705,7 +705,7 @@ AI removes these constraints:
 
 **Result:** Students can practice until they achieve mastery, not until they run out of practice problems.
 
-,
+---
 
 ### Simulating Adaptive Difficulty
 
@@ -741,7 +741,7 @@ Encourage students to track their progress:
 
 This creates accountability without requiring sophisticated adaptive systems.
 
-,
+---
 
 ## Technique 7: The Expert Panel (for Multi-Perspective Analysis)
 
@@ -898,7 +898,7 @@ Most business teaching presents one "correct" approach. But professional practic
 **Role Play** (Technique 4):
 > "After developing your strategy based on expert consultation, role-play presenting it to a skeptical stakeholder (CFO, union rep, CEO) and defend your choices."
 
-,
+---
 
 ## Technique 8 (Extended): Prompt Chaining - Combining Techniques Into Multi-Step Workflows
 
@@ -1033,7 +1033,7 @@ STEP 1 (Reverse Prompt): "What factors must we consider in choosing a supplier?"
 [Student lists factors, you provide feedback]
 
 STEP 2 (Pros and Cons): "Good list. Now evaluate three suppliers against these factors."
-[Student analyzes, you refine together]
+[Student analyses, you refine together]
 
 STEP 3 (Chain of Thought): "Now walk me through implementation. What happens in weeks 1-4? 5-8? What risks emerge?"
 [Student thinks through implementation]
@@ -1101,14 +1101,14 @@ When you chain techniques together:
 - The final product is something they **actually built**, not just received from AI
 - They develop **professional confidence** through realistic practice
 
-,
+---
 
 ## How to Choose Which Technique to Use
 
 Match the technique to the learning objective:
 
 | If you want students to... | Use this technique |
-|,|,|
+|---|---|
 | Define a complex problem or policy comprehensively | **Reverse Prompting** |
 | Evaluate competing options and justify a choice | **Pros and Cons** |
 | Follow a legally/ethically sensitive process correctly | **Stepwise Chain of Thought** |
@@ -1130,7 +1130,7 @@ The real power comes from combining these techniques. For example:
 
 This sequence takes the student through analysis, decision-making, communication, and critical reflection,a complete professional process.
 
-,
+---
 
 ## Working with Long Conversations: Managing Context
 
@@ -1148,7 +1148,7 @@ When conversations become lengthy (15+ prompts), you might notice that:
 
 For now: Each technique works well on its own or in short sequences. As you layer more techniques together, context management becomes your quality control tool.
 
-,
+---
 
 ## Your Action Step
 
@@ -1158,6 +1158,6 @@ Copy one of the example prompts in your discipline's tab, adapt it to your speci
 
 Remember: these aren't just AI tools,they're pedagogical strategies. The AI just makes them scalable and available to every student, any time they want to practice.
 
-,
+---
 
 **Next Chapter Preview:** In the next chapter, we'll take the Role Play technique and expand it into a full "Flight Simulator" system. You'll learn how to design high-fidelity simulations, structure the debrief and critique phase, and turn the entire experience into a powerful assessment tool. We'll work through complete examples across disciplines.

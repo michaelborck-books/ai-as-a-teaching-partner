@@ -17,9 +17,9 @@ This is particularly important for educators because:
 - You'll be having longer conversations (designing units, iterating on assignments)
 - You'll need high-quality outputs (teaching materials must be accurate)
 - You'll want consistent quality across multiple deliverables (course redesigns, prompt libraries)
-- You'll be modeling these skills for students
+- You'll be modelling these skills for students
 
-,
+---
 
 ## The Four Core Problems
 
@@ -31,7 +31,7 @@ This is particularly important for educators because:
 
 **Teaching impact:** When designing complex units or courses, you'll have lengthy conversations. Without managing context, outputs become inconsistent.
 
-,
+---
 
 ### **Problem 2: Output Token Scarcity**
 
@@ -41,7 +41,7 @@ This is particularly important for educators because:
 
 **Teaching impact:** You might get a "complete" unit design that needs heavy revision, or you abandon it and start over,wasting time.
 
-,
+---
 
 ### **Problem 3: Hallucination Acceleration**
 
@@ -51,7 +51,7 @@ This is particularly important for educators because:
 
 **Teaching impact:** Teaching materials with invented examples or false citations are problematic. Students trust what they see in your materials.
 
-,
+---
 
 ### **Problem 4: Lost Context Across Sessions**
 
@@ -61,7 +61,7 @@ This is particularly important for educators because:
 
 **Teaching impact:** Multi-week projects (semester redesigns, curriculum overhauls) become fragmented. You must re-establish context repeatedly.
 
-,
+---
 
 ## Core Strategy 1: Break Complex Tasks Into Steps
 
@@ -132,11 +132,11 @@ And so on. By breaking the work into steps, each output gets full attention and 
 
 ### Example 2: Semester Course Planning
 
-**Instead of:** "Design a 12-week course on organizational behavior."
+**Instead of:** "Design a 12-week course on organisational behavior."
 
 **Ask for a plan first:**
 ```
-I'm teaching organizational behavior to 2nd-year business students (60 students,
+I'm teaching organisational behavior to 2nd-year business students (60 students,
 first-year of their major). Help me structure this 12-week course.
 
 What are the major topics we should cover? In what order? What's the learning
@@ -160,7 +160,7 @@ Design these weeks including:
 Make it manageable for a 3-hour/week course.
 ```
 
-,
+---
 
 ## Core Strategy 2: One Task Per Prompt (Usually)
 
@@ -188,7 +188,7 @@ student handout, and facilitator notes."
 **Prompt 1:**
 ```
 I'm teaching critical thinking to business undergraduates. I want them to
-be able to analyze business problems from multiple perspectives.
+be able to analyse business problems from multiple perspectives.
 
 Design 3 classroom activities that help students practice critical thinking.
 For each activity:
@@ -232,7 +232,7 @@ Sometimes asking for multiple outputs makes sense:
 
 **The key:** Are the outputs relatively equal in scope and complexity? If yes, ask for multiple. If one task is much bigger than others, split them.
 
-,
+---
 
 ## Core Strategy 3: Use Output Constraints to Manage Tokens
 
@@ -338,7 +338,7 @@ Focus on what an audit team needs to decide.
 
 :::
 
-,
+---
 
 ## Core Strategy 4: Keep Conversations Focused and Modular
 
@@ -365,7 +365,7 @@ Focus on what an audit team needs to decide.
 
 **Rule of thumb:** One conversation per major project. Use the same conversation as you iterate and refine within that project. Start a new conversation when you move to a different project.
 
-,
+---
 
 ## Core Strategy 5: Summarize and Handoff for Long Conversations
 
@@ -433,7 +433,7 @@ conversation to continue working.
 
 You then start a new conversation and continue with: "I'm continuing supply chain unit redesign. Here's our progress. Let's design Week 1-2 activities."
 
-,
+---
 
 ## Core Strategy 6: Make Context Explicit and Structured
 
@@ -467,7 +467,7 @@ How can I increase participation?
 ### Better Context (If Continuing Earlier Work)
 
 ```
-Remember we're redesigning the marketing unit on consumer behavior.
+Remember we're redesigning the marketing unit on consumer behaviour.
 We wanted more student participation—we had the problem where only a few
 students spoke in the large lecture.
 
@@ -486,7 +486,7 @@ that encourage quieter students to engage and show their thinking?
 - **Style:** What's your teaching approach? What's worked before? What hasn't?
 - **History:** Have we worked on this before? What did we already decide?
 
-,
+---
 
 ## Core Strategy 7: Batch Similar Tasks
 
@@ -534,23 +534,23 @@ context. Some of my students are from cultures where conflict is handled very
 differently than in Western business tradition.
 ```
 
-,
+---
 
 ## Common Mistakes and How to Fix Them
 
 | Mistake | What Goes Wrong | Fix |
-|,,,|,,,,,--|,--|
-| **Asking for 10 things at once** | Output is shallow; tokens divided 10 ways | Break into 2–3 prompts, one main task per prompt |
-| **Vague task description** | AI misunderstands what you want | Add explicit context: who, what, why, constraints |
-| **"Design my whole course" in one go** | Incoherent, shallow output | Ask for plan first, then design one section at a time |
+|---------|-----------------|-----|
+| **Asking for 10 things at once** | Output is shallow; tokens divided 10 ways | Break into 2–3 prompts--- one main task per prompt |
+| **Vague task description** | AI misunderstands what you want | Add explicit context: who--- what--- why--- constraints |
+| **"Design my whole course" in one go** | Incoherent--- shallow output | Ask for plan first--- then design one section at a time |
 | **Leaving conversation open indefinitely** | Hallucination risk increases; unwieldy to navigate | Start new conversation every 50+ exchanges |
-| **Not specifying output format** | AI guesses format; may not match needs | Say "3 bullet points," "one paragraph," "table," etc. |
+| **Not specifying output format** | AI guesses format; may not match needs | Say "3 bullet points---" "one paragraph---" "table---" etc. |
 | **Asking "what am I missing?"** | AI invents irrelevant things | Be specific: "What am I missing in my assessment of [specific skill]?" |
-| **Forgetting to review outputs** | Errors and hallucinations slip through | Always quality-check, especially facts/citations |
+| **Forgetting to review outputs** | Errors and hallucinations slip through | Always quality-check--- especially facts/citations |
 | **Pasting entire documents without framing** | AI doesn't know what to focus on | Add a sentence: "Here's my unit outline. Focus on the assessment section." |
-| **Starting a new conversation when context is long** | Lost work and having to re-explain everything | Summarize first, then paste summary into new chat |
+| **Starting a new conversation when context is long** | Lost work and having to re-explain everything | Summarize first--- then paste summary into new chat |
 
-,
+---
 
 ## Practical Workflow for Managing Context
 
@@ -580,7 +580,7 @@ Here's a workflow that brings everything together:
 3. Assess completeness (did AI address all your needs?)
 4. Iterate if needed (use follow-up prompts to refine, not to ask for entirely new things)
 
-,
+---
 
 ## Real-World Example: Managing Context Well
 
@@ -609,7 +609,7 @@ What's the learning arc across the semester? What should each week focus on?
 
 **Result:** You get a coherent 10-week plan with learning progression.
 
-,
+---
 
 **Conversation 2: Learning Outcomes**
 ```
@@ -623,7 +623,7 @@ that focus on authentic supply chain thinking (not just knowledge).
 
 **Result:** Outcomes aligned to the plan, focused on professional judgment.
 
-,
+---
 
 **Conversation 3: Week 1 Deep Dive**
 ```
@@ -644,7 +644,7 @@ Make it manageable for a 3-hour week.
 
 **Result:** A coherent, complete Week 1.
 
-,
+---
 
 **Conversation 4: Weeks 2-3 Deep Dive**
 ```
@@ -653,7 +653,7 @@ Continue with Weeks 2-3 using the same structure...
 
 **Result:** By batching weeks and working modularly, the whole unit comes together coherently.
 
-,
+---
 
 **Conversation 5: Assessment Integration**
 ```
@@ -667,7 +667,7 @@ outcomes?
 
 **Result:** A coherent, well-integrated unit with assessment that ties it together.
 
-,
+---
 
 ## Context Management for Different Scenarios
 
@@ -701,7 +701,7 @@ outcomes?
 
 **Benefit:** Assessments that actually measure what you care about. Clear communication to students.
 
-,
+---
 
 ## When Context Management Matters Most
 
@@ -714,7 +714,7 @@ Context management is most important when:
 
 For quick, one-off tasks (generating a single prompt, quick idea generation), context management is less critical. But for the substantial work you do as an educator, managing context improves quality dramatically.
 
-,
+---
 
 ## Key Principles Summary
 
@@ -729,7 +729,7 @@ For quick, one-off tasks (generating a single prompt, quick idea generation), co
 
 > **The underlying principle:** Context management is about respecting the AI's limitations while maximizing its strengths. You're not trying to have perfect conversations; you're trying to have *focused* conversations that produce high-quality outputs consistently.
 
-,
+---
 
 ## Why Students Should Learn This
 
@@ -747,7 +747,7 @@ Consider teaching context management explicitly:
 
 This transfers from classroom to professional practice. If your students graduate understanding how to manage context with AI, they'll be more effective professionals.
 
-,
+---
 
 ## Your Next Step
 

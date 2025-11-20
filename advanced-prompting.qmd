@@ -8,7 +8,7 @@ The main chapters focus on practical applications - what you can do tomorrow wit
 
 While this appendix uses HR examples, the prompting principles apply equally to marketing, accounting, management, supply chain, information systems, tourism & hospitality, economics, and other business disciplines. The underlying techniques for role definition, context management, and output control work across all professional fields.
 
-,
+---
 
 ## Prompt Structure Fundamentals
 
@@ -51,7 +51,7 @@ Advanced: "Present each strategy in a table with columns: Strategy, Implementati
            Steps, Timeline, Required Resources, Risk Mitigation, Success Metrics."
 ```
 
-,
+---
 
 ## Context Management Techniques
 
@@ -94,7 +94,7 @@ Assume the audience has [prior knowledge/experience].
 Use [simple/technical/advanced] language.
 ```
 
-,
+---
 
 ## Persona Control Strategies
 
@@ -131,7 +131,7 @@ Analyse this situation from three perspectives:
 Present each viewpoint separately, then provide a balanced recommendation.
 ```
 
-,
+---
 
 ## Advanced Prompting Techniques
 
@@ -187,7 +187,7 @@ Response B: [example response]
 Explain your ratings. Then write an excellent response for [new scenario].
 ```
 
-,
+---
 
 ## Discipline-Specific Prompting Patterns
 
@@ -256,7 +256,7 @@ For any proposed HR action, analyse impact on:
 - Community considerations: [broader implications]
 ```
 
-,
+---
 
 ## Output Control and Formatting
 
@@ -325,7 +325,7 @@ Keep your response to [word/time limit].
 Target [specific audience] level of understanding.
 ```
 
-,
+---
 
 ## Troubleshooting Common Issues
 
@@ -387,7 +387,7 @@ If asked about [inappropriate topics], respond with:
 Do not provide guidance on [restricted topics].
 ```
 
-,
+---
 
 ## Educational Applications
 
@@ -447,7 +447,7 @@ Review this student response and provide feedback in this format:
 - [additional practice needed]
 ```
 
-,
+---
 
 ## Putting It All Together
 
@@ -482,7 +482,7 @@ Before sending any prompt, ask yourself:
 - [ ] **Constraints**: Are there limits or boundaries needed?
 - [ ] **Quality**: What makes a "good" response?
 
-,
+---
 
 ## Context Management for Advanced Prompting
 
@@ -596,14 +596,14 @@ For comprehensive context management strategies, see **Chapter 6: Managing LLM C
 - Batching similar tasks
 - Summarizing and handing off for extended projects
 
-,
+---
 
 ## Integration with Main Chapters
 
 ### Chapter Cross-Reference
 
 | Chapter | Advanced Prompting Application |
-|,,,|,,,,,,,,,,|
+|---------|------------------------------|
 | Ch 4: Five Techniques | Use persona control and context management |
 | Ch 5: Flight Simulator | Apply chain-of-thought and decision trees |
 | Ch 6: Self-Assessment | Implement rubric generation and feedback templates |
@@ -620,7 +620,7 @@ For comprehensive context management strategies, see **Chapter 6: Managing LLM C
 4. **Apply ethical frameworks** (Chapter 7)
 5. **Master advanced techniques** (This appendix)
 
-,
+---
 
 ## Final Thoughts
 
@@ -641,6 +641,6 @@ Adapt these HR-focused examples to your discipline by:
 3. Adjusting persona definitions to match your profession's expertise areas
 4. Modifying risk and ethical considerations to reflect your field's priorities
 
-,
+---
 
 *Return to main chapters for practical applications, or continue experimenting with these advanced techniques as your confidence grows. Your discipline-specific expertise will make these prompts even more powerful.*

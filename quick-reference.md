@@ -5,10 +5,10 @@
 
 ##  Book Cross-Reference
 | Concept | Book Chapter | Quick Start |
-|,,,|,,,,,|,,,,-|
+|---------|---------------|-------------|
 | Getting started with AI | Ch 2 | Try one prompt today |
 | Implementation plan | Ch 3 | 5-phase rollout |
-| Six essential techniques | Ch 4 | Pick one, master it |
+| Six essential techniques | Ch 4 | Pick one--- master it |
 | Conversation simulations | Ch 5 | Practice + debrief |
 | Self-assessment tools | Ch 6 | Transparency model |
 | Ethics & integrity | Ch 7 | Prevention → preparation |
@@ -63,10 +63,10 @@ Then ask me to identify which arguments are most persuasive and why.
 ##  Activity Upgrade Examples
 
 | Traditional | AI-Enhanced |
-|,,,,|,,,,,|
+|------------|---------------|
 | Read case study | Practice conversation with AI |
-| Write reflection | Get AI feedback, then improve |
-| Group discussion | Individual AI practice, then share |
+| Write reflection | Get AI feedback--- then improve |
+| Group discussion | Individual AI practice--- then share |
 
 ##  Key Principles
 - **Process over product** - Grade thinking, not final answer

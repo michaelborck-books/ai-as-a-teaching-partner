@@ -14,7 +14,7 @@ Imagine:
 
 This chapter explores these emerging capabilities. It's optional but powerful once you're comfortable with the basics.
 
-,
+---
 
 ## Part 1: AI Agents Explained (The Simple Version)
 
@@ -59,11 +59,11 @@ WITH AGENT (what we're exploring):
 
 **Data insights:** Agents can track patterns you'd never notice manually.
 
-,
+---
 
 ## Part 1.5: Prompt Chaining - Simulating Agents Today (Without Needing Agent Technology)
 
-Before we talk about building or using actual agents, here's something important: **you can simulate agent-like behavior right now using prompt chaining.**
+Before we talk about building or using actual agents, here's something important: **you can simulate agent-like behaviour right now using prompt chaining.**
 
 Prompt chaining is when you guide the AI through a multi-step workflow in a single conversation. The **educator is the orchestrator**,you direct the steps, AI executes each one, and the results build on each other.
 
@@ -202,7 +202,7 @@ Now proceed to Step 2."
 STEP 2: [continues based on your feedback]
 ```
 
-,
+---
 
 ### Key Principle: You're the Orchestrator
 
@@ -278,7 +278,7 @@ Include:
 
 Notice: **you never wrote a prompt longer than a sentence, but you built an entire unit through conversation.**
 
-,
+---
 
 ## Part 2: Agents in Practice (Tools You Can Use Today)
 
@@ -350,7 +350,7 @@ Similar concept: create a persistent workspace for a specific teaching project.
 - Consistent feedback (same context, same quality of feedback)
 - Building institutional knowledge (project grows with contributions)
 
-,
+---
 
 ## Part 3: Automation Platforms (Scaling What Works)
 
@@ -463,7 +463,7 @@ Workflow:
 Benefit: One submission → Five formats automatically
 ```
 
-,
+---
 
 ## Part 4: Retrieval-Augmented Generation (RAG) for Teaching
 
@@ -522,13 +522,13 @@ Workflow: Assignment Feedback Agent with Course Context
 2. Agent retrieves relevant course materials
 3. Agent retrieves assignment rubric
 4. Agent retrieves examples of strong work
-5. Agent analyzes student work against all this context
+5. Agent analyses student work against all this context
 6. Agent generates feedback grounded in YOUR course, not generic advice
 
 Result: Personalized, contextual, course-specific feedback
 ```
 
-,
+---
 
 ## Part 5: Multimodal AI (Image, Video, Audio, Text)
 
@@ -621,7 +621,7 @@ Tools:
 - HeyGen (AI avatars in videos)
 - Descript (AI-powered video editing)
 
-,
+---
 
 ## Part 6: Building Custom Tools (Advanced)
 
@@ -683,7 +683,7 @@ What it does:
 4. **Track ROI** - Did you save time? Is quality better?
 5. **Iterate** - Refine based on actual use
 
-,
+---
 
 ## Part 7: The Emerging AI Ecosystem (Stay Informed Without Drowning)
 
@@ -751,7 +751,7 @@ Rather than chasing every new tool:
 4. **Adopt only if it solves a real problem** for you
 5. **Stay connected to teaching communities** (conferences, journals, networks)
 
-,
+---
 
 ## Part 8: The Future You're Teaching For
 
@@ -790,7 +790,7 @@ As tools become more capable:
 
 Your expertise becomes **curation and judgment**, not execution. That's actually more valuable.
 
-,
+---
 
 ## Part 8.5: Emerging Capabilities - The Conversation You Need to Have
 
@@ -924,7 +924,7 @@ Automated grading raises some of the same concerns as data governance:
 
 **When automated grading works:**
 ```
-Good: "I use AI to analyze 80 submissions for common errors and patterns,
+Good: "I use AI to analyse 80 submissions for common errors and patterns,
        then provide targeted feedback to address misconceptions for
        the whole class."
 
@@ -937,7 +937,7 @@ Questionable: "AI grades the assignments, I just review overall patterns
 Wrong: "AI assigns final grades, I post them without reviewing."
 ```
 
-,
+---
 
 ## Part 9: Staying Grounded
 
@@ -969,7 +969,7 @@ As you automate more:
 4. **Adjust when needed** - Don't let automation run on autopilot
 5. **Remember the purpose** - Technology serves learning, not vice versa
 
-,
+---
 
 ## A Note on Complexity
 
@@ -986,7 +986,7 @@ The goal isn't that you implement every technique. The goal is that you **unders
 - Make informed decisions about what to adopt
 - Know what to explore when you have a real problem to solve
 
-,
+---
 
 ## Bringing It Together
 
@@ -1021,7 +1021,7 @@ The goal isn't that you implement every technique. The goal is that you **unders
 
 **Both are fine.** Some educators will dig deep into automation and love it. Others will master prompt engineering and be perfectly satisfied. Neither path is wrong.
 
-,
+---
 
 ## Resources for Going Deeper
 
@@ -1041,7 +1041,7 @@ When evaluating a new tool or capability:
 4. Can students understand how it works?
 5. What happens if it breaks?
 
-,
+---
 
 ## Conclusion: The Frontier Ahead
 
@@ -1080,7 +1080,7 @@ The future of education includes AI. But the future of teaching still requires e
 
 That's you.
 
-,
+---
 
 ## Final Thought
 
@@ -1094,7 +1094,7 @@ The goal is that **you understand what's possible**, so you can:
 
 The fundamentals (Chapters 2-4) work great on their own. These frontiers expand your possibilities,if and when you're ready to explore them.
 
-,
+---
 
 *This chapter explores emerging capabilities at the frontier of AI in education. Start with the chapters on fundamental prompting and pedagogy. Return here when you're curious about automation and advanced tools. The basics work great on their own.*
 

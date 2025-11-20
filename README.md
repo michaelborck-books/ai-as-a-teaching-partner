@@ -367,7 +367,7 @@ This resource draws on:
 
 For questions, suggestions, or to share your implementation experience, please reach out to your institution's teaching and learning support team.
 
-,
+---
 
 **Version**: 1.0 (Multidisciplinary Edition)
 **Last Updated**: 2024

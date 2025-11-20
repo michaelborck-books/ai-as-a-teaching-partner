@@ -3,7 +3,7 @@ project:
   
 book:
   title: "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education"
-  author: "Business Education Team"
+  author: "Somm Education Team"
   cover-image: cover.png
   chapters:
     - index.qmd
@@ -24,12 +24,17 @@ book:
     - from-conversation-to-document.qmd
     - research-assistant.qmd
     - advanced-frontiers.qmd
+    - assessment-design.qmd
+    - technical-troubleshooting.qmd
+    - accessibility-inclusion.qmd
+    - global-perspectives.qmd
     - conclusion.qmd
   appendices:
     - prompt-library.qmd
     - workshop-guide.qmd
     - curtin-alignment.qmd
     - advanced-prompting.qmd
+    - craft-vs-create.qmd
 
 format:
   html:

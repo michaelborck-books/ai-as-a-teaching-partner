@@ -10,7 +10,7 @@ This chapter is about **managing change**,both for yourself and your students. I
 
 **The key principle: Start with one small experiment, not a curriculum revolution.**
 
-,
+---
 
 ## Phase 1: Personal Experimentation (Before Your Next Class)
 
@@ -152,7 +152,7 @@ Before you introduce AI to students, you need to be comfortable with it yourself
 - Where AI can add the most value in your specific context
 - What problems you're actually trying to solve (not just "use AI because it's new")
 
-,
+---
 
 ## Phase 2: Low-Stakes Student Introduction (First Month of Semester)
 
@@ -301,7 +301,7 @@ Assign a short, reflective writing task where students *experiment with* AI rath
 
 ## Economics
 > **Assignment: AI for Economic Analysis (5% of grade)**
-> 1. Choose one economics skill we've covered (forecasting, policy analysis, modeling)
+> 1. Choose one economics skill we've covered (forecasting, policy analysis, modelling)
 > 2. Use an AI tool to help you practice that skill
 > 3. Write a 500-word reflection: What assumptions did AI make? What did it get wrong? How would you use AI in economic analysis professionally?
 
@@ -315,7 +315,7 @@ Assign a short, reflective writing task where students *experiment with* AI rath
 - Introduces AI literacy as a learning objective
 - Gives you insight into how students are using AI
 
-,
+---
 
 ## Phase 3: Pilot Assessment (Mid-Semester)
 
@@ -352,7 +352,7 @@ Based on Chapters 4-7, select one approach for a **single assignment**:
 
 **Don't choose:** Virtual company simulation (Chapter 6) or complex multi-part process assessment (Chapter 7, Models 1-2) for your first pilot. Save those for when you have more experience.
 
-,
+---
 
 **Thinking bigger than a single assignment?**
 
@@ -394,7 +394,7 @@ If you're ready to redesign an entire unit from the ground up rather than piloti
 > "We're trying something new because I want you to practice real accounting judgment,analysis, professional skepticism, complex treatment decisions,not just follow rules. Finance professionals use AI for analysis, so learning to use it critically while maintaining standards is important."
 
 ## Economics
-> "We're trying something new because I want you to practice real economic analysis,policy reasoning, modeling, evidence evaluation,not just recite theory. Economists use AI for research and analysis, so learning to use it critically for your work is essential."
+> "We're trying something new because I want you to practice real economic analysis,policy reasoning, modelling, evidence evaluation,not just recite theory. Economists use AI for research and analysis, so learning to use it critically for your work is essential."
 
 :::
 
@@ -554,7 +554,7 @@ I will review your assessment and make final decisions.
 
 Then you review AI's suggestions, adjust where needed, and add your own judgment. This can cut grading time by 30-40%.
 
-,
+---
 
 ## Phase 4: Gather Feedback and Iterate (End of Semester)
 
@@ -660,7 +660,7 @@ Based on feedback, make 2-3 specific changes:
 **Issue:** Grading took longer than expected
 **Fix:** Provide templates/checklists that students complete, making your review faster
 
-,
+---
 
 ## Phase 5: Expand and Integrate (Next Semester)
 
@@ -683,7 +683,7 @@ Make your existing AI assignment more sophisticated:
 - Add persistent context (students have follow-up conversations)
 - Increase complexity of analysis required
 
-,
+---
 
 ## Managing Common Challenges
 
@@ -774,7 +774,7 @@ Make your existing AI assignment more sophisticated:
 
 **Long-term:** Building AI-enhanced assignments is front-loaded work. Year 1 is significant effort. Year 2 is refinement. Year 3 is almost autopilot.
 
-,
+---
 
 ## Measuring Success
 
@@ -801,7 +801,7 @@ How do you know if this is working? Look for these indicators:
 - Students successfully transfer skills to work placements
 - Alumni report that the AI-enhanced assignments were among the most useful parts of their degree
 
-,
+---
 
 ## Final Encouragement
 
@@ -817,6 +817,6 @@ The chapters before this showed you what's possible. This chapter showed you how
 
 Now it's time to choose your first small experiment and try it.
 
-,
+---
 
 **Next Chapter Preview:** In Chapter 9, we directly address the academic integrity and ethics question. You'll learn how to talk to students about AI use, how to design assignments that minimise misuse while maximizing learning, and how to reframe "preventing AI cheating" as "teaching AI literacy and professional ethics." This is the conversation you'll need to have with students, colleagues, and possibly administrators.

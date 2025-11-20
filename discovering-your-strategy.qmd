@@ -19,7 +19,7 @@ This creates a unique opportunity: **You can use AI to discover how to use AI in
 
 Rather than reading a generic guide or following someone else's strategy, you can have a personalized consultation with AI that helps you figure out what actually matters for your discipline, your students, and your constraints.
 
-,
+---
 
 ## The Core Insight: Meta-Prompting
 
@@ -28,14 +28,14 @@ Instead of asking AI to directly solve a teaching problem, you can ask AI to hel
 **Example comparison:**
 
 | Direct Approach | Discovery Approach |
-|,|,|
-| "Generate discussion questions for my class" | "Ask me questions about my students and learning goals, then help me discover multiple ways AI could enhance discussion and critical thinking" |
-| "How can I use AI in my teaching?" | "Interview me about my discipline, student cohort, and teaching philosophy. Then suggest both obvious and creative ways I could use AI that fit my context" |
+|---|---|
+| "Generate discussion questions for my class" | "Ask me questions about my students and learning goals--- then help me discover multiple ways AI could enhance discussion and critical thinking" |
+| "How can I use AI in my teaching?" | "Interview me about my discipline--- student cohort--- and teaching philosophy. Then suggest both obvious and creative ways I could use AI that fit my context" |
 | "What AI techniques should I learn?" | "Help me discover which techniques would solve my actual teaching challenges" |
 
 The discovery approach is more powerful because **AI asks you clarifying questions first**, learns your context, and then provides recommendations tailored to your actual situation,not generic advice for a hypothetical educator.
 
-,
+---
 
 ## The Consultation Prompt: Your Starting Point
 
@@ -69,7 +69,7 @@ Please start by asking your first question.
 
 **That's it.** Paste that prompt and start answering questions. You're about to have one of the most useful conversations about AI you could possibly have.
 
-,
+---
 
 ## Why This Works: The Interview Advantage
 
@@ -119,7 +119,7 @@ Unlike reading a guide or taking a course, this is a *conversation*. You're not 
 
 The back-and-forth is where deep learning happens.
 
-,
+---
 
 ## A Real Example: What This Conversation Looks Like
 
@@ -168,11 +168,11 @@ Here's what a consultation might actually look like for a business educator:
 > - Use AI to help you identify patterns in student questions/mistakes, then design targeted interventions addressing the most common gaps
 > - Create assessment tasks where students must improve, critique, or extend AI-generated audit analysis,this requires real thinking and can't be done by just using AI"
 
-,
+---
 
 See the difference? The AI didn't just suggest "use AI for grading" or other generic ideas. It understood your specific discipline, your students' needs, and your teaching philosophy. The recommendations are contextual and actionable.
 
-,
+---
 
 ## How to Use This Chapter With the Rest of the Book
 
@@ -228,7 +228,7 @@ Your teaching context evolves. Run this consultation quarterly or whenever your 
 
 Each time, you'll discover new opportunities you're ready for now that you weren't before. This keeps your AI strategy aligned with your evolving teaching priorities.
 
-,
+---
 
 ## Variations: Tailored Consultation Prompts By Discipline
 
@@ -264,7 +264,7 @@ procedural knowledge.
 ### For Management Teaching
 ```
 You're an AI expert in management education. Ask me about my teaching context
-(organizational behavior, strategic management, HRM, operations, etc.) and my
+(organisational behavior, strategic management, HRM, operations, etc.) and my
 students. Then recommend ways to use AI to develop leadership and decision-making
 skills in realistic contexts.
 ```
@@ -297,7 +297,7 @@ applied, policy, etc.), my students, and constraints. Then recommend ways to use
 to help students develop economic reasoning and policy thinking skills.
 ```
 
-,
+---
 
 ## The Deeper Principle: AI as a Thinking Mirror
 
@@ -314,14 +314,14 @@ By asking clarifying questions, AI forces you to articulate:
 Often, the value of this conversation isn't the AI's recommendations,**it's the clarity you gain about your own teaching by having to explain it.**
 
 Educators report things like:
-- "I didn't realize how much time I was spending on feedback until the AI asked about it,now I see where AI could help"
-- "Talking through my teaching goals, I realized my students need more practice with judgment, not more information"
+- "I didn't realise how much time I was spending on feedback until the AI asked about it,now I see where AI could help"
+- "Talking through my teaching goals, I realised my students need more practice with judgment, not more information"
 - "Just articulating my teaching philosophy to the AI helped me see how AI could actually enhance it, not replace it"
 - "I'd been assuming AI wasn't relevant to my discipline, but through the interview I discovered three ways it could help"
 
 The AI is a thinking partner, not a replacement for your thinking.
 
-,
+---
 
 ## Practical Tips for Your Consultation
 
@@ -371,7 +371,7 @@ If you discover something useful, share it with colleagues:
 - Others might try similar approaches
 - Collectively, your faculty learns what's possible with AI in your discipline
 
-,
+---
 
 ## The Meta-Moment: You're Using AI to Help You Use AI to Help Your Students
 
@@ -395,7 +395,7 @@ Lean into that. Ask questions. Be honest about your context. Let AI surprise you
 
 **That's where the real value emerges.**
 
-,
+---
 
 ## Your Action Step: Start Your Consultation Right Now
 
@@ -410,7 +410,7 @@ Lean into that. Ask questions. Be honest about your context. Let AI surprise you
 
 That's it. You're using AI to help you use AI better.
 
-,
+---
 
 ## Before You Move Forward
 
@@ -424,6 +424,6 @@ The rest of this book is powerful, but it's most powerful when you know *why* yo
 
 Once you know that, everything else in the book becomes more actionable and more valuable.
 
-,
+---
 
 *Start your discovery conversation now. The best use of AI is one that's tailored to your unique teaching context.*

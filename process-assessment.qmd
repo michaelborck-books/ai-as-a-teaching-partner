@@ -23,22 +23,26 @@ AI makes it possible, for the first time, to assess process at scale.
 Traditional process assessment methods have serious limitations:
 
 **Role-play in class:**
+
 - Time-consuming (only a few students can participate per session)
 - Inconsistent (peer actors vary in quality)
 - Public performance anxiety reduces authenticity
 - Minimal documentation of what actually happened
 
 **Recorded video presentations:**
+
 - Students can script and rehearse (not realistic)
 - No dynamic response to unexpected situations
 - Labour-intensive for lecturers to review and grade
 
 **Written case analysis:**
+
 - Tests knowledge *about* process, not demonstration *of* process
 - Students can look up answers
 - Doesn't capture decision-making under pressure
 
 **AI-enabled assessment solves all of these:**
+
 - Every student gets unlimited practice in realistic scenarios
 - Conversations are dynamic and unpredictable
 - Complete transcripts provide evidence of methodology
@@ -47,7 +51,9 @@ Traditional process assessment methods have serious limitations:
 
 This chapter presents three complete assessment models that leverage AI to grade professional process.
 
-,
+**For practical implementation tools and rubrics to evaluate these assessments, see Chapter 19: Assessment Design and Evaluation Rubrics.**
+
+---
 
 ## Assessment Model 1: Simulated HR Consultation and Process Audit
 
@@ -76,6 +82,7 @@ Students must navigate the conversation, uncover the issues, demonstrate appropr
 **Part 2: The Process Audit (40% of grade)**
 
 Students submit:
+
 1. **The full transcript** of their conversation
 2. **A structured process audit document** (template provided) where they:
    - Identify every point where they applied (or failed to apply) procedural fairness
@@ -158,6 +165,7 @@ You're grading two things simultaneously:
 **1. Quality of the Consultation Process (60%)**
 
 Using the transcript as evidence:
+
 - Did they establish rapport and psychological safety?
 - Did they ask appropriate questions?
 - Did they handle sensitive information properly?
@@ -167,6 +175,7 @@ Using the transcript as evidence:
 **2. Quality of Reflective Analysis (40%)**
 
 Using the audit document:
+
 - Can they accurately identify what they did well and poorly?
 - Do they understand *why* certain approaches work or don't work?
 - Can they connect their practice to theory and legal principles?
@@ -175,13 +184,14 @@ Using the audit document:
 ### Why This Works
 
 This model:
+
 - **Makes invisible skills visible** through transcripts
 - **Develops metacognition** through self-audit
 - **Assesses professional judgment** in real-time conversation
 - **Rewards honesty** (students who identify their own mistakes show deeper understanding)
 - **Prevents cheating** (you can't script a dynamic conversation, and being honest about mistakes is rewarded)
 
-,
+---
 
 ## Assessment Model 2: Evidence-Based Strategic Intervention Plan
 
@@ -207,6 +217,7 @@ Students receive a large dataset (could be real anonymized data or AI-generated 
 > Annual turnover rates by department, employee satisfaction survey results, demographic breakdown, exit interview summaries for 50 departing employees over 2 years, compensation benchmarking data.
 
 Students use AI to:
+
 - Identify patterns and anomalies
 - Generate hypotheses about causes of turnover
 - Summarize key findings
@@ -214,6 +225,7 @@ Students use AI to:
 **AI Prompt They Use:**
 ```
 You are an HR analytics specialist. Analyse this dataset and provide:
+
 1. Three key patterns or trends in the turnover data
 2. Potential root causes for each pattern
 3. Questions we should investigate further
@@ -231,6 +243,7 @@ Students use AI to generate **three distinct strategic intervention options** to
 Based on the turnover analysis, generate three different strategic HR
 interventions to reduce turnover in the Sales department. Each intervention
 should:
+
 - Target a different root cause
 - Be practical and implementable within 6 months
 - Include estimated costs and resources required
@@ -263,16 +276,17 @@ This is where the real work happens. Students write a strategic recommendation r
 ### Assessment Rubric
 
 | Criterion | Excellent (4) | Good (3) | Adequate (2) | Poor (1) |
-|,|,|,|,|,|
+|---|---|---|---|---|
 | **Data Analysis** | Sophisticated identification of patterns; asks insightful questions | Identifies key patterns; asks relevant questions | Identifies basic patterns; questions are superficial | Misses key patterns or asks irrelevant questions |
 | **Theoretical Integration** | Expert application of multiple theories to justify and critique options | Effective use of theory to evaluate options | Basic use of theory; connections are underdeveloped | Minimal or incorrect application of theory |
 | **Critical Evaluation of AI** | Identifies significant flaws in AI logic; demonstrates superior judgment | Identifies some weaknesses in AI outputs; adds value | Minimal critique of AI; mostly accepts outputs | No critical evaluation; simply endorses AI's suggestions |
-| **Strategic Justification** | Recommendation is sophisticated, evidence-based, and practically feasible | Recommendation is well-justified and practical | Recommendation is adequate but justification is thin | Recommendation is poorly justified or impractical |
+| **Strategic Justification** | Recommendation is sophisticated--- evidence-based--- and practically feasible | Recommendation is well-justified and practical | Recommendation is adequate but justification is thin | Recommendation is poorly justified or impractical |
 | **Ethical/Cultural Analysis** | Sophisticated consideration of global practices and ethical implications | Good consideration of ethics and cultural factors | Basic consideration but lacks depth | Minimal or no ethical/cultural analysis |
 
 ### Why This Works
 
 This model:
+
 - **Tests critical thinking**, not just knowledge recall
 - **Requires students to surpass AI** (they must identify what AI got wrong)
 - **Simulates real strategic HR work** (using data, generating options, justifying decisions)
@@ -291,7 +305,7 @@ This model:
 
 **Why this is excellent:** The student has used theory to critique AI, referenced specific evidence, demonstrated superior analytical judgment, and improved on AI's suggestion.
 
-,
+---
 
 ## Assessment Model 3: Competency-Based Recruitment Portfolio
 
@@ -325,8 +339,9 @@ Students receive a brief job role (e.g., "HR Officer for a mid-sized manufacturi
 Students use AI to generate 10 behavioural interview questions targeting the key competencies.
 
 **Then they must:**
+
 1. **Select the 5 best questions** and explain why
-2. **Reject or revise 5 questions** explaining what's wrong with them (too vague, leading questions, not truly behavioral, etc.)
+2. **Reject or revise 5 questions** explaining what's wrong with them (too vague, leading questions, not truly behavioural, etc.)
 3. **Create a scoring rubric** for evaluating candidate responses to their top 5 questions
 
 **Part 3: Candidate Evaluation with Critical Override (50%)**
@@ -334,6 +349,7 @@ Students use AI to generate 10 behavioural interview questions targeting the key
 Students receive **5 mock candidate responses** to one of the interview questions.
 
 They must:
+
 1. Use AI to score each response against their rubric
 2. **Review the AI scores and override at least 2 of them**
 3. **Justify their override** with reference to:
@@ -351,9 +367,11 @@ They must:
 > "In my previous role, I had a team member who was consistently missing deadlines. I scheduled a private meeting and explained that the missed deadlines were affecting the team's overall performance. I asked them if there were any obstacles preventing them from meeting deadlines and offered support. They mentioned they were struggling with prioritization, so we worked together to create a task management system. Over the next month, their performance improved significantly."
 
 **AI Score: 8/10**
+
 **AI Justification:** Strong example of constructive feedback delivery, shows empathy and problem-solving, positive outcome demonstrates effectiveness.
 
 **Student Override: 6/10**
+
 **Student Justification:**
 
 > "While the AI score of 8/10 recognizes the positive elements, it has missed several concerning gaps in this response:
@@ -371,24 +389,25 @@ They must:
 ### Assessment Rubric
 
 | Criterion | Weight | What You're Assessing |
-|,|,|,|
-| **Job Design Quality** | 15% | Legal compliance, appropriateness of competencies, clarity |
+|---|---|---|
+| **Job Design Quality** | 15% | Legal compliance--- appropriateness of competencies--- clarity |
 | **Justification of Revisions** | 15% | Can they articulate why AI's version needed changes? |
 | **Interview Question Selection** | 15% | Do they recognize good vs. poor behavioural questions? |
 | **Rubric Design** | 15% | Is their scoring system measurable and fair? |
-| **Critical Override** | 30% | Most important,do they demonstrate judgment superior to AI? |
-| **Theoretical Integration** | 10% | Have they applied knowledge of bias, human behavior, legal principles? |
+| **Critical Override** | 30% | Most important---do they demonstrate judgment superior to AI? |
+| **Theoretical Integration** | 10% | Have they applied knowledge of bias--- human behaviour--- legal principles? |
 
 ### Why This Works
 
 This model:
+
 - **Assesses critical professional judgment** (can they identify what AI got wrong?)
 - **Simulates real recruitment work** (using technology but maintaining human oversight)
 - **Tests legal and ethical awareness** (discriminatory language, fair assessment practices)
 - **Prevents blind reliance on AI** (students *must* override and justify)
 - **Demonstrates competence** through documented methodology, not just final outputs
 
-,
+---
 
 ## The Common Thread: Process as Evidence
 
@@ -403,7 +422,7 @@ Traditional exams and essays hide the thinking process. You see the final answer
 
 This creates **transparency and accountability**,the two things that make professional practice trustworthy.
 
-,
+---
 
 ## Implementation Tips
 
@@ -441,7 +460,7 @@ I will review your assessment and make the final grading decision.
 
 This can reduce your workload while maintaining quality control.
 
-,
+---
 
 ## Cross-Discipline Applications: Process-Based Assessment
 
@@ -459,12 +478,14 @@ The three process-based assessment models can be adapted for any business discip
 > You are the account manager meeting with Elena Rodriguez, CMO of GreenLife Brands. She's concerned about declining campaign performance and wants to discuss strategic options. You need to conduct a professional consultation to understand her concerns and demonstrate consultative marketing methodology.
 
 **Process Audit Focus:**
+
 - Client needs assessment process
 - Strategic questioning techniques
 - Presentation of marketing options
 - Handling client objections professionally
 
 **Assessment Criteria:**
+
 - Did they establish credibility and build rapport?
 - Did they ask insightful questions about business objectives and constraints?
 - Did they demonstrate understanding of marketing metrics and KPIs?
@@ -475,11 +496,13 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students analyse marketing performance data and develop strategic recommendations, critiquing AI-generated options.
 
 **Assignment Structure:**
+
 1. **Data Analysis:** Students use AI to analyse campaign performance data (engagement rates, conversion metrics, customer segments)
 2. **Strategy Generation:** AI generates three distinct campaign strategy options
 3. **Critical Evaluation:** Students critique each option and make a justified recommendation
 
 **Key Assessment Focus:**
+
 - Application of consumer behaviour theory to data insights
 - Critical evaluation of AI marketing recommendations
 - Integration of brand strategy and market positioning
@@ -490,11 +513,13 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students demonstrate the end-to-end process of evaluating creative work and providing constructive feedback.
 
 **Assignment Structure:**
+
 1. **Creative Brief Development:** Use AI to generate creative briefs, then critically revise
 2. **Feedback Framework Design:** Create structured feedback criteria for creative work
 3. **Critical Evaluation:** Review AI-scored creative samples and override assessments
 
 **Assessment Criteria:**
+
 - Understanding of creative process and constraints
 - Ability to provide constructive feedback on subjective work
 - Application of marketing psychology to creative evaluation
@@ -507,15 +532,18 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students conduct a simulated consultation with a client about audit findings, then audit their professional communication process.
 
 **Scenario Example:**
+
 > You are the audit senior meeting with Michael Chen, CFO of TechManufacturing. You need to discuss preliminary audit findings about revenue recognition issues. Demonstrate professional audit communication methodology.
 
 **Process Audit Focus:**
+
 - Clear explanation of technical audit findings
 - Client education on accounting implications
 - Professional handling of sensitive financial issues
 - Documentation of agreements and action items
 
 **Assessment Criteria:**
+
 - Did they explain complex accounting concepts clearly?
 - Did they maintain professional skepticism while building trust?
 - Did they address both technical and business implications?
@@ -526,11 +554,13 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students analyse financial control weaknesses and develop remediation strategies, critiquing AI-generated options.
 
 **Assignment Structure:**
+
 1. **Control Analysis:** Students use AI to analyse control deficiencies in financial processes
 2. **Remediation Options:** AI generates three distinct control improvement strategies
 3. **Critical Evaluation:** Students evaluate options against regulatory requirements and business needs
 
 **Key Assessment Focus:**
+
 - Application of risk assessment frameworks
 - Critical evaluation of AI compliance recommendations
 - Integration of business operations with control requirements
@@ -541,11 +571,13 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students demonstrate the end-to-end process of audit planning and risk assessment.
 
 **Assignment Structure:**
+
 1. **Risk Assessment Framework:** Use AI to generate audit risk assessments, then critically revise
 2. **Audit Program Design:** Create audit procedures targeting identified risks
 3. **Critical Evaluation:** Review AI-evaluated risk scenarios and override assessments
 
 **Assessment Criteria:**
+
 - Understanding of audit risk and materiality concepts
 - Ability to design risk-based audit procedures
 - Application of professional skepticism to audit planning
@@ -561,12 +593,14 @@ The three process-based assessment models can be adapted for any business discip
 > You are the data analyst meeting with Sarah Thompson, Operations Director. You need to present findings from a customer churn analysis and discuss implementation of retention strategies. Demonstrate professional data communication methodology.
 
 **Process Audit Focus:**
+
 - Clear explanation of analytical findings and limitations
 - Translation of technical insights to business implications
 - Handling stakeholder questions about methodology
 - Documentation of agreed-upon actions and metrics
 
 **Assessment Criteria:**
+
 - Did they explain statistical concepts in business terms?
 - Did they address data quality and uncertainty appropriately?
 - Did they connect insights to actionable business decisions?
@@ -577,11 +611,13 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students analyse business data challenges and develop analytical solutions, critiquing AI-generated approaches.
 
 **Assignment Structure:**
+
 1. **Problem Analysis:** Students use AI to analyse complex business data scenarios
 2. **Solution Options:** AI generates three distinct analytical approaches
 3. **Critical Evaluation:** Students evaluate options against business requirements and technical feasibility
 
 **Key Assessment Focus:**
+
 - Application of statistical and analytical theory
 - Critical evaluation of AI-generated analytical solutions
 - Integration of business context with technical capabilities
@@ -592,11 +628,13 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students demonstrate the end-to-end process of data governance and quality management.
 
 **Assignment Structure:**
+
 1. **Data Quality Framework:** Use AI to generate data governance policies, then critically revise
 2. **Quality Assessment Design:** Create data quality evaluation criteria
 3. **Critical Evaluation:** Review AI-assessed data quality issues and override evaluations
 
 **Assessment Criteria:**
+
 - Understanding of data governance principles and frameworks
 - Ability to assess data quality and integrity issues
 - Application of ethical data practices and privacy considerations
@@ -612,12 +650,14 @@ The three process-based assessment models can be adapted for any business discip
 > You are the guest services manager meeting with Maria Santos, who has filed a formal complaint about her recent stay. She experienced multiple service failures and is demanding compensation. Demonstrate professional service recovery methodology.
 
 **Process Audit Focus:**
+
 - Empathetic acknowledgment of guest concerns
 - Systematic problem resolution process
 - Appropriate compensation and recovery offers
 - Documentation of guest interaction and commitments
 
 **Assessment Criteria:**
+
 - Did they demonstrate genuine empathy and active listening?
 - Did they follow service recovery best practices?
 - Did they balance guest satisfaction with business policies?
@@ -628,11 +668,13 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students analyse guest satisfaction data and develop service enhancement strategies, critiquing AI-generated options.
 
 **Assignment Structure:**
+
 1. **Satisfaction Analysis:** Students use AI to analyse guest feedback and service performance data
 2. **Improvement Options:** AI generates three distinct service enhancement strategies
 3. **Critical Evaluation:** Students evaluate options against operational feasibility and guest expectations
 
 **Key Assessment Focus:**
+
 - Application of customer service theory and psychology
 - Critical evaluation of AI service improvement recommendations
 - Integration of operational constraints with service excellence
@@ -643,11 +685,13 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students demonstrate the end-to-end process of designing and evaluating service experiences.
 
 **Assignment Structure:**
+
 1. **Service Blueprint Development:** Use AI to generate service process designs, then critically revise
 2. **Quality Assessment Framework:** Create service quality evaluation criteria
 3. **Critical Evaluation:** Review AI-assessed service failure scenarios and override evaluations
 
 **Assessment Criteria:**
+
 - Understanding of service design principles and customer journey mapping
 - Ability to identify service quality gaps and improvement opportunities
 - Application of hospitality psychology and customer behaviour
@@ -663,12 +707,14 @@ The three process-based assessment models can be adapted for any business discip
 > You are the IT project manager meeting with Dr. Amanda Foster, CIO. The new EHR system implementation is facing resistance from clinical staff. You need to discuss change management strategies and address user concerns. Demonstrate professional IT implementation methodology.
 
 **Process Audit Focus:**
+
 - Clear communication of technical requirements and constraints
 - Understanding and addressing user resistance
 - Development of change management strategies
 - Documentation of implementation agreements and timelines
 
 **Assessment Criteria:**
+
 - Did they translate technical concepts for non-technical stakeholders?
 - Did they demonstrate understanding of organisational change dynamics?
 - Did they balance technical requirements with business needs?
@@ -679,11 +725,13 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students analyse IT system requirements and develop implementation strategies, critiquing AI-generated options.
 
 **Assignment Structure:**
+
 1. **Requirements Analysis:** Students use AI to analyse business requirements and technical constraints
 2. **Implementation Options:** AI generates three distinct technology solution approaches
 3. **Critical Evaluation:** Students evaluate options against business objectives and technical feasibility
 
 **Key Assessment Focus:**
+
 - Application of systems analysis and design principles
 - Critical evaluation of AI-generated technology solutions
 - Integration of business requirements with technical capabilities
@@ -694,11 +742,13 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students demonstrate the end-to-end process of requirements gathering and system specification.
 
 **Assignment Structure:**
+
 1. **Requirements Specification:** Use AI to generate system requirements documents, then critically revise
 2. **Validation Framework:** Create requirements verification and validation criteria
 3. **Critical Evaluation:** Review AI-assessed requirements quality and override evaluations
 
 **Assessment Criteria:**
+
 - Understanding of requirements engineering principles and techniques
 - Ability to elicit and document stakeholder requirements accurately
 - Application of user-centred design and usability principles
@@ -714,12 +764,14 @@ The three process-based assessment models can be adapted for any business discip
 > You are the leadership development consultant meeting with Robert Walsh, plant manager. His team's productivity has declined and morale is low. He wants advice on improving performance. Demonstrate professional leadership coaching methodology.
 
 **Process Audit Focus:**
+
 - Establishment of coaching relationship and trust
 - Diagnostic questioning to understand organisational dynamics
 - Development of leadership action plans
 - Documentation of coaching agreements and follow-up
 
 **Assessment Criteria:**
+
 - Did they demonstrate active listening and empathy?
 - Did they ask insightful questions about leadership challenges?
 - Did they provide evidence-based leadership advice?
@@ -730,11 +782,13 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students analyse change management challenges and develop implementation strategies, critiquing AI-generated options.
 
 **Assignment Structure:**
+
 1. **Change Analysis:** Students use AI to analyse organisational change scenarios and stakeholder dynamics
 2. **Change Options:** AI generates three distinct change management approaches
 3. **Critical Evaluation:** Students evaluate options against organisational culture and change readiness
 
 **Key Assessment Focus:**
+
 - Application of organisational behaviour and change management theory
 - Critical evaluation of AI-generated change strategies
 - Integration of human factors with business objectives
@@ -745,11 +799,13 @@ The three process-based assessment models can be adapted for any business discip
 **Context:** Students demonstrate the end-to-end process of leadership assessment and development planning.
 
 **Assignment Structure:**
+
 1. **Competency Framework:** Use AI to generate leadership competency models, then critically revise
 2. **Assessment Design:** Create leadership evaluation and development criteria
 3. **Critical Evaluation:** Review AI-assessed leadership scenarios and override evaluations
 
 **Assessment Criteria:**
+
 - Understanding of leadership theory and competency frameworks
 - Ability to assess leadership strengths and development needs
 - Application of organisational psychology and motivation theory
@@ -762,16 +818,19 @@ The three process-based assessment models can be adapted for any business discip
 ### Discipline-Specific Considerations
 
 **Creative Fields (Marketing, Design):**
+
 - Emphasize subjective judgment and iterative feedback processes
 - Include portfolio evidence of creative development cycles
 - Focus on stakeholder management and relationship building
 
 **Technical Fields (Accounting, IT, Analytics):**
+
 - Stress methodological rigor and compliance requirements
 - Include validation of technical assumptions and limitations
 - Focus on risk assessment and professional standards
 
 **Service Fields (Tourism, Hospitality, Management):**
+
 - Emphasize stakeholder psychology and relationship dynamics
 - Include cultural sensitivity and contextual factors
 - Focus on practical implementation and human factors
@@ -779,17 +838,19 @@ The three process-based assessment models can be adapted for any business discip
 ### Implementation Framework
 
 **Assessment Design Principles:**
+
 - Maintain focus on process documentation and critical thinking
 - Adapt evaluation criteria to reflect discipline-specific competencies
 - Ensure AI tools support rather than replace professional judgment
 - Include opportunities for students to demonstrate expertise beyond AI capabilities
 
 **Student Development:**
+
 - Provide discipline-specific examples of excellent process work
 - Teach students how to evaluate AI outputs in their professional context
 - Encourage reflection on how process skills transfer across different scenarios
 
-,
+---
 
 ## Your Action Step
 
@@ -802,6 +863,6 @@ Before the next chapter, choose one assessment in your current curriculum that c
 
 You don't have to implement it immediately,just think through how the shift from product to process assessment might work in your context.
 
-,
+---
 
 **Next Chapter Preview:** In the next chapter, we get practical about implementation. You'll learn how to introduce these ideas to your students, pilot AI-enhanced assignments without overwhelming yourself, gather feedback, iterate, and gradually build confidence with these new approaches. This chapter is all about managing change,for yourself and for your students.

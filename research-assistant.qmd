@@ -8,7 +8,7 @@ If you teach postgraduate students across business disciplines,particularly thos
 
 This chapter addresses AI's role in research contexts: literature review, data analysis, research question development, and thesis writing. The goal is not to ban AI (impossible and counterproductive) but to teach students to use it as a **research assistant**, not a **research replacement**.
 
-,
+---
 
 ## The Core Principle: AI for Process, Human for Insight
 
@@ -28,7 +28,7 @@ AI cannot replace research **insight**:
 
 **The skill we're teaching:** Know when each applies.
 
-,
+---
 
 ## Application 1: Literature Review
 
@@ -70,7 +70,7 @@ landscape so I can read the original sources myself.
 
 **Why this is acceptable:** It's like asking a senior researcher "Where should I start?" The student still does the intellectual work.
 
-,
+---
 
 **Use Case 2: Source Summarization for Initial Screening**
 
@@ -97,7 +97,7 @@ prioritize my reading list.
 
 **Why this is acceptable:** This is no different from reading abstracts first. The student is still making the judgment call about relevance.
 
-,
+---
 
 ### How AI Can Be Misused
 
@@ -120,7 +120,7 @@ in remote work.
 - Assess through oral examination or viva voce
 - Ask students to explain contradictions or debates in their literature
 
-,
+---
 
 **Problematic Use 2: Trusting AI's theoretical analysis**
 
@@ -133,7 +133,7 @@ AI can describe theories but often misapplies them or oversimplifies.
 - Require students to identify where AI got theory wrong
 - Assess theoretical sophistication through application, not just description
 
-,
+---
 
 ### Teaching Students Appropriate Literature Review with AI
 
@@ -159,7 +159,7 @@ AI can describe theories but often misapplies them or oversimplifies.
 - Critical reading and evaluation (human strength)
 - Awareness of AI's limitations in scholarly work
 
-,
+---
 
 ## Application 2: Research Question Development
 
@@ -198,7 +198,7 @@ develop a better one myself.
 
 **Why this is acceptable:** It's like supervision,a good supervisor asks probing questions that help the student clarify their own thinking.
 
-,
+---
 
 **Use Case: Feasibility Check**
 
@@ -224,7 +224,7 @@ Challenge my assumptions—don't just agree with me.
 
 **Why this is acceptable:** Students still make the final decision. AI is playing devil's advocate.
 
-,
+---
 
 ### How AI Can Be Misused
 
@@ -240,7 +240,7 @@ If students simply ask AI to generate questions and choose one without deep enga
 - Ask: "What makes this question worth answering?"
 - Require students to map their question to gaps in existing literature
 
-,
+---
 
 ## Application 3: Data Analysis (Qualitative Research)
 
@@ -260,7 +260,7 @@ AI transcription tools (Otter.ai, Whisper, etc.) can convert audio to text rapid
 
 **Student responsibility:** Review and correct transcription (AI mishears technical terms, names, etc.).
 
-,
+---
 
 **Use Case 2: Initial Coding Suggestions**
 
@@ -285,7 +285,7 @@ to see if I'm missing anything obvious.
 
 **Critical requirement:** Student must code independently FIRST, then compare to AI suggestions.
 
-,
+---
 
 **Use Case 3: Checking for Bias in Interpretation**
 
@@ -309,7 +309,7 @@ Help me ensure I'm not just seeing what I want to see in the data.
 
 **Why this is acceptable:** Good qualitative research includes reflexivity,questioning your own interpretations. This is like peer review or supervision feedback.
 
-,
+---
 
 ### How AI Can Be Misused
 
@@ -323,7 +323,7 @@ If AI does all the coding and theme identification, the student hasn't engaged w
 - Assess through viva voce where student must explain analytic choices
 - Ask students to identify quotes/examples supporting each theme (demonstrates familiarity with data)
 
-,
+---
 
 ## Application 4: Thesis Writing
 
@@ -358,7 +358,7 @@ I'm looking for structural feedback, not content generation.
 
 **What the student gets:** Feedback on organisation before investing time writing full drafts.
 
-,
+---
 
 **Use Case 2: Clarity and Readability**
 
@@ -382,7 +382,7 @@ Evaluate:
 
 **Why this is acceptable:** It's like a writing centre consultation. The ideas are still the student's.
 
-,
+---
 
 ### How AI Can Be Misused
 
@@ -400,7 +400,7 @@ Students paste AI-generated prose into their thesis without engagement.
 - Assess through oral defense where students must explain their arguments
 - Focus assessment on originality of thinking, not just quality of prose
 
-,
+---
 
 **Problematic 2: Trusting AI citations**
 
@@ -410,7 +410,7 @@ AI frequently hallucinates citations,inventing papers that don't exist or misatt
 - **Require students to verify every citation** in their reference list (confirm it exists, that they've read it, that it says what they claim)
 - Spot-check citations during supervision: "Tell me about the Smith 2019 paper you cite here,what was their methodology?"
 
-,
+---
 
 ## Application 5: Research Proposal Development
 
@@ -440,12 +440,12 @@ Students must document:
 **Assessment Rubric:**
 
 | Criterion | Weight | What's Assessed |
-|,|,|,|
-| Research Question Quality | 20% | Originality, significance, feasibility |
+|---|---|---|
+| Research Question Quality | 20% | Originality--- significance--- feasibility |
 | Literature Engagement | 25% | Depth of engagement with sources (not just AI summary) |
 | Methodological Rigor | 25% | Appropriateness and detail of research design |
-| Critical AI Use | 20% | Evidence of critical evaluation of AI outputs, not blind acceptance |
-| Writing Quality | 10% | Clarity, structure, academic conventions |
+| Critical AI Use | 20% | Evidence of critical evaluation of AI outputs--- not blind acceptance |
+| Writing Quality | 10% | Clarity--- structure--- academic conventions |
 
 **What This Teaches:**
 
@@ -454,7 +454,7 @@ Students must document:
 - That AI is a tool requiring oversight (ethical responsibility)
 - Appropriate vs. inappropriate research uses
 
-,
+---
 
 ## Teaching AI Literacy for Research
 
@@ -474,7 +474,7 @@ Explicitly teach these principles to postgraduate students:
 - Evaluating source quality deeply
 - Making original contributions
 
-,
+---
 
 ### Principle 2: Always Verify
 
@@ -490,7 +490,7 @@ AI makes confident mistakes. For research, this is dangerous.
 
 This teaches verification as a habit.
 
-,
+---
 
 ### Principle 3: Use AI to Challenge Your Thinking
 
@@ -502,7 +502,7 @@ The best research use of AI is as a **critical friend**:
 
 Train students to prompt AI to **disagree** with them, not just confirm their thinking.
 
-,
+---
 
 ## Supervising Research Students Using AI
 
@@ -532,7 +532,7 @@ If you suspect a student has outsourced thinking to AI:
 
 Students who've done the work can answer. Students who relied on AI can't.
 
-,
+---
 
 ## Red Flags for Over-Reliance on AI in Research
 
@@ -548,7 +548,7 @@ Students who've done the work can answer. Students who relied on AI can't.
 
 **Response:** Don't accuse immediately. Ask questions that require genuine engagement with the research. Provide opportunity for the student to demonstrate their thinking.
 
-,
+---
 
 ## Sample Unit: Research Methods (Postgraduate)
 
@@ -608,7 +608,7 @@ Here's how to integrate AI into a postgraduate research methods unit (examples a
 - AI Use Log (documenting all AI assistance)
 - Oral presentation defending methodological choices
 
-,
+---
 
 ## Cross-Discipline Applications: Research Assistant Adaptations
 
@@ -621,7 +621,7 @@ The research assistant applications can be adapted for postgraduate research acr
 ### Literature Review Applications
 
 **Discipline-Specific Considerations:**
-- Marketing literature spans consumer behavior, branding, digital marketing, and market research
+- Marketing literature spans consumer behaviour, branding, digital marketing, and market research
 - Need to integrate academic research with industry reports and practitioner insights
 - Emphasis on emerging trends and technology-driven changes
 
@@ -771,7 +771,7 @@ Suggest potential themes emerging from this documentation sample. This is prelim
 **Discipline-Specific Considerations:**
 - Analytics literature spans statistics, data science, machine learning, and business intelligence
 - Need to integrate technical methodologies with business applications
-- Emphasis on emerging technologies and predictive modeling
+- Emphasis on emerging technologies and predictive modelling
 
 **Appropriate AI Use Examples:**
 ```
@@ -803,11 +803,11 @@ Do not write a literature review—give me a research landscape map.
 ```
 PROMPT: Analytics Research Question Refinement
 
-My broad topic is predictive modeling for supply chain optimization. My draft question: "How accurate are machine learning models for demand forecasting?"
+My broad topic is predictive modelling for supply chain optimization. My draft question: "How accurate are machine learning models for demand forecasting?"
 
 Help me refine by:
 1. Clarifying what "accuracy" means (metrics, business impact?)
-2. Identifying specific modeling approaches and data requirements
+2. Identifying specific modelling approaches and data requirements
 3. Considering implementation challenges and data availability
 4. Addressing business value vs. technical performance
 
@@ -1027,7 +1027,7 @@ PROMPT: Management Research Question Refinement
 My broad topic is organisational culture change. My draft question: "How do leaders change organisational culture?"
 
 Help me refine by:
-1. Clarifying what aspects of culture (values, behaviors, artifacts?)
+1. Clarifying what aspects of culture (values, behaviours, artifacts?)
 2. Identifying specific change contexts and leadership approaches
 3. Considering organisational size, industry, and cultural factors
 4. Addressing measurement challenges and success criteria
@@ -1110,7 +1110,7 @@ Regardless of discipline, students must verify:
 - Assessment of critical thinking about AI-generated insights
 - Documentation of AI assistance in research process
 
-,
+---
 
 ## Key Principle for Postgraduate AI Integration
 
@@ -1128,7 +1128,7 @@ If AI integration makes postgraduate work easier without making it better, you'r
 
 AI should enable students to engage with MORE literature, analyse data MORE thoroughly, and produce MORE rigorous research,not to avoid doing the hard thinking that research requires.
 
-,
+---
 
 ## Office Document Outputs: From Analysis to Professional Presentation
 
@@ -1148,7 +1148,7 @@ report (3000-4000 words) that includes:
 
 1. **Executive Summary** (200-300 words) - What this research found and why it matters
 2. **Introduction & Context** - The research question and why it matters
-3. **Methodology** (500 words) - How data was collected and analyzed
+3. **Methodology** (500 words) - How data was collected and analysed
 4. **Findings** (1500-2000 words) - Themes with supporting quotes
 5. **Discussion** (800-1000 words) - What findings mean for the research area
 6. **Limitations** (300 words) - What this analysis can and cannot tell us
@@ -1237,7 +1237,7 @@ When students use document generation for research deliverables:
 **What to assess:**
 - Is the analysis accurately represented? 
 - Are limitations clearly acknowledged? 
-- Is the presentation organized logically? 
+- Is the presentation organised logically? 
 - Are sources properly cited? 
 - Does the document reflect genuine research understanding? 
 
@@ -1275,7 +1275,7 @@ research quality, which is the actual learning objective.
 
 **The principle:** AI generates the *presentation* of research, not the research itself. If AI is doing the research thinking, you have a problem.
 
-,
+---
 
 ## Your Action Step
 
@@ -1290,12 +1290,12 @@ If you supervise research students:
 3. **Make it explicit** in your research guidelines which documents can be AI-generated and which cannot
 4. **Verify authenticity** by asking students about their analysis and thinking, not just reviewing the document
 
-,
+---
 
 ## Next Chapter Preview
 
 In the next chapter, we explore how to make static teaching content interactive,transforming traditional lectures, readings, and materials into dynamic, AI-enhanced learning experiences. This includes live demonstrations, interactive scenarios, and engaging activities that maintain the human connection while leveraging AI's strengths.
 
-,
+---
 
 **Cross-Reference:** For detailed guidance on creating Word documents, PowerPoint presentations, and other office suite outputs from AI conversations, see **Chapter 14: From Conversation to Document**. That chapter provides step-by-step workflows and discipline-specific examples for all the document generation scenarios mentioned above.

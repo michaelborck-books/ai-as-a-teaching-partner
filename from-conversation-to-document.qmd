@@ -14,9 +14,9 @@ Whether you need:
 
 ...you can have a natural language conversation with AI and end up with a complete, professionally formatted document.
 
-This changes everything about workflow efficiency and communication. Instead of "analyze this data, give me the results, and I'll spend an hour formatting it into PowerPoint," you can have AI generate the presentation directly,one conversation, complete output.
+This changes everything about workflow efficiency and communication. Instead of "analyse this data, give me the results, and I'll spend an hour formatting it into PowerPoint," you can have AI generate the presentation directly,one conversation, complete output.
 
-,
+---
 
 ## The Core Principle: Conversation-Driven Document Creation
 
@@ -40,7 +40,7 @@ The key insight: **The conversation IS the work. The document is the output of t
 
 This is fundamentally different from "use AI to write a report" (which replaces thinking) versus "use AI to help you think through an analysis, then generate the presentation of that thinking" (which amplifies thinking).
 
-,
+---
 
 ## Application 1: Data Analysis → PowerPoint Presentation
 
@@ -132,7 +132,7 @@ Create a PowerPoint presentation that includes:
 
 Requirements:
 - Professional corporate design
-- Readable fonts and colors
+- Readable fonts and colours
 - One main chart per slide (takes 60% of slide)
 - Title for each slide
 - Presenter notes with detailed interpretation
@@ -228,7 +228,7 @@ management priorities.
 
 :::
 
-,
+---
 
 ## Application 2: Qualitative Analysis → Documented Findings
 
@@ -267,7 +267,7 @@ The result: A clean text transcript ready for analysis.
 
 #### **Step 2: Thematic Analysis**
 
-Now analyze the themes:
+Now analyse the themes:
 
 ```
 I have a transcript of [interviews/focus group]. I'm conducting
@@ -411,7 +411,7 @@ report.
 
 :::
 
-,
+---
 
 ## Application 3: Generic Document Creation
 
@@ -427,7 +427,7 @@ Based on our conversation about [topic], create a professional report
 
 1. Executive Summary (200 words)
 2. Introduction and Context
-3. Analysis or Findings (clearly organized with subheadings)
+3. Analysis or Findings (clearly organised with subheadings)
 4. Implications and Recommendations
 5. Conclusion
 6. References (cite sources if using external knowledge)
@@ -517,7 +517,7 @@ Make sure:
 I'll use this for further analysis in [tool].
 ```
 
-,
+---
 
 ## Tool-Specific: Artifacts and Canvas
 
@@ -570,7 +570,7 @@ Create [document/spreadsheet] that I can export to Google Docs/Sheets.
 When you're done, I'll click the export button to add this to my Drive.
 ```
 
-,
+---
 
 ## Workflow Integration: The Big Picture
 
@@ -599,7 +599,7 @@ Issue or analysis → Conversational exploration → Structured output
 ::: {.panel-tabset}
 
 #### Business & Marketing
-**Scenario**: Students analyze marketing campaign data, create presentation
+**Scenario**: Students analyse marketing campaign data, create presentation
 of findings, present to class (simulating real campaign review).
 
 **Workflow**:
@@ -616,7 +616,7 @@ findings in a professional report.
 
 **Workflow**:
 1. Students gather financial data
-2. AI helps analyze trends and calculate key ratios
+2. AI helps analyse trends and calculate key ratios
 3. AI generates a Word report with formatted analysis
 4. Students review and edit for accuracy
 5. Students submit professional report
@@ -624,12 +624,12 @@ findings in a professional report.
 **Learning objective**: How to communicate financial analysis to stakeholders.
 
 #### Supply Chain & Logistics
-**Scenario**: Students analyze supplier network data, create presentation
+**Scenario**: Students analyse supplier network data, create presentation
 for supply chain optimization decision.
 
 **Workflow**:
 1. Students provide supplier data
-2. AI analyzes performance, identifies risks, suggests optimization
+2. AI analyses performance, identifies risks, suggests optimization
 3. AI creates presentation with recommendations
 4. Students present to class as supply chain team
 
@@ -641,43 +641,43 @@ findings to class as HR team.
 
 **Workflow**:
 1. Class completes engagement survey
-2. AI analyzes by department, identifies themes
+2. AI analyses by department, identifies themes
 3. AI generates presentation with findings
 4. HR student team presents recommendations
 
 **Learning objective**: How engagement data drives HR strategy.
 
 #### Information Systems
-**Scenario**: Students analyze system performance data, create technical
+**Scenario**: Students analyse system performance data, create technical
 report recommending improvements.
 
 **Workflow**:
 1. Students collect system metrics
-2. AI analyzes trends, identifies problems
+2. AI analyses trends, identifies problems
 3. AI generates Word report with technical analysis
 4. Students review and add recommendations
 
 **Learning objective**: How performance analysis drives infrastructure decisions.
 
 #### Tourism & Hospitality
-**Scenario**: Students analyze guest feedback data, create presentation
+**Scenario**: Students analyse guest feedback data, create presentation
 recommending service improvements.
 
 **Workflow**:
 1. Students collect guest feedback
-2. AI analyzes satisfaction, identifies pain points
+2. AI analyses satisfaction, identifies pain points
 3. AI creates presentation with recommendations
 4. Students present to class as management team
 
 **Learning objective**: How guest insights drive service strategy.
 
 #### Economics
-**Scenario**: Students analyze economic data, create presentation explaining
+**Scenario**: Students analyse economic data, create presentation explaining
 trends and policy implications.
 
 **Workflow**:
 1. Students gather economic indicators
-2. AI analyzes trends and relationships
+2. AI analyses trends and relationships
 3. AI creates presentation with economic analysis
 4. Students present findings
 
@@ -689,7 +689,7 @@ cultural findings and recommendations.
 
 **Workflow**:
 1. Class completes organizational survey
-2. AI analyzes by team/level, identifies cultural themes
+2. AI analyses by team/level, identifies cultural themes
 3. AI creates presentation with findings
 4. Student team presents organizational insights
 
@@ -697,7 +697,7 @@ cultural findings and recommendations.
 
 :::
 
-,
+---
 
 ## Key Principles
 
@@ -709,7 +709,7 @@ The document is an output of thinking, not a replacement for it.
 ✓ Good: "I explored the data with AI, identified interesting patterns,
   then asked AI to create a presentation of those findings"
 
-✗ Problematic: "I asked AI to analyze this data and create a presentation"
+✗ Problematic: "I asked AI to analyse this data and create a presentation"
 ```
 
 The difference: You were thinking the first time; the AI was thinking the second time.
@@ -743,7 +743,7 @@ In academic and professional contexts, disclose AI use:
 
 Context matters. Transparency is always right.
 
-,
+---
 
 ## Assessment Strategy
 
@@ -790,7 +790,7 @@ Try: "Analyze this data with AI's help, then submit:
 
 This shows thinking, not just output.
 
-,
+---
 
 ## Common Workflows by Discipline
 
@@ -834,7 +834,7 @@ This shows thinking, not just output.
 - Change readiness data → Readiness analysis → Change management plan
 - Survey data → Stakeholder analysis → Stakeholder engagement strategy
 
-,
+---
 
 ## Your Advantage: The Natural Language Interface
 
@@ -845,7 +845,7 @@ The most powerful thing about this workflow is often overlooked:
 You can have a natural language conversation with AI about what you want to understand, ask questions, explore nuance, and then ask for the output. No technical skills required. No struggling with tools.
 
 This democratizes what was previously only available to people with:
-- Programming skills (to analyze data)
+- Programming skills (to analyse data)
 - Design skills (to create presentations)
 - Writing skills (to structure reports)
 
@@ -853,7 +853,7 @@ Now: Have a good conversation. Get a professional output.
 
 **That's the real power here.**
 
-,
+---
 
 ## Before You Create Documents
 
@@ -866,7 +866,7 @@ Remember:
 
 With those principles, document generation becomes a powerful teaching and professional tool.
 
-,
+---
 
 ## Your Next Step
 

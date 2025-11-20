@@ -33,7 +33,7 @@ You don't need to build the entire virtual company at once. Start simple and add
 
 Let's explore each level.
 
-,
+---
 
 ## Level 1: Single Employee Persona (Master Prompt)
 
@@ -120,7 +120,7 @@ Did the student:
 - Identify what other information is needed (interviewing Priya, reviewing policies, checking documentation)?
 - Recognize the underlying issues (inadequate management training, unclear performance standards)?
 
-,
+---
 
 ## Level 2: Multiple Employee Personas (Cast of Characters)
 
@@ -236,7 +236,7 @@ Each persona will give a different version of events. Students must:
 
 This mirrors real HR work where truth is rarely simple.
 
-,
+---
 
 ## Level 3: Persistent Context (Company Memory)
 
@@ -315,7 +315,7 @@ The AI remembers that the student's report was superficial and didn't validate P
 
 The AI remembers that the student was thorough, empathetic, and fair. This builds trust.
 
-,
+---
 
 ## Level 4: Dynamic Events (Evolving Scenarios)
 
@@ -363,17 +363,17 @@ This creates **emergent complexity** that mirrors real organisational life, wher
 Create a semester-long project where students act as the HR team for a virtual company. Each week brings new developments:
 
 | Week | Event | Student Task |
-|,|,|,|
-| 1-2 | Introduction to InnovateCo, cast of characters | Conduct organisational culture assessment |
+|---|---|---|
+| 1-2 | Introduction to InnovateCo--- cast of characters | Conduct organisational culture assessment |
 | 3-4 | Performance management complaint (Jamie/Priya) | Investigate and resolve |
-| 5-6 | Employee requests union representation | Respond to union inquiry, prepare for negotiation |
-| 7-8 | Diversity audit reveals gender pay gap | Analyse data, recommend corrective action |
-| 9-10 | Acquisition announced, restructuring begins | Manage change communication, handle redundancies |
+| 5-6 | Employee requests union representation | Respond to union inquiry--- prepare for negotiation |
+| 7-8 | Diversity audit reveals gender pay gap | Analyse data--- recommend corrective action |
+| 9-10 | Acquisition announced--- restructuring begins | Manage change communication--- handle redundancies |
 | 11-12 | Post-restructure morale crisis | Design retention and engagement strategy |
 
 Students work in teams (acting as the HR department). All teams interact with the same personas, but the personas respond differently based on each team's approach.
 
-,
+---
 
 ## Practical Implementation Guidance
 
@@ -428,14 +428,14 @@ Work with your university's IT department to create a custom web interface where
 **Grading Rubric Example:**
 
 | Criterion | Weight | Description |
-|,|,|,|
-| Investigation Process | 25% | Quality of questions, fairness, thoroughness |
-| Stakeholder Management | 20% | Rapport-building, empathy, professionalism |
+|---|---|---|
+| Investigation Process | 25% | Quality of questions--- fairness--- thoroughness |
+| Stakeholder Management | 20% | Rapport-building--- empathy--- professionalism |
 | Analysis & Synthesis | 25% | Ability to integrate multiple perspectives and identify underlying issues |
-| Recommendations | 20% | Practical, justified, legally sound solutions |
-| Reflection | 10% | Metacognitive awareness, learning demonstrated |
+| Recommendations | 20% | Practical--- justified--- legally sound solutions |
+| Reflection | 10% | Metacognitive awareness--- learning demonstrated |
 
-,
+---
 
 ## Cross-Discipline Applications: Virtual Company Simulations
 
@@ -583,7 +583,7 @@ All personas should reflect increased stress, fatigue, and the pressure of maint
 
 **Semester-Long Project Structure:**
 | Week | Event | Student Task |
-|,|,|,|
+|---|---|---|
 | 1-2 | Pre-season planning | Staff scheduling and inventory management |
 | 3-4 | Peak season begins | Service quality monitoring and complaint resolution |
 | 5-6 | External event impact | Crisis management and resource allocation |
@@ -713,7 +713,7 @@ Stay in character. Begin now.
 **Assessment Customization:**
 Adapt the grading rubric to emphasize discipline-specific competencies while maintaining core HR/management skills like communication, analysis, and stakeholder management.
 
-,
+---
 
 ## Common Questions
 
@@ -737,7 +737,7 @@ Level 3-4: Ongoing time investment, but you're building reusable assets.
 
 A: Yes! Unlike traditional case studies that students might find online, AI simulations are dynamic,each student's experience is unique. However, you should refresh and refine your prompts based on what you learn from each cohort.
 
-,
+---
 
 ## The Vision: Business Education Transformed
 
@@ -752,7 +752,7 @@ Imagine your graduates leaving university having:
 
 This is what virtual company simulations can achieve. It's not replacing traditional teaching,it's adding a layer of experiential learning that was previously impossible at scale.
 
-,
+---
 
 ## Your Action Step
 
@@ -766,6 +766,6 @@ Before the next chapter, decide your level of ambition:
 
 Choose what feels manageable for your current teaching load and technical comfort level. You can always scale up later.
 
-,
+---
 
 **Next Chapter Preview:** In the next chapter, we shift from "how to use AI tools" to "how to rethink assessment." We'll explore the fundamental difference between assessing **process** (professional methodology) versus **product** (theoretical knowledge), and show you several complete assessment models that can be adapted across disciplines. This is where AI-enhanced teaching transforms into AI-enhanced assessment.

@@ -10,6 +10,8 @@ This book is written specifically for business lecturers across all disciplines 
 
 ## The Problem We're Solving
 
+## The Problem We're Solving
+
 As a business educator, you face a persistent challenge: **how do you prepare students for the messy, high-stakes reality of professional business work when your classroom is safe, controlled, and hypothetical?**
 
 The specific challenge depends on your discipline. Here are just a few examples:
@@ -38,7 +40,7 @@ You can teach systems analysis and project management methodology, but you can't
 You can teach accounting principles and financial analysis, but you can't easily let students audit complex financial statements with errors, conduct forensic analysis, or navigate ambiguous accounting treatments. You can't let them make and learn from valuation mistakes at scale.
 
 ## Economics
-You can teach economic theory and modeling, but you can't easily let students work with real market volatility, make predictions and test them, or navigate policy trade-offs with competing stakeholder interests. You can't simulate historical scenarios or generate synthetic economic data at scale.
+You can teach economic theory and modelling, but you can't easily let students work with real market volatility, make predictions and test them, or navigate policy trade-offs with competing stakeholder interests. You can't simulate historical scenarios or generate synthetic economic data at scale.
 
 :::
 
@@ -225,7 +227,7 @@ IT professionals use AI for code generation, systems analysis, and automation. O
 Finance professionals use AI for analysis, forecasting, and risk assessment. Our job is to teach students to validate AI analysis, maintain professional skepticism, and ensure compliance.
 
 ## Economics
-Economists use AI for modeling and analysis. Our job is to teach students to validate assumptions, understand model limitations, and maintain rigor in economic reasoning.
+Economists use AI for modelling and analysis. Our job is to teach students to validate assumptions, understand model limitations, and maintain rigor in economic reasoning.
 
 :::
 
@@ -261,6 +263,6 @@ Because ultimately, that's what we're here for: to send confident, competent, et
 
 Let's begin.
 
-,
+---
 
 **Next Chapter Preview:** In Chapter 2, you'll have your first conversation with an AI tool. We'll walk through exactly what to type, what to expect, and how to think about prompts as instructions to a very capable (but not infallible) assistant.
