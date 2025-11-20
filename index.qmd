@@ -237,23 +237,14 @@ Throughout this book, **prompting** is your core skill. Whether you're:
 
 # How to Use This Book
 
-## If you're completely new to AI:
-Start with **Chapter 1** (motivation) and **Chapter 2** (your first AI conversation). Work through the basics before exploring advanced applications.
-
-## If you want to implement AI in your teaching:
-Read **Chapter 3** (your first steps) for a practical implementation plan. Then move to **Chapter 4** (six essential techniques) and pick one to try immediately. Refer to **Appendix A** for copy-paste prompts.
-
-## If you're designing assessments:
-Read **Chapter 8** (process-based assessment models) and **Chapter 10** (complete unit design). Use these frameworks to redesign existing assignments.
-
-## If you teach postgraduate students:
-Focus on **Chapter 11** (AI as research assistant) for guidance on appropriate AI use in research contexts.
-
-## If you're presenting to colleagues:
-Use **Appendix B** (one-hour faculty workshop guide) as a facilitation template.
-
-## If you need institutional justification:
-Refer to **Appendix C** (alignment with Curtin learning outcomes) to demonstrate how AI integration supports existing educational goals.
+| Your Situation | Recommended Reading Path |
+|---|---|
+| **🤷 Completely new to AI** | Start with **Chapter 1** (motivation) and **Chapter 2** (your first AI conversation). Work through the basics before exploring advanced applications. |
+| **👨‍🏫 Want to implement AI in teaching** | Read **Chapter 3** (your first steps) for a practical implementation plan. Then move to **Chapter 4** (six essential techniques) and pick one to try immediately. Refer to **Appendix A** for copy-paste prompts. |
+| **📝 Designing assessments** | Read **Chapter 11** (process-based assessment models) and **Chapter 19** (assessment design & rubrics). Use these frameworks to redesign existing assignments. |
+| **🎓 Teach postgraduate students** | Focus on **Chapter 17** (AI as research assistant) for guidance on appropriate AI use in research contexts. |
+| **👥 Presenting to colleagues** | Use **Appendix B** (one-hour faculty workshop guide) as a facilitation template. |
+| **🏛️ Need institutional justification** | Refer to **Appendix C** (alignment with Curtin learning outcomes) to demonstrate how AI integration supports existing educational goals. |
 
 ---
 
