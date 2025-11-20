@@ -3,7 +3,7 @@ project:
   
 book:
   title: "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education"
-  author: "Somm Education Team"
+  author: "SoMM Education Team"
   cover-image: cover.png
   chapters:
     - index.qmd
