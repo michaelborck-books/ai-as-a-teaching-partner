@@ -1,0 +1,105 @@
+# Glossary
+
+This glossary provides definitions for key terms and concepts used throughout the book. Terms are listed alphabetically.
+
+## A
+
+**AI (Artificial Intelligence)**: Software systems that can perform tasks that typically require human intelligence, such as pattern recognition, decision-making, language understanding, and problem-solving.
+
+**AI Ethics**: The study of moral principles and guidelines for the responsible development and use of artificial intelligence systems.
+
+**AI Literacy**: The ability to understand, evaluate, and effectively use AI systems and their outputs.
+
+**Assessment Rubrics**: Structured evaluation criteria used to assess student work against specific learning outcomes and standards.
+
+## B
+
+**Bias in AI**: Systematic errors in AI systems that result in unfair or discriminatory outcomes, often due to biased training data or algorithmic design.
+
+## C
+
+**Chain of Thought**: A prompting technique where AI is guided to show its reasoning step-by-step, rather than jumping directly to a final answer.
+
+**CRAFT Framework**: A structured approach to writing effective prompts, consisting of:
+- **C**: Context (background information)
+- **R**: Role (AI persona to adopt)
+- **A**: Action (specific task to perform)
+- **F**: Format (desired output structure)
+- **T**: Tone/Target (intended audience and style)
+
+**Critical Engagement**: The practice of actively questioning, evaluating, and critiquing AI outputs rather than accepting them passively.
+
+## D
+
+**Deep Learning**: A subset of machine learning using neural networks with multiple layers to process complex patterns and data.
+
+**Dialogue-Based Assessment**: Assessment methods that evaluate student thinking through interactive conversations rather than static products.
+
+## E
+
+**Evidence-Based Practice**: Professional decision-making grounded in research, data, and systematic evaluation rather than intuition alone.
+
+## F
+
+**Few-Shot Learning**: AI's ability to learn and perform tasks from just a few examples, rather than requiring extensive training data.
+
+## G
+
+**Generative AI**: AI systems that can create new content, such as text, images, or code, rather than just analyzing existing data.
+
+## H
+
+**Hallucination**: When AI generates false or misleading information confidently, as if it were factual.
+
+**Human Oversight**: The practice of humans reviewing, validating, and intervening in AI processes to ensure accuracy and ethical outcomes.
+
+## I
+
+**Iterative Refinement**: The process of repeatedly improving AI outputs through feedback and revision cycles.
+
+## L
+
+**Large Language Models (LLMs)**: Advanced AI models trained on vast amounts of text data to understand and generate human-like language. Examples include ChatGPT, Claude, and Gemini.
+
+**Learning Outcomes**: Specific statements describing what students should know, understand, or be able to do after completing a learning experience.
+
+## M
+
+**Machine Learning**: A type of AI where systems learn patterns from data and improve performance without being explicitly programmed for each task.
+
+**Meta-Prompting**: Using AI to help you create better prompts for AI, essentially using AI to improve your AI interactions.
+
+**Metacognition**: Awareness and control of one's own learning processes, including planning, monitoring, and evaluating learning strategies.
+
+## P
+
+**Process-Based Assessment**: Evaluation methods that focus on how students think and work through problems, rather than just the final product or answer.
+
+**Product-Based Assessment**: Traditional evaluation methods that focus primarily on the final output or result, rather than the thinking process.
+
+**Prompt Engineering**: The practice of crafting effective instructions (prompts) to get desired outputs from AI systems.
+
+**Prompting**: The act of providing instructions or questions to AI systems to elicit specific responses or behaviors.
+
+## R
+
+**Retrieval-Augmented Generation (RAG)**: A technique where AI combines its training knowledge with real-time data retrieval to provide more accurate and current information.
+
+**Rubrics**: Detailed scoring guides that specify criteria for different levels of performance on assessment tasks.
+
+## S
+
+**Scaffolding**: Educational support structures that help students achieve tasks they couldn't accomplish independently, gradually removed as competence develops.
+
+**Self-Assessment**: The process where students evaluate their own work and learning progress against established criteria.
+
+## T
+
+**Transparency Model**: An approach to AI integration where students openly acknowledge AI use, submit their interaction history, and critically evaluate AI outputs.
+
+**Transfer Learning**: AI's ability to apply knowledge learned from one task to perform well on related tasks.
+
+## V
+
+**Virtual Company**: Simulated business environments created through AI conversations, allowing students to practice professional scenarios safely.</content>
+<parameter name="filePath">/Users/michael/Projects/ai-as-a-teaching-partner/glossary.qmd

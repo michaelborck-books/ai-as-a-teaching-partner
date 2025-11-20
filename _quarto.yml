@@ -37,6 +37,7 @@ book:
     - curtin-alignment.qmd
     - advanced-prompting.qmd
     - craft-vs-create.qmd
+    - glossary.qmd
 
 format:
   html:
