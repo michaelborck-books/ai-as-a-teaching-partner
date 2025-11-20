@@ -11,7 +11,7 @@ Imagine you just hired a brilliant but inexperienced analyst or consultant. They
 
 **This is exactly how AI behaves.** Your job as a business professional is to review, question, and improve AI-generated advice before it impacts real people and real organisations.
 
-The difference between good business professionals and great ones isn't whether they use AI tools—it's how critically they evaluate AI outputs. In professional work across all disciplines, bad advice can lead to legal challenges, damaged relationships, failed initiatives, or strategic missteps.
+The difference between good business professionals and great ones isn't whether they use AI tools,it's how critically they evaluate AI outputs. In professional work across all disciplines, bad advice can lead to legal challenges, damaged relationships, failed initiatives, or strategic missteps.
 
 ## The Business Impact of Uncritical AI Acceptance
 
@@ -21,6 +21,7 @@ The difference between good business professionals and great ones isn't whether 
 
 ## HR
 Your AI assistant generates a new performance review policy. You implement it without thorough review. Three months later:
+
 - Policy doesn't comply with Fair Work Act requirements
 - Creates unintended pay equity issues
 - Managers spend 15 hours per employee instead of 2
@@ -28,6 +29,7 @@ Your AI assistant generates a new performance review policy. You implement it wi
 
 ## Finance
 Your AI generates an investment recommendation. You present it to the board without validating assumptions. Later you discover:
+
 - Key financial assumptions were outdated
 - Risk profile didn't match your organisation's tolerance
 - Tax implications weren't considered
@@ -35,6 +37,7 @@ Your AI generates an investment recommendation. You present it to the board with
 
 ## Supply Chain
 Your AI recommends a supplier consolidation strategy. You implement without operational testing. Results:
+
 - Single supplier can't actually scale to your volumes
 - Quality issues emerge under real-world conditions
 - You've lost relationship with backup suppliers
@@ -42,6 +45,7 @@ Your AI recommends a supplier consolidation strategy. You implement without oper
 
 ## Management
 Your AI generates a change management plan. You follow it without stakeholder testing. Outcomes:
+
 - Key influencers weren't engaged early enough
 - Communication messaging doesn't resonate with your culture
 - Implementation timeline is unrealistic given other priorities
@@ -49,6 +53,7 @@ Your AI generates a change management plan. You follow it without stakeholder te
 
 ## Marketing
 Your AI recommends a campaign strategy. You launch without market validation. Results:
+
 - Assumptions about target audience are incorrect
 - Budget allocation doesn't match actual customer behaviour
 - Messaging alienates key segments
@@ -58,7 +63,7 @@ Your AI recommends a campaign strategy. You launch without market validation. Re
 
 **Lesson**: Always critique AI-generated recommendations thoroughly before implementation, regardless of discipline.
 
----
+,
 
 ## Your 5-Step Business Critique Framework
 
@@ -70,7 +75,7 @@ This framework applies across all business disciplines:
 4. **Context Check** - "What assumptions is AI making about my organisation?"
 5. **Stakeholder Check** - "How will different groups react to this?"
 
----
+,
 
 ## Step 1: Comprehension Check - "Do I understand this?"
 
@@ -94,7 +99,7 @@ This framework applies across all business disciplines:
 "We recommend creating a performance management system where employees get feedback from multiple sources throughout the year, not just once annually. This includes regular check-ins with managers, peer feedback on projects, and quarterly progress reviews against clear goals."
 ```
 
----
+,
 
 ## Step 2: Simplicity Check - "Is this practical for my workplace?"
 
@@ -111,7 +116,7 @@ This framework applies across all business disciplines:
 **HR Example**:
 AI suggests a sophisticated 360-degree feedback system with custom software, external facilitators, and detailed analytics. You ask for a simpler approach and get a practical solution using existing tools like Google Forms and manager training sessions.
 
----
+,
 
 ## Step 3: Legal, Technical & Risk Check - "What are the implications?"
 
@@ -163,7 +168,7 @@ AI suggests a sophisticated 360-degree feedback system with custom software, ext
 - What organisational constraints or capabilities might we lack?
 - Who might be negatively affected and how?
 
----
+,
 
 ## Step 4: Context Check - "What assumptions is AI making about my organisation?"
 
@@ -182,7 +187,7 @@ AI suggests a sophisticated 360-degree feedback system with custom software, ext
 **Real Example**:
 AI recommends an employee engagement app with daily mood tracking and gamified recognition. You realise this assumes your employees are comfortable sharing personal data and that you have the technical infrastructure to support it. You ask for alternatives that work with your existing communication channels.
 
----
+,
 
 ## Step 5: Stakeholder Check - "How will different groups react to this?"
 
@@ -200,13 +205,14 @@ AI recommends an employee engagement app with daily mood tracking and gamified r
 
 **Stakeholder Mapping** (adjust by discipline):
 Always consider:
+
 - **Senior Leadership**: Will they see the business value and strategic alignment?
 - **Operational Staff/Managers**: Do they have skills, capacity, and buy-in to implement?
 - **Affected Groups**: Will this feel fair, transparent, and beneficial to them?
 - **Functional Teams**: Do we have the capability and resources to sustain this?
-- **External Stakeholders**: Unions, regulators, partners, customers—will they support or oppose?
+- **External Stakeholders**: Unions, regulators, partners, customers,will they support or oppose?
 
----
+,
 
 ## Common AI Issues Across Disciplines and How to Fix Them
 
@@ -248,7 +254,7 @@ Better: Milestone-based plan with key decision gates
 
 :::
 
-**Your Direction**: "Start with the 80/20 rule—what 20% will address 80% of situations?"
+**Your Direction**: "Start with the 80/20 rule,what 20% will address 80% of situations?"
 
 ### Issue 2: Ignoring Compliance and Constraints
 
@@ -318,7 +324,7 @@ Better: "Use differentiated metrics based on supplier criticality and category"
 
 **Your Direction**: "How should this be adapted for our specific context, constraints, and different situations?"
 
----
+,
 
 ## Your Critique Conversation Templates
 
@@ -334,7 +340,7 @@ Better: "Use differentiated metrics based on supplier criticality and category"
 ### Template 4: Anticipating Resistance
 *"What resistance should I expect if I implement this recommendation? Walk me through the likely concerns from employees, middle managers, and senior leadership. How can I address these concerns proactively?"*
 
----
+,
 
 ## Your HR Professional Documentation
 
@@ -362,7 +368,7 @@ After each AI interaction, document your critique process:
 **What I Learned**: Always ask for scalable solutions that don't require additional headcount
 ```
 
----
+,
 
 ## Red Flag Checklist for Any Recommendation
 
@@ -371,12 +377,12 @@ Before accepting any AI-generated recommendation, ask:
 - ☐ **Can I explain this solution clearly to key stakeholders in a few minutes?**
 - ☐ **Does this comply with relevant laws, regulations, and company policies?**
 - ☐ **Do we have the resources and capability to implement this?**
-- ☐ **How will affected stakeholders experience this—is it fair and transparent?**
+- ☐ **How will affected stakeholders experience this,is it fair and transparent?**
 - ☐ **What are the risks if this implementation goes poorly?**
 - ☐ **Have I considered how different groups or departments might be affected?**
 - ☐ **Is there a simpler version that would achieve 80% of the benefits?**
 
----
+,
 
 ## Practice: Critique This AI Response
 
@@ -405,7 +411,7 @@ To improve employee engagement, implement a comprehensive recognition program in
 **Your Response**: "This is too complex and expensive for our needs. Can you suggest a simpler recognition approach that focuses on meaningful acknowledgment rather than monetary rewards, and that our managers can implement without significant administrative burden?"
 </details>
 
----
+,
 
 ## Teaching Students to Critique AI
 
@@ -437,11 +443,11 @@ To improve employee engagement, implement a comprehensive recognition program in
 - Ability to translate theory into practical recommendations
 - Professional judgment in evaluating AI outputs
 
----
+,
 
 ## Why This Matters for Professional Careers
 
-In the next five years, professionals in every business discipline will work alongside AI tools. The ones who thrive won't be those who can generate the most impressive AI outputs—they'll be those who can skillfully evaluate, adapt, and improve AI recommendations.
+In the next five years, professionals in every business discipline will work alongside AI tools. The ones who thrive won't be those who can generate the most impressive AI outputs,they'll be those who can skillfully evaluate, adapt, and improve AI recommendations.
 
 **Critical thinking about AI is becoming a core professional competency across all disciplines.**
 
@@ -450,9 +456,9 @@ Employers will increasingly ask:
 - "How do you ensure AI recommendations are appropriate for our organization?"
 - "Can you give an example of when you identified problems with an AI-generated solution?"
 
-Students who master the critique framework will have compelling answers to these questions. They'll demonstrate that they're not just AI users—they're AI-savvy professionals who can leverage technology while maintaining professional judgment and ethical standards.
+Students who master the critique framework will have compelling answers to these questions. They'll demonstrate that they're not just AI users,they're AI-savvy professionals who can leverage technology while maintaining professional judgment and ethical standards.
 
----
+,
 
 ## Your Action Step
 
@@ -466,6 +472,6 @@ Before moving to the next chapter, practice the critique framework:
 
 This hands-on experience will help you teach students to be thoughtful, critical users of AI rather than passive consumers of AI-generated content.
 
----
+,
 
 **Next Chapter Preview:** In the next chapter, we tackle the ethics and integrity question head-on. You'll learn how to talk to students about AI use, how to design assignments that build AI literacy rather than trying to prevent AI use, and how to frame academic integrity in the context of preparing students for professional practice where AI tools will be commonplace.

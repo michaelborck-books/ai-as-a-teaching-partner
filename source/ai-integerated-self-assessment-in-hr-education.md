@@ -23,7 +23,7 @@ The concept of using AI to simulate conversational role-play is highly relevant 
 This is where the low-tech, smart approach shines. The prompt must establish the AI’s persona and the scenario context to ensure the resulting conversation is high-fidelity and addresses specific learning objectives.
 
 | HR Learning Objective (from Sources) | Purpose of Simulation | Suggested Prompt Components (High-Level) |
-| :--- | :--- | :--- |
+| :, | :, | :, |
 | **Apply psychological theory to evidence-based practice** | Test ability to manage conflict using known theories (e.g., attribution, motivation). | *Role:* "You are a high-performing employee (Sarah) who is suddenly underperforming due to unstated personal conflict with a colleague." |
 | **Knowledge of relevant legislative and legal rules** | Assess handling of sensitive or protected information and fair process. | *Constraint:* "If the student (the HR Consultant) asks you about your sick leave, refuse to provide detail, citing privacy law (IR rules)." |
 | **Evaluate and apply global HR management practices, recognising cultural differences** | Practice handling diversity and cultural sensitivity in communication. | *Constraint:* "Adopt a communication style that might be common in a collectivist culture and requires the HR representative to use indirect communication." |

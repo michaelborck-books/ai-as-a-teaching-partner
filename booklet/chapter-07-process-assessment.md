@@ -6,15 +6,15 @@ What are you really trying to assess in HR education?
 
 **Traditional approach:** Can the student define procedural fairness? Can they list the steps in a disciplinary process? Can they identify relevant legislation?
 
-**This is assessing product—the knowledge artifact.**
+**This is assessing product,the knowledge artifact.**
 
 **Process-based approach:** Watch the student conduct a disciplinary meeting. Did they *actually demonstrate* procedural fairness? Did they follow the correct process? Did they apply the legislation appropriately in real-time?
 
-**This is assessing process—the professional methodology.**
+**This is assessing process,the professional methodology.**
 
 The difference matters enormously. A student can memorize the definition of "active listening" and still conduct a terrible investigation interview. They can recite employment law and still make decisions that expose an organisation to legal risk.
 
-**HR is a process profession.** The value lies not in what you know, but in what you *do* with what you know—how you investigate, how you communicate, how you analyse evidence, how you make decisions under uncertainty.
+**HR is a process profession.** The value lies not in what you know, but in what you *do* with what you know,how you investigate, how you communicate, how you analyse evidence, how you make decisions under uncertainty.
 
 AI makes it possible, for the first time, to assess process at scale.
 
@@ -43,11 +43,11 @@ Traditional process assessment methods have serious limitations:
 - Conversations are dynamic and unpredictable
 - Complete transcripts provide evidence of methodology
 - AI can provide initial critique, reducing lecturer workload
-- Students can't rehearse a scripted answer—they must think in real-time
+- Students can't rehearse a scripted answer,they must think in real-time
 
 This chapter presents three complete assessment models that leverage AI to grade professional process.
 
----
+,
 
 ## Assessment Model 1: Simulated HR Consultation and Process Audit
 
@@ -181,7 +181,7 @@ This model:
 - **Rewards honesty** (students who identify their own mistakes show deeper understanding)
 - **Prevents cheating** (you can't script a dynamic conversation, and being honest about mistakes is rewarded)
 
----
+,
 
 ## Assessment Model 2: Evidence-Based Strategic Intervention Plan
 
@@ -263,7 +263,7 @@ This is where the real work happens. Students write a strategic recommendation r
 ### Assessment Rubric
 
 | Criterion | Excellent (4) | Good (3) | Adequate (2) | Poor (1) |
-|---|---|---|---|---|
+|,|,|,|,|,|
 | **Data Analysis** | Sophisticated identification of patterns; asks insightful questions | Identifies key patterns; asks relevant questions | Identifies basic patterns; questions are superficial | Misses key patterns or asks irrelevant questions |
 | **Theoretical Integration** | Expert application of multiple theories to justify and critique options | Effective use of theory to evaluate options | Basic use of theory; connections are underdeveloped | Minimal or incorrect application of theory |
 | **Critical Evaluation of AI** | Identifies significant flaws in AI logic; demonstrates superior judgment | Identifies some weaknesses in AI outputs; adds value | Minimal critique of AI; mostly accepts outputs | No critical evaluation; simply endorses AI's suggestions |
@@ -285,13 +285,13 @@ This model:
 >
 > "The AI's second option recommends implementing a flexible work policy to improve work-life balance, citing research on job satisfaction. While this is theoretically sound (Adams' equity theory suggests perceived fairness increases commitment), the AI has overlooked a critical factor in our specific context: the exit interviews reveal that departing employees in Sales specifically mentioned 'lack of career progression' and 'feeling undervalued' more frequently than work-life balance concerns.
 >
-> This suggests that Herzberg's two-factor theory is more applicable here—flexible work addresses a hygiene factor, but doesn't address the motivator factors (recognition, advancement) that actually drive turnover in this department. Therefore, while flexible work might prevent dissatisfaction, it won't solve the core problem.
+> This suggests that Herzberg's two-factor theory is more applicable here,flexible work addresses a hygiene factor, but doesn't address the motivator factors (recognition, advancement) that actually drive turnover in this department. Therefore, while flexible work might prevent dissatisfaction, it won't solve the core problem.
 >
 > I recommend Option 3 (career development program with clear advancement pathways) because it directly addresses the motivator factors identified in the qualitative data. However, I would modify the AI's recommendation by adding a recognition component (monthly achievement awards, public acknowledgment) to address the 'feeling undervalued' concern that the AI's plan doesn't explicitly target."
 
 **Why this is excellent:** The student has used theory to critique AI, referenced specific evidence, demonstrated superior analytical judgment, and improved on AI's suggestion.
 
----
+,
 
 ## Assessment Model 3: Competency-Based Recruitment Portfolio
 
@@ -358,25 +358,25 @@ They must:
 
 > "While the AI score of 8/10 recognizes the positive elements, it has missed several concerning gaps in this response:
 >
-> 1. **Lack of specific behavioural detail**: The candidate says they 'explained' and 'offered support' but doesn't demonstrate *how* they delivered this feedback. What specific words did they use? How did they balance accountability with support? This vagueness suggests they might be embellishing or don't actually remember the details—a red flag in behavioural interviewing.
+> 1. **Lack of specific behavioural detail**: The candidate says they 'explained' and 'offered support' but doesn't demonstrate *how* they delivered this feedback. What specific words did they use? How did they balance accountability with support? This vagueness suggests they might be embellishing or don't actually remember the details,a red flag in behavioural interviewing.
 >
 > 2. **Missing follow-up on consequences**: The candidate doesn't mention whether they documented this conversation or whether there were any agreed-upon consequences if improvement didn't occur. In real HR practice, failing to document performance conversations creates legal risk.
 >
-> 3. **Overly positive framing**: The response has no mention of how the employee initially reacted (defensive? receptive?), which would demonstrate the candidate's ability to handle difficult emotions—a critical skill. The neat narrative resolution might indicate the candidate is telling us what they think we want to hear rather than a genuine complex experience.
+> 3. **Overly positive framing**: The response has no mention of how the employee initially reacted (defensive? receptive?), which would demonstrate the candidate's ability to handle difficult emotions,a critical skill. The neat narrative resolution might indicate the candidate is telling us what they think we want to hear rather than a genuine complex experience.
 >
-> These omissions are significant for an HR role where precision, documentation, and handling difficult conversations are core competencies. A strong candidate would have provided much richer behavioural detail. Therefore, I score this 6/10—it shows basic competence but lacks the depth required for an HR position."
+> These omissions are significant for an HR role where precision, documentation, and handling difficult conversations are core competencies. A strong candidate would have provided much richer behavioural detail. Therefore, I score this 6/10,it shows basic competence but lacks the depth required for an HR position."
 
 **Why this is excellent:** The student has demonstrated superior professional judgment by catching what AI missed, applied HR-specific knowledge (documentation requirements), and justified the override with evidence.
 
 ### Assessment Rubric
 
 | Criterion | Weight | What You're Assessing |
-|---|---|---|
+|,|,|,|
 | **Job Design Quality** | 15% | Legal compliance, appropriateness of competencies, clarity |
 | **Justification of Revisions** | 15% | Can they articulate why AI's version needed changes? |
 | **Interview Question Selection** | 15% | Do they recognize good vs. poor behavioural questions? |
 | **Rubric Design** | 15% | Is their scoring system measurable and fair? |
-| **Critical Override** | 30% | Most important—do they demonstrate judgment superior to AI? |
+| **Critical Override** | 30% | Most important,do they demonstrate judgment superior to AI? |
 | **Theoretical Integration** | 10% | Have they applied knowledge of bias, human behavior, legal principles? |
 
 ### Why This Works
@@ -388,7 +388,7 @@ This model:
 - **Prevents blind reliance on AI** (students *must* override and justify)
 - **Demonstrates competence** through documented methodology, not just final outputs
 
----
+,
 
 ## The Common Thread: Process as Evidence
 
@@ -401,9 +401,9 @@ Traditional exams and essays hide the thinking process. You see the final answer
 - **Critique memos** demonstrate their analytical reasoning
 - **Override justifications** prove their professional judgment
 
-This creates **transparency and accountability**—the two things that make professional practice trustworthy.
+This creates **transparency and accountability**,the two things that make professional practice trustworthy.
 
----
+,
 
 ## Implementation Tips
 
@@ -441,7 +441,7 @@ I will review your assessment and make the final grading decision.
 
 This can reduce your workload while maintaining quality control.
 
----
+,
 
 ## Your Action Step
 
@@ -452,8 +452,8 @@ Before Chapter 8, choose one assessment in your current curriculum that could be
 3. **Sketch how you would redesign it** using Model 1, 2, or 3
 4. **Consider the logistics** (how much time would this take students? How would you grade it?)
 
-You don't have to implement it immediately—just think through how the shift from product to process assessment might work in your context.
+You don't have to implement it immediately,just think through how the shift from product to process assessment might work in your context.
 
----
+,
 
-**Next Chapter Preview:** In Chapter 8, we get practical about implementation. You'll learn how to introduce these ideas to your students, pilot AI-enhanced assignments without overwhelming yourself, gather feedback, iterate, and gradually build confidence with these new approaches. This chapter is all about managing change—for yourself and for your students.
+**Next Chapter Preview:** In Chapter 8, we get practical about implementation. You'll learn how to introduce these ideas to your students, pilot AI-enhanced assignments without overwhelming yourself, gather feedback, iterate, and gradually build confidence with these new approaches. This chapter is all about managing change,for yourself and for your students.

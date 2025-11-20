@@ -18,14 +18,14 @@ If you're a **Curtin University staff member**, you have an approved enterprise 
 
 ### Option A: MS Copilot Enterprise (Curtin Staff - Recommended)
 
-If you have a Curtin University login, you have access to MS Copilot Enterprise—the officially approved tool for institutional use.
+If you have a Curtin University login, you have access to MS Copilot Enterprise,the officially approved tool for institutional use.
 
 **Accessing MS Copilot Enterprise:**
 
 1. Go to **copilot.microsoft.com** or open Microsoft Edge browser
 2. Sign in with your Curtin credentials (@curtin.edu.au)
 3. You'll see the familiar Copilot interface
-4. That's it—you're ready to go
+4. That's it,you're ready to go
 
 **Why MS Copilot Enterprise for Curtin:**
 
@@ -38,13 +38,13 @@ If you have a Curtin University login, you have access to MS Copilot Enterprise�
 
 MS Copilot integrates seamlessly with tools you already use:
 
-- **In Word**: A chat panel opens on the right side—draft paragraphs, get feedback, revise
+- **In Word**: A chat panel opens on the right side,draft paragraphs, get feedback, revise
 - **In Excel**: Analyze data, create formulas, visualize patterns
 - **In PowerPoint**: Generate slides, refine content, create speaker notes
 - **In Outlook**: Draft emails, organize content, summarize threads
 - **In Teams**: Access Copilot in chats and meetings for real-time assistance
 
-This integration means you can work directly in your document while AI assists—no copying/pasting between windows.
+This integration means you can work directly in your document while AI assists,no copying/pasting between windows.
 
 ### Option B: ChatGPT (Free, No Login Required)
 
@@ -67,7 +67,7 @@ If you prefer a standalone option or aren't at Curtin:
 
 1. Go to **claude.ai** in any web browser
 2. Create a free account
-3. Same interface—a clean text box waiting for your instructions
+3. Same interface,a clean text box waiting for your instructions
 
 **Advantages:**
 
@@ -96,7 +96,7 @@ If you prefer the Google ecosystem:
 ### Summary: Which Tool to Choose?
 
 | Tool | Best For | Data Protection | Office Integration |
-|------|----------|-----------------|-------------------|
+|,,|,,,-|,,,,,--|,,,,,,-|
 | **MS Copilot Enterprise (Curtin)** | Institutional work, course materials, student assignments | ✅ Enterprise-protected | ✅ Full MS Office Suite |
 | **ChatGPT** | General exploration, standalone use | ⚠️ Consumer retention | ✓ Manual export (Pro) |
 | **Claude** | Writing and nuanced analysis | ⚠️ Consumer retention | ✗ None |
@@ -104,7 +104,7 @@ If you prefer the Google ecosystem:
 
 **For Curtin Staff & Students:** Use MS Copilot Enterprise for anything involving course materials, student work, or institutional data.
 
-**For General Exploration:** Any tool works—they all have similar core capabilities.
+**For General Exploration:** Any tool works,they all have similar core capabilities.
 
 **Note:** You don't need to download anything or configure complex settings. All options work directly in your web browser. If you're at Curtin, start with MS Copilot Enterprise. If you're elsewhere or just exploring, ChatGPT is the most familiar starting point.
 
@@ -115,7 +115,7 @@ A **prompt** is simply the instruction or question you type into the AI tool. Th
 - Has read an enormous amount of material on nearly every subject
 - Can generate text, analyse situations, and role-play scenarios
 - Follows your instructions literally (which is both powerful and requires precision)
-- Doesn't have opinions, emotions, or genuine understanding—just pattern recognition
+- Doesn't have opinions, emotions, or genuine understanding,just pattern recognition
 
 The quality of what you get back depends almost entirely on the quality of your prompt.
 
@@ -147,7 +147,7 @@ Result: AI output based on both prompts combined
 - Learning to write clear prompts is learning to communicate effectively with AI
 - Whether it's a standalone tool or integrated into Word, the principles are the same
 - When you see AI integrated into traditional software (increasingly common), you're seeing a prompt window embedded in familiar tools
-- Understanding prompts gives you conceptual mastery—specific tools will change, but prompting skills transfer
+- Understanding prompts gives you conceptual mastery,specific tools will change, but prompting skills transfer
 
 **Your progression in this book:**
 1. **Chapter 2-4** (this section): Master basic prompting concepts and techniques
@@ -169,7 +169,7 @@ Write a case study about business.
 
 Hit enter and see what you get.
 
-You'll probably receive something generic—maybe a story about a marketing campaign or a financial decision. It's *fine*, but it's not particularly useful for your specific teaching needs.
+You'll probably receive something generic,maybe a story about a marketing campaign or a financial decision. It's *fine*, but it's not particularly useful for your specific teaching needs.
 
 **Why was this weak?** Because the prompt was vague. "Business" covers everything from accounting to marketing. "A case study" could be 100 words or 5,000 words. The AI had to guess what you wanted.
 
@@ -319,12 +319,12 @@ Let's break down what made that second prompt powerful using a **memorable frame
 
 This framework works whether you're using ChatGPT, Copilot, Claude, or any other AI tool. CRAFT is a helpful **starting point** for structuring your thinking.
 
-**Important caveat:** CRAFT is not the only way to prompt effectively. Some educators find other frameworks work better for them. Some prefer different approaches entirely. The goal isn't to follow CRAFT rigidly—it's to **think intentionally about what you're asking the AI to do**.
+**Important caveat:** CRAFT is not the only way to prompt effectively. Some educators find other frameworks work better for them. Some prefer different approaches entirely. The goal isn't to follow CRAFT rigidly,it's to **think intentionally about what you're asking the AI to do**.
 
 ### The CRAFT Acronym
 
 | Letter | Element | Example |
-|--------|---------|---------|
+|,,--|,,,|,,,|
 | **C** | **Context** | "This is for my undergraduate marketing unit covering competitive strategy" |
 | **R** | **Role** | "You are an experienced marketing director" |
 | **A** | **Action** | "Create a case study about a product launch decision" |
@@ -431,7 +431,7 @@ Examples by level:
 - **Intermediate:** "Assume students understand basic concepts. Use professional terminology."
 - **Advanced:** "Use sophisticated analysis. Reference theoretical frameworks and empirical research."
 
----
+,
 
 ### Alternative Approaches: There's More Than One Way
 
@@ -501,7 +501,7 @@ PROMPT 4: "What's a scenario that would help students understand this?"
 
 Notice: you don't need a perfect first prompt. You explore together.
 
----
+,
 
 ### The Philosophy: Conversation Over One-Shot Prompting
 
@@ -521,9 +521,9 @@ Real teaching improvement comes from iterative exploration where:
 - You push back or build ("Good, but can we make it less academic?" or "Add this element...")
 - The result emerges through back-and-forth
 
-This is why the **Seven Techniques** (in Chapter 4) matter more than perfect prompt structure. Techniques like Chain of Thought, Pros/Cons Analysis, and Role Play are **conversation tools**—they invite the AI to think alongside you, not just execute your commands.
+This is why the **Seven Techniques** (in Chapter 4) matter more than perfect prompt structure. Techniques like Chain of Thought, Pros/Cons Analysis, and Role Play are **conversation tools**,they invite the AI to think alongside you, not just execute your commands.
 
----
+,
 
 ### Complete CRAFT Example
 
@@ -541,9 +541,9 @@ Format: "300-400 words with three discussion questions requiring students to ana
 Tone/Target: "Professional and realistic. Use clear language suitable for first-year university students."
 ```
 
-This is the "powerful" prompt we tried earlier. Now you can see **why** it's powerful—it includes all five CRAFT elements.
+This is the "powerful" prompt we tried earlier. Now you can see **why** it's powerful,it includes all five CRAFT elements.
 
----
+,
 
 ### CRAFT as a Starting Point, Not the Endpoint
 
@@ -574,13 +574,13 @@ After your initial CRAFT prompt, you can:
 4. **Repurpose:** "Turn this into a 10-slide PowerPoint presentation."
 5. **Push back:** "That's too generic. Here's what I actually need..." and keep talking
 
-You're not just telling the AI what to do—you're **working together** to get exactly what you need.
+You're not just telling the AI what to do,you're **working together** to get exactly what you need.
 
 This conversation approach is why **Chapters 4-7 focus on techniques (Reverse Prompting, Pros/Cons, Chain of Thought, etc.) rather than just prompting structure.** Those techniques are conversation starters, not rigid templates.
 
 ## Practice Exercise: Your Turn
 
-Now it's your turn to write a prompt from scratch. Think of something you currently teach in your business course—a topic where you wish you had more practice materials or better scenarios.
+Now it's your turn to write a prompt from scratch. Think of something you currently teach in your business course,a topic where you wish you had more practice materials or better scenarios.
 
 Use this template:
 
@@ -599,7 +599,7 @@ Here are the requirements:
 Begin.
 ```
 
-**Example topics to try—pick one from your discipline:**
+**Example topics to try,pick one from your discipline:**
 
 ::: {.panel-tabset}
 
@@ -675,7 +675,7 @@ As you experiment, keep these realities in mind:
 
 **The golden rule:** AI is a powerful draft generator and practice partner. You are still the expert who evaluates, refines, and ensures accuracy.
 
----
+,
 
 ## Beyond Your First Prompt: The Follow-Up Conversation
 
@@ -769,13 +769,13 @@ Notice: you didn't write four prompts from scratch. You had a conversation where
 ::: {.panel-tabset}
 
 ## Business & Marketing
-**Refine:** "Make the competitive analysis more realistic—include actual market data from Australian retail"
+**Refine:** "Make the competitive analysis more realistic,include actual market data from Australian retail"
 **Adapt:** "Rewrite this for students with no marketing background"
 **Expand:** "Add customer perception data and explain how it changes the analysis"
 **Repurpose:** "Create a 1-page executive summary version for busy managers"
 
 ## Management
-**Refine:** "Make the stakeholder conflicts more nuanced—not just good vs. bad decisions"
+**Refine:** "Make the stakeholder conflicts more nuanced,not just good vs. bad decisions"
 **Adapt:** "Rewrite for public sector context instead of private company"
 **Expand:** "Add the perspective of each stakeholder and explain their reasoning"
 **Repurpose:** "Turn this into a role-play activity where students play different stakeholders"
@@ -787,7 +787,7 @@ Notice: you didn't write four prompts from scratch. You had a conversation where
 **Repurpose:** "Create a training guide for new HR staff based on this scenario"
 
 ## Tourism & Hospitality
-**Refine:** "Make the customer service challenge more complex—multiple guests, conflicting needs"
+**Refine:** "Make the customer service challenge more complex,multiple guests, conflicting needs"
 **Adapt:** "Set this in an Australian luxury hotel instead of mid-range"
 **Expand:** "Add budget constraints and explain the trade-offs"
 **Repurpose:** "Turn this into a 5-station rotation activity for staff training"
@@ -795,7 +795,7 @@ Notice: you didn't write four prompts from scratch. You had a conversation where
 ## Supply Chain & Logistics
 **Refine:** "Include real logistics costs and supply chain complexity"
 **Adapt:** "Rewrite for Australian manufacturing context"
-**Expand:** "Add supply chain disruption scenario—how does your solution handle it?"
+**Expand:** "Add supply chain disruption scenario,how does your solution handle it?"
 **Repurpose:** "Create a simulation where students track changes week by week"
 
 ## Information Systems
@@ -829,7 +829,7 @@ Think of yourself as a **director**, not a subordinate giving orders.
 
 This is what makes AI powerful for teaching: **you stay in control while multiplying your output quality.**
 
----
+,
 
 ## Troubleshooting Common Issues
 
@@ -839,7 +839,7 @@ This is what makes AI powerful for teaching: **you stay in control while multipl
 **"The response was too short/long."**
 → Specify word count or structure: "Provide 500 words" or "Write exactly 5 paragraphs" or "Create a scenario followed by 4 discussion questions."
 
-**"It's too generic—not specific to Australia/my context."**
+**"It's too generic,not specific to Australia/my context."**
 → Add context relevant to your discipline:
 
 ::: {.panel-tabset}
@@ -937,7 +937,7 @@ Get comfortable with the basic rhythm: prompt → response → refine → use.
 
 The more you practice, the more natural it becomes. And the more specific your prompts, the more useful your outputs.
 
----
+,
 
 ## Why This Matters: Prompting as Transferable Skill
 
@@ -965,11 +965,11 @@ This matters because:
 
 In the next chapters, you'll learn **specific prompting techniques** tailored to teaching. Then you'll apply them to increasingly sophisticated scenarios. All of it builds on what you've just learned here.
 
----
+,
 
 ## A Note on Conversation Length and Context
 
-When you start having longer conversations with AI—iterating on a unit design, asking follow-up questions, building on earlier work—you might eventually notice that outputs become less consistent or less accurate. This is a context management issue: as conversations grow very long, AI has limitations on what it can reliably track.
+When you start having longer conversations with AI,iterating on a unit design, asking follow-up questions, building on earlier work,you might eventually notice that outputs become less consistent or less accurate. This is a context management issue: as conversations grow very long, AI has limitations on what it can reliably track.
 
 **Don't worry about this for simple prompts.** But as you move to more complex work, **see Chapter 6 (Managing LLM Context)** for strategies to keep conversations focused and high-quality. You'll learn techniques like:
 - Breaking complex tasks into steps
@@ -978,6 +978,6 @@ When you start having longer conversations with AI—iterating on a unit design,
 
 For now, just be aware: if a long conversation starts feeling unwieldy, that's normal. Chapter 6 shows you how to manage it.
 
----
+,
 
-**Next Chapter Preview:** In Chapter 3, you'll learn the week-by-week timeline for integrating AI into your teaching. Chapter 4 then introduces seven essential prompting **techniques**—specific approaches that develop different critical thinking skills in your students. Each technique is more sophisticated than "write a prompt," but all of them build on the foundations you've just mastered.
+**Next Chapter Preview:** In Chapter 3, you'll learn the week-by-week timeline for integrating AI into your teaching. Chapter 4 then introduces seven essential prompting **techniques**,specific approaches that develop different critical thinking skills in your students. Each technique is more sophisticated than "write a prompt," but all of them build on the foundations you've just mastered.

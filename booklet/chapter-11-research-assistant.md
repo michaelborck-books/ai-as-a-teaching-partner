@@ -2,13 +2,13 @@
 
 ## AI in Research: Promise and Peril
 
-If you teach postgraduate HR students—particularly those in the Human Resources Major (MCom) or supervising research projects—you face a distinct challenge:
+If you teach postgraduate HR students,particularly those in the Human Resources Major (MCom) or supervising research projects,you face a distinct challenge:
 
 **How do students use AI to support research without undermining the fundamental purpose of research: original thinking, critical synthesis, and contribution to knowledge?**
 
 This chapter addresses AI's role in research contexts: literature review, data analysis, research question development, and thesis writing. The goal is not to ban AI (impossible and counterproductive) but to teach students to use it as a **research assistant**, not a **research replacement**.
 
----
+,
 
 ## The Core Principle: AI for Process, Human for Insight
 
@@ -28,7 +28,7 @@ AI cannot replace research **insight**:
 
 **The skill we're teaching:** Know when each applies.
 
----
+,
 
 ## Application 1: Literature Review
 
@@ -70,7 +70,7 @@ landscape so I can read the original sources myself.
 
 **Why this is acceptable:** It's like asking a senior researcher "Where should I start?" The student still does the intellectual work.
 
----
+,
 
 **Use Case 2: Source Summarization for Initial Screening**
 
@@ -97,7 +97,7 @@ prioritize my reading list.
 
 **Why this is acceptable:** This is no different from reading abstracts first. The student is still making the judgment call about relevance.
 
----
+,
 
 ### How AI Can Be Misused
 
@@ -120,7 +120,7 @@ in remote work.
 - Assess through oral examination or viva voce
 - Ask students to explain contradictions or debates in their literature
 
----
+,
 
 **Problematic Use 2: Trusting AI's theoretical analysis**
 
@@ -133,7 +133,7 @@ AI can describe theories but often misapplies them or oversimplifies.
 - Require students to identify where AI got theory wrong
 - Assess theoretical sophistication through application, not just description
 
----
+,
 
 ### Teaching Students Appropriate Literature Review with AI
 
@@ -159,7 +159,7 @@ AI can describe theories but often misapplies them or oversimplifies.
 - Critical reading and evaluation (human strength)
 - Awareness of AI's limitations in scholarly work
 
----
+,
 
 ## Application 2: Research Question Development
 
@@ -171,7 +171,7 @@ Developing a good research question is hard:
 - Must be feasible (answerable within scope/resources)
 - Must be clear and focused
 
-Students often struggle with scope—questions that are too broad or too narrow.
+Students often struggle with scope,questions that are too broad or too narrow.
 
 ### How AI Can Help (Appropriately)
 
@@ -196,9 +196,9 @@ develop a better one myself.
 
 **What the student gets:** Socratic questioning that reveals fuzzy thinking.
 
-**Why this is acceptable:** It's like supervision—a good supervisor asks probing questions that help the student clarify their own thinking.
+**Why this is acceptable:** It's like supervision,a good supervisor asks probing questions that help the student clarify their own thinking.
 
----
+,
 
 **Use Case: Feasibility Check**
 
@@ -224,7 +224,7 @@ Challenge my assumptions—don't just agree with me.
 
 **Why this is acceptable:** Students still make the final decision. AI is playing devil's advocate.
 
----
+,
 
 ### How AI Can Be Misused
 
@@ -240,7 +240,7 @@ If students simply ask AI to generate questions and choose one without deep enga
 - Ask: "What makes this question worth answering?"
 - Require students to map their question to gaps in existing literature
 
----
+,
 
 ## Application 3: Data Analysis (Qualitative Research)
 
@@ -256,11 +256,11 @@ HR research often involves qualitative data: interviews, focus groups, open-ende
 
 **Use Case 1: Transcription**
 
-AI transcription tools (Otter.ai, Whisper, etc.) can convert audio to text rapidly. This is **entirely appropriate**—transcription is mechanical work.
+AI transcription tools (Otter.ai, Whisper, etc.) can convert audio to text rapidly. This is **entirely appropriate**,transcription is mechanical work.
 
 **Student responsibility:** Review and correct transcription (AI mishears technical terms, names, etc.).
 
----
+,
 
 **Use Case 2: Initial Coding Suggestions**
 
@@ -281,11 +281,11 @@ to see if I'm missing anything obvious.
 
 **What the student gets:** Initial pattern recognition to compare against their own coding.
 
-**Why this is acceptable:** The student still does the analytical work—deciding which codes are valid, refining them, applying them systematically across all data, and interpreting what they mean.
+**Why this is acceptable:** The student still does the analytical work,deciding which codes are valid, refining them, applying them systematically across all data, and interpreting what they mean.
 
 **Critical requirement:** Student must code independently FIRST, then compare to AI suggestions.
 
----
+,
 
 **Use Case 3: Checking for Bias in Interpretation**
 
@@ -307,9 +307,9 @@ Help me ensure I'm not just seeing what I want to see in the data.
 
 **What the student gets:** Check against confirmation bias.
 
-**Why this is acceptable:** Good qualitative research includes reflexivity—questioning your own interpretations. This is like peer review or supervision feedback.
+**Why this is acceptable:** Good qualitative research includes reflexivity,questioning your own interpretations. This is like peer review or supervision feedback.
 
----
+,
 
 ### How AI Can Be Misused
 
@@ -323,7 +323,7 @@ If AI does all the coding and theme identification, the student hasn't engaged w
 - Assess through viva voce where student must explain analytic choices
 - Ask students to identify quotes/examples supporting each theme (demonstrates familiarity with data)
 
----
+,
 
 ## Application 4: Thesis Writing
 
@@ -358,7 +358,7 @@ I'm looking for structural feedback, not content generation.
 
 **What the student gets:** Feedback on organisation before investing time writing full drafts.
 
----
+,
 
 **Use Case 2: Clarity and Readability**
 
@@ -382,7 +382,7 @@ Evaluate:
 
 **Why this is acceptable:** It's like a writing centre consultation. The ideas are still the student's.
 
----
+,
 
 ### How AI Can Be Misused
 
@@ -396,21 +396,21 @@ Students paste AI-generated prose into their thesis without engagement.
 - Voice/style shifts noticeably between sections
 
 **How to prevent:**
-- Use the transparency model (Chapter 5)—students acknowledge AI use and submit revision history
+- Use the transparency model (Chapter 5),students acknowledge AI use and submit revision history
 - Assess through oral defense where students must explain their arguments
 - Focus assessment on originality of thinking, not just quality of prose
 
----
+,
 
 **Problematic 2: Trusting AI citations**
 
-AI frequently hallucinates citations—inventing papers that don't exist or misattributing real papers.
+AI frequently hallucinates citations,inventing papers that don't exist or misattributing real papers.
 
 **How to prevent:**
 - **Require students to verify every citation** in their reference list (confirm it exists, that they've read it, that it says what they claim)
-- Spot-check citations during supervision: "Tell me about the Smith 2019 paper you cite here—what was their methodology?"
+- Spot-check citations during supervision: "Tell me about the Smith 2019 paper you cite here,what was their methodology?"
 
----
+,
 
 ## Application 5: Research Proposal Development
 
@@ -440,7 +440,7 @@ Students must document:
 **Assessment Rubric:**
 
 | Criterion | Weight | What's Assessed |
-|---|---|---|
+|,|,|,|
 | Research Question Quality | 20% | Originality, significance, feasibility |
 | Literature Engagement | 25% | Depth of engagement with sources (not just AI summary) |
 | Methodological Rigor | 25% | Appropriateness and detail of research design |
@@ -454,7 +454,7 @@ Students must document:
 - That AI is a tool requiring oversight (ethical responsibility)
 - Appropriate vs. inappropriate research uses
 
----
+,
 
 ## Teaching AI Literacy for Research
 
@@ -474,7 +474,7 @@ Explicitly teach these principles to postgraduate students:
 - Evaluating source quality deeply
 - Making original contributions
 
----
+,
 
 ### Principle 2: Always Verify
 
@@ -490,7 +490,7 @@ AI makes confident mistakes. For research, this is dangerous.
 
 This teaches verification as a habit.
 
----
+,
 
 ### Principle 3: Use AI to Challenge Your Thinking
 
@@ -502,7 +502,7 @@ The best research use of AI is as a **critical friend**:
 
 Train students to prompt AI to **disagree** with them, not just confirm their thinking.
 
----
+,
 
 ## Supervising Research Students Using AI
 
@@ -519,7 +519,7 @@ Include an "AI Use" section in your supervision agreement:
 **2. Model Appropriate AI Use**
 
 In supervision meetings:
-> "I used AI to quickly scan recent literature on your topic—here's what it flagged. But I want you to read these three papers fully because AI's summary missed important nuances."
+> "I used AI to quickly scan recent literature on your topic,here's what it flagged. But I want you to read these three papers fully because AI's summary missed important nuances."
 
 This shows: AI for efficiency, human for depth.
 
@@ -532,7 +532,7 @@ If you suspect a student has outsourced thinking to AI:
 
 Students who've done the work can answer. Students who relied on AI can't.
 
----
+,
 
 ## Red Flags for Over-Reliance on AI in Research
 
@@ -548,7 +548,7 @@ Students who've done the work can answer. Students who relied on AI can't.
 
 **Response:** Don't accuse immediately. Ask questions that require genuine engagement with the research. Provide opportunity for the student to demonstrate their thinking.
 
----
+,
 
 ## Sample Unit: Research Methods in HR (MCom)
 
@@ -608,7 +608,7 @@ Here's how to integrate AI into a postgraduate research methods unit:
 - AI Use Log (documenting all AI assistance)
 - Oral presentation defending methodological choices
 
----
+,
 
 ## Key Principle for Postgraduate AI Integration
 
@@ -624,9 +624,9 @@ Postgraduate students use AI to accelerate research processes while maintaining 
 
 If AI integration makes postgraduate work easier without making it better, you're doing it wrong.
 
-AI should enable students to engage with MORE literature, analyse data MORE thoroughly, and produce MORE rigorous research—not to avoid doing the hard thinking that research requires.
+AI should enable students to engage with MORE literature, analyse data MORE thoroughly, and produce MORE rigorous research,not to avoid doing the hard thinking that research requires.
 
----
+,
 
 ## Your Action Step
 
@@ -644,6 +644,6 @@ If you supervise research students or teach research methods:
 
 Don't assume students will figure this out on their own. Teach it explicitly.
 
----
+,
 
 **Next Steps:** We now have comprehensive content covering undergraduate teaching, postgraduate research, unit design, and all core applications. Next we'll expand Chapter 3 with the Formative Assessment Generator technique, then create front matter and a conclusion chapter to complete the booklet.

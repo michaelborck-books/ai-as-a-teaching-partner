@@ -1,6 +1,6 @@
-This is a set of prompt-engineering techniques. They are highly adaptable to non-technical fields like Human Resources because they focus on critical thinking, process decomposition, and exploring multiple perspectives—all key skills in HR.
+This is a set of prompt-engineering techniques. They are highly adaptable to non-technical fields like Human Resources because they focus on critical thinking, process decomposition, and exploring multiple perspectives,all key skills in HR.
 
----
+,
 
 ### 1. Reverse Prompting (for Scoping and Policy)
 
@@ -11,7 +11,7 @@ This technique is perfect for helping students think through the full scope of a
 
 **Why it works for HR:** HR policy and program design are all about defining requirements. This prompt forces the student to move beyond the obvious (e.g., "how many days?") and consider eligibility, equipment, performance metrics, legal implications, and fairness.
 
----
+,
 
 ### 2. Pros and Cons (for Decision Making)
 
@@ -20,9 +20,9 @@ HR professionals constantly evaluate different strategies. This prompt builds th
 **New HR Student Prompt:**
 > "What are the few different models for conducting performance reviews in a hybrid workforce (e.g., 360-degree feedback, continuous feedback, management by objectives)? What are the pros and cons of each model in terms of fairness, administrative overhead, and impact on employee morale?"
 
-**Why it works for HR:** This moves students from knowing the *definition* of a model to understanding its *application* and *consequences*—a crucial step in developing strategic HR thinking.
+**Why it works for HR:** This moves students from knowing the *definition* of a model to understanding its *application* and *consequences*,a crucial step in developing strategic HR thinking.
 
----
+,
 
 ### 3. Stepwise Chain of Thought (for Process Management)
 
@@ -33,7 +33,7 @@ So much of HR is about following fair, consistent, and legally compliant process
 
 **Why it works for HR:** This slows down complex, high-stakes processes (like a grievance, a hiring cycle, or a termination) and forces the student to engage with each individual step, including the critical documentation and legal reasoning, before moving on.
 
----
+,
 
 ### 4. Role Play (for Skill Building)
 
@@ -46,7 +46,7 @@ This is perhaps the most powerful technique for HR, which is full of "difficult 
 
 **Why it works for HR:** This provides interactive practice for core competencies like interviewing, mediation, coaching managers, and performance management, which a textbook cannot.
 
----
+,
 
 ### 5. Debating (for Strategic and Ethical Analysis)
 

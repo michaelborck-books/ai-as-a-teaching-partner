@@ -5,7 +5,7 @@ This academic proposal details a highly innovative approach to Human Resources e
 
 This "future horizon" idea is **highly innovative** and represents a natural, powerful extension of the process-based assessment methodology we have been discussing, perfectly aligning with the goals of Human Resource Management (HR) education at Curtin University.
 
-This simulation model—creating a virtual company staffed by chatbots (or "agents")—transitions the teaching of **theory (knowledge)** into the practice of **domain-based methodology (process)** in the most realistic, yet scalable, way possible.
+This simulation model,creating a virtual company staffed by chatbots (or "agents"),transitions the teaching of **theory (knowledge)** into the practice of **domain-based methodology (process)** in the most realistic, yet scalable, way possible.
 
 Here are thoughts on this future direction, grounded in the institutional and curricular context provided by the sources:
 
@@ -14,7 +14,7 @@ Here are thoughts on this future direction, grounded in the institutional and cu
 The proposal directly addresses the most sophisticated learning outcomes required for graduates of the Bachelor of Commerce (Human Resource Management and Industrial Relations) and the Human Resources Major (MCom):
 
 | HR Learning Outcome (from Sources) | How the Virtual Company Model Supports It |
-| :--- | :--- |
+| :, | :, |
 | **Technological Proficiency** | Students and lecturers would actively **select and effectively use appropriate technologies** and demonstrate **technological proficiency** by interacting with, creating, or publishing the agent prompts/websites. |
 | **Application of Legal/Ethical Rules** | The simulation can be designed to force students to apply **relevant legislative and legal rules** when dealing with a chatbot employee who might reference policy or an alleged breach of conduct. HR professionals must **apply professional skills in an ethical manner**. |
 | **Strategic Issue Resolution** | The scenario requires students to **resolve issues in the workplace** using documented **strategic HR planning**. The chatbot employees provide endless opportunities for practicing hard conversations (like managing conflict or performance issues). |

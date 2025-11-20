@@ -48,7 +48,7 @@ You can teach economic theory and modeling, but you can't easily let students wo
 
 ## The Flight Simulator Concept
 
-Think about how pilots are trained. They don't learn to handle engine failure during a storm by reading a textbook. They don't practice emergency landings by watching videos. They use **flight simulators**—sophisticated environments where they can crash the plane, make terrible decisions, experience rare scenarios, and learn from catastrophic failures without anyone getting hurt.
+Think about how pilots are trained. They don't learn to handle engine failure during a storm by reading a textbook. They don't practice emergency landings by watching videos. They use **flight simulators**,sophisticated environments where they can crash the plane, make terrible decisions, experience rare scenarios, and learn from catastrophic failures without anyone getting hurt.
 
 That's what AI can do for business education.
 
@@ -110,9 +110,9 @@ And here's the remarkable part: **after the simulation, the AI can act as an exp
 
 ## What Makes This Different from Traditional Teaching?
 
-Traditional business education often focuses on **product**—the final answer, the correct calculation, the right theoretical framework. Students write essays, complete exams, and submit reports that demonstrate they *know* things.
+Traditional business education often focuses on **product**,the final answer, the correct calculation, the right theoretical framework. Students write essays, complete exams, and submit reports that demonstrate they *know* things.
 
-But professional business work is about **process**—the methodology of how you analyse financial data, the approach you take in strategic planning, the steps you follow to ensure market research validity, the communication style you use to negotiate deals.
+But professional business work is about **process**,the methodology of how you analyse financial data, the approach you take in strategic planning, the steps you follow to ensure market research validity, the communication style you use to negotiate deals.
 
 **AI allows us to assess and teach process, not just product.**
 
@@ -154,7 +154,7 @@ Here's what this means in your discipline:
 
 :::
 
-This shift—from testing knowledge recall to evaluating applied professional methodology—is transformational for business education.
+This shift,from testing knowledge recall to evaluating applied professional methodology,is transformational for business education.
 
 ## Three Core Principles of This Approach
 
@@ -229,7 +229,7 @@ Economists use AI for modeling and analysis. Our job is to teach students to val
 
 :::
 
-Our job isn't to prevent AI use—it's to ensure students can use AI tools responsibly, identify their limitations, and maintain human judgment on ethical, legal, and disciplinary-specific matters.
+Our job isn't to prevent AI use,it's to ensure students can use AI tools responsibly, identify their limitations, and maintain human judgment on ethical, legal, and disciplinary-specific matters.
 
 ### 3. **Start Simple, Scale Gradually**
 
@@ -239,7 +239,7 @@ You don't need to revolutionize your entire curriculum tomorrow. This book will 
 
 **Part 1 (Chapters 1-2)** introduces you to AI and walks you through your first successful AI interaction. No prior experience needed.
 
-**Part 2 (Chapter 3)** gives you five proven prompt techniques specifically adapted for business education—tools you can use immediately.
+**Part 2 (Chapter 3)** gives you five proven prompt techniques specifically adapted for business education,tools you can use immediately.
 
 **Part 3 (Chapters 4-6)** shows you three powerful applications: conversation simulations, self-assessment tools, and virtual company scenarios. Each chapter includes complete worked examples across multiple business disciplines.
 
@@ -251,7 +251,7 @@ You don't need to revolutionize your entire curriculum tomorrow. This book will 
 
 ## A Personal Note
 
-If you're feeling skeptical, that's healthy. If you're worried this is too technical, I promise it's not. If you're concerned about losing control of your teaching, you won't—you'll gain new capabilities.
+If you're feeling skeptical, that's healthy. If you're worried this is too technical, I promise it's not. If you're concerned about losing control of your teaching, you won't,you'll gain new capabilities.
 
 The goal of this book is simple: **by the end, you should feel excited and equipped to try one new thing in your next class.**
 
@@ -261,6 +261,6 @@ Because ultimately, that's what we're here for: to send confident, competent, et
 
 Let's begin.
 
----
+,
 
 **Next Chapter Preview:** In Chapter 2, you'll have your first conversation with an AI tool. We'll walk through exactly what to type, what to expect, and how to think about prompts as instructions to a very capable (but not infallible) assistant.

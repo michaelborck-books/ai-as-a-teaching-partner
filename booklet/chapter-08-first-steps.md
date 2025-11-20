@@ -6,11 +6,11 @@ You've now seen what's possible with AI in HR education. You're probably feeling
 
 The previous chapters showed you ambitious applications: conversation simulations, virtual companies, process-based assessments. But you're thinking: *"Where do I actually start? How do I introduce this to my students? What if it doesn't work?"*
 
-This chapter is about **managing change**—both for yourself and your students. It provides a practical, phased implementation plan that starts small, builds confidence, and scales gradually.
+This chapter is about **managing change**,both for yourself and your students. It provides a practical, phased implementation plan that starts small, builds confidence, and scales gradually.
 
 **The key principle: Start with one small experiment, not a curriculum revolution.**
 
----
+,
 
 ## Phase 1: Personal Experimentation (Before Your Next Class)
 
@@ -42,7 +42,7 @@ Before you introduce AI to students, you need to be comfortable with it yourself
 
 **Steps:**
 1. Write a setup prompt for a scenario you teach (performance management, conflict resolution, recruitment interview, etc.)
-2. Have the conversation with the AI—actually practice the skill yourself
+2. Have the conversation with the AI,actually practice the skill yourself
 3. Generate a critique of your performance using the debrief prompt
 
 **Success metric:** The AI stayed in character throughout, and the critique provided specific, useful feedback.
@@ -70,11 +70,11 @@ Before you introduce AI to students, you need to be comfortable with it yourself
 - Where AI can add the most value in your specific context
 - What problems you're actually trying to solve (not just "use AI because it's new")
 
----
+,
 
 ## Phase 2: Low-Stakes Student Introduction (First Month of Semester)
 
-You're now ready to introduce AI to students. Start with optional, low-stakes activities—not high-stakes assessments.
+You're now ready to introduce AI to students. Start with optional, low-stakes activities,not high-stakes assessments.
 
 ### Approach 1: Optional Practice Exercise
 
@@ -88,10 +88,10 @@ Introduce AI as a **practice tool** for an upcoming assignment.
 >
 > Here's how it works: Write your draft analysis, paste it into ChatGPT or Claude along with this critique prompt [provide prompt], and see what feedback you get. Then revise based on the feedback.
 >
-> This is completely optional—I won't know whether you used it or not. But I encourage you to try it at least once to see if it helps you improve your work."
+> This is completely optional,I won't know whether you used it or not. But I encourage you to try it at least once to see if it helps you improve your work."
 
 **Why this works:**
-- No pressure—students who are skeptical can ignore it
+- No pressure,students who are skeptical can ignore it
 - Students who try it will likely see value and spread the word to peers
 - You can gauge student response before making it mandatory
 - You avoid the "forced adoption" resistance
@@ -146,7 +146,7 @@ Assign a short, reflective writing task where students *experiment with* AI rath
 - Introduces AI literacy as a learning objective
 - Gives you insight into how students are using AI
 
----
+,
 
 ## Phase 3: Pilot Assessment (Mid-Semester)
 
@@ -183,7 +183,7 @@ Based on Chapters 4-7, select one approach for a **single assignment**:
 
 **Don't choose:** Virtual company simulation (Chapter 6) or complex multi-part process assessment (Chapter 7, Models 1-2) for your first pilot. Save those for when you have more experience.
 
----
+,
 
 **Thinking bigger than a single assignment?**
 
@@ -203,7 +203,7 @@ If you're ready to redesign an entire unit from the ground up rather than piloti
    > "We're trying something new with this assignment because I want you to practice professional skills, not just write about them. In HR work, you'll use AI tools, so learning to use them critically is part of your education."
 
 2. **Address the anxiety**
-   > "Some of you might be worried this is too technical—it's not. If you can copy and paste text, you can do this assignment. Some of you might be thinking this makes things easier—actually, it makes things harder, because I'm assessing your thinking process, not just your final answer."
+   > "Some of you might be worried this is too technical,it's not. If you can copy and paste text, you can do this assignment. Some of you might be thinking this makes things easier,actually, it makes things harder, because I'm assessing your thinking process, not just your final answer."
 
 3. **Do a live demo**
    - Show exactly how to access the AI tool
@@ -226,13 +226,13 @@ If you're ready to redesign an entire unit from the ground up rather than piloti
 → Response: Check that you copied the full prompt. Try starting a fresh conversation.
 
 **"The AI gave me weird feedback"**
-→ Response: That's possible—AI can make errors. In your reflection, explain what the AI got wrong and why. You'll get credit for catching the error.
+→ Response: That's possible,AI can make errors. In your reflection, explain what the AI got wrong and why. You'll get credit for catching the error.
 
 **"I don't have access to ChatGPT"**
 → Response: Try Claude.ai instead, or come to office hours and we can run it together.
 
 **"Is this even allowed? Am I cheating?"**
-→ Response: Yes, it's allowed—this is the assignment. You're being graded on your critical use of AI, not on avoiding it.
+→ Response: Yes, it's allowed,this is the assignment. You're being graded on your critical use of AI, not on avoiding it.
 
 ### After Submission: Grading Efficiently
 
@@ -268,7 +268,7 @@ final grades, just provide recommendations.
 
 Then you review AI's suggestions, adjust where needed, and add your own judgment. This can cut grading time by 30-40%.
 
----
+,
 
 ## Phase 4: Gather Feedback and Iterate (End of Semester)
 
@@ -312,7 +312,7 @@ Based on feedback, make 2-3 specific changes:
 **Issue:** Grading took longer than expected
 **Fix:** Provide templates/checklists that students complete, making your review faster
 
----
+,
 
 ## Phase 5: Expand and Integrate (Next Semester)
 
@@ -335,33 +335,33 @@ Make your existing AI assignment more sophisticated:
 - Add persistent context (students have follow-up conversations)
 - Increase complexity of analysis required
 
----
+,
 
 ## Managing Common Challenges
 
 ### Challenge 1: Resistance from Students
 
-**"This is unfair—I didn't sign up for an AI class"**
+**"This is unfair,I didn't sign up for an AI class"**
 
 **Response:**
-> "I understand this is different. But in HR work, you'll use AI tools whether you like them or not. My job is to prepare you for professional practice, and that now includes knowing when and how to use AI responsibly. I'm not asking you to become an AI expert—just to be a critical user."
+> "I understand this is different. But in HR work, you'll use AI tools whether you like them or not. My job is to prepare you for professional practice, and that now includes knowing when and how to use AI responsibly. I'm not asking you to become an AI expert,just to be a critical user."
 
 **"I don't trust AI / I think AI is unethical"**
 
 **Response:**
-> "That's actually a valuable perspective. This assignment is a chance for you to critically evaluate AI's limitations and biases. In fact, students who identify what AI gets wrong often score highest, because that demonstrates critical thinking. You don't have to like AI—you just need to understand it."
+> "That's actually a valuable perspective. This assignment is a chance for you to critically evaluate AI's limitations and biases. In fact, students who identify what AI gets wrong often score highest, because that demonstrates critical thinking. You don't have to like AI,you just need to understand it."
 
 ### Challenge 2: Resistance from Colleagues
 
 **"You're just making things easier for students"**
 
 **Response:**
-> "Actually, it's harder—students can't just memorize and regurgitate anymore. They have to think critically and demonstrate process. The AI doesn't give them answers; it creates dynamic challenges they have to navigate."
+> "Actually, it's harder,students can't just memorize and regurgitate anymore. They have to think critically and demonstrate process. The AI doesn't give them answers; it creates dynamic challenges they have to navigate."
 
 **"AI feedback isn't as good as human feedback"**
 
 **Response:**
-> "You're right—that's why I'm still grading the final work. But AI feedback is instant and available 24/7. Students can practice and revise multiple times before submission. That's pedagogically valuable even if AI feedback isn't perfect."
+> "You're right,that's why I'm still grading the final work. But AI feedback is instant and available 24/7. Students can practice and revise multiple times before submission. That's pedagogically valuable even if AI feedback isn't perfect."
 
 **"What about academic integrity?"**
 
@@ -372,7 +372,7 @@ Make your existing AI assignment more sophisticated:
 
 **"The AI platform was down during the assignment period"**
 
-**Students affected:** Build in flexibility—allow extensions or alternative submission methods if technical issues occur.
+**Students affected:** Build in flexibility,allow extensions or alternative submission methods if technical issues occur.
 
 **Prevention:** Provide multiple AI tool options (ChatGPT, Claude, etc.) so students have backups.
 
@@ -399,7 +399,7 @@ Make your existing AI assignment more sophisticated:
 
 **Long-term:** Building AI-enhanced assignments is front-loaded work. Year 1 is significant effort. Year 2 is refinement. Year 3 is almost autopilot.
 
----
+,
 
 ## Measuring Success
 
@@ -426,7 +426,7 @@ How do you know if this is working? Look for these indicators:
 - Students successfully transfer skills to work placements
 - Alumni report that the AI-enhanced assignments were among the most useful parts of their degree
 
----
+,
 
 ## Final Encouragement
 
@@ -436,12 +436,12 @@ You don't need to revolutionize your entire curriculum overnight. You don't need
 
 **Your first AI-enhanced assignment will be imperfect. Do it anyway.**
 
-You'll discover what works in your context, with your students, for your content. Every lecturer's implementation will look slightly different—and that's exactly right.
+You'll discover what works in your context, with your students, for your content. Every lecturer's implementation will look slightly different,and that's exactly right.
 
 The chapters before this showed you what's possible. This chapter showed you how to make it real.
 
 Now it's time to choose your first small experiment and try it.
 
----
+,
 
 **Next Chapter Preview:** In Chapter 9, we directly address the academic integrity and ethics question. You'll learn how to talk to students about AI use, how to design assignments that minimise misuse while maximizing learning, and how to reframe "preventing AI cheating" as "teaching AI literacy and professional ethics." This is the conversation you'll need to have with students, colleagues, and possibly administrators.

@@ -1,8 +1,8 @@
 ## 🔧 AI Prompt Playbook for Teaching Support Officers
 
-**Purpose:** This playbook collects example prompts from the workshop. These are starting points — not because they are perfect, but because they help you think. Use them to prototype ideas, explore workflows, and build toward your own practice.
+**Purpose:** This playbook collects example prompts from the workshop. These are starting points , not because they are perfect, but because they help you think. Use them to prototype ideas, explore workflows, and build toward your own practice.
 
----
+,
 
 ### ✨ One-Shot Prompt Starters
 
@@ -28,9 +28,9 @@ Quick, direct prompts that deliver a response in a single step.
 
 > “Respond to this scenario with two voices: one cautious, one aggressive. Summarise their arguments, then provide a synthesis.”
 
-> ⚠️ **Reminder:** These are starting points — not finish lines. Follow up, clarify, and adapt.
+> ⚠️ **Reminder:** These are starting points , not finish lines. Follow up, clarify, and adapt.
 
----
+,
 
 ### 🗣 Prompting as a Conversation
 
@@ -43,11 +43,11 @@ AI works best when treated like a collaborator, not just a one-shot generator. A
 
 Think of your prompts as the start of a conversation, not the end.
 
----
+,
 
 ### ⚙️ Multi-Turn Prompt Chains (Conversational Prompting)
 
-Use prompts like a dialogue — AI is your thinking partner, not just a generator.
+Use prompts like a dialogue , AI is your thinking partner, not just a generator.
 
 #### 🔹 Simulated analyst workflow
 
@@ -63,7 +63,7 @@ Use prompts like a dialogue — AI is your thinking partner, not just a generato
 
 > "Turn this impact analysis into a board presentation. Then create a 3-bullet email summary for staff and a brief update for the student portal."
 
----
+,
 
 # 🧠 CRAFT Prompt Patterns for Teaching Support Officers
 *Use in Copilot, ChatGPT, Claude, Gemini, and other AI tools*
@@ -93,7 +93,7 @@ Use prompts like a dialogue — AI is your thinking partner, not just a generato
 > Use bullet points.  
 > Focus on enrolment, completion rates, and resource allocation."
 
----
+,
 
 ## 📝 Turn Data into Narrative
 
@@ -103,7 +103,7 @@ Use prompts like a dialogue — AI is your thinking partner, not just a generato
 > Format as a paragraph.  
 > Focus on student outcomes and teaching quality."
 
----
+,
 
 ## 🎯 Strategy Options
 
@@ -113,7 +113,7 @@ Use prompts like a dialogue — AI is your thinking partner, not just a generato
 > Use a structured list.  
 > Focus on unit consolidation, delivery modes, and staff allocation."
 
----
+,
 
 ## 🔧 Prompt Modifiers
 
@@ -121,19 +121,19 @@ Use prompts like a dialogue — AI is your thinking partner, not just a generato
 - “Add chart suggestions”  
 - "Make it sound like advice from an experienced Teaching Support Officer"
 
----
+,
 
 ### 🎯 Prompt Strategy Patterns
 
 | Pattern                | Description                          | Example Use                      |
-| ---------------------- | ------------------------------------ | -------------------------------- |
+| ,,,,,,,- | ,,,,,,,,,,,, | ,,,,,,,,,,-- |
 | **CRAFT structure**    | Structured, role-based prompting     | Clean first drafts               |
 | **Prompt + Follow-up** | Iterative refinement                 | Tone, structure, scope changes   |
 | **Multi-role prompts** | Simulate internal/external voices    | TSO vs. Faculty vs. Students     |
 | **Reverse prompting**  | Start from goal, build backwards     | "What prompt would create this?" |
 | **Template prompts**   | Structured sections with constraints | Risk → Strategy → Outcome        |
 
----
+,
 
 ### 🔍 Reflection Prompts
 
@@ -141,11 +141,11 @@ Use prompts like a dialogue — AI is your thinking partner, not just a generato
 > "If you had a digital teaching support assistant, what would you train it to do first?"
 > "What's a compliance check or data analysis that AI could prepare before faculty meetings?"
 
----
+,
 
 ### 🏁 Final Thought
 
-> “You don’t need the perfect prompt. You just need to start the conversation. AI will meet you halfway — but only if you bring clarity, curiosity, and a challenge worth solving.”
+> “You don’t need the perfect prompt. You just need to start the conversation. AI will meet you halfway , but only if you bring clarity, curiosity, and a challenge worth solving.”
 
 
 

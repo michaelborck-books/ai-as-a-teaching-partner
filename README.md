@@ -119,7 +119,7 @@ The book is designed around Curtin University but can be easily adapted:
 ## Key Concepts
 
 ### Flight Simulator Learning
-AI conversations can function like flight simulators—allowing students to practice complex professional scenarios repeatedly with immediate, realistic feedback, without the stakes of real situations.
+AI conversations can function like flight simulators,allowing students to practice complex professional scenarios repeatedly with immediate, realistic feedback, without the stakes of real situations.
 
 ### Transparent AI Use
 Rather than prohibiting AI, the approach makes AI use explicit:
@@ -273,7 +273,7 @@ Over 100 ready-to-use prompts organised by:
 - Complexity level (beginner to advanced)
 - Chapter reference (where to use in curriculum)
 
-All prompts can be adapted to your specific context—simply adjust the discipline, scenario details, or role descriptions.
+All prompts can be adapted to your specific context,simply adjust the discipline, scenario details, or role descriptions.
 
 ## Support and Adaptation
 
@@ -367,7 +367,7 @@ This resource draws on:
 
 For questions, suggestions, or to share your implementation experience, please reach out to your institution's teaching and learning support team.
 
----
+,
 
 **Version**: 1.0 (Multidisciplinary Edition)
 **Last Updated**: 2024

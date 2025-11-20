@@ -2,13 +2,13 @@
 
 ## Beyond Individual Assignments: Whole-Unit Design
 
-The previous chapters showed you how to create individual AI-enhanced assignments. But the real power of AI in education emerges when you design an entire unit—a complete semester's learning—with AI integration from the start.
+The previous chapters showed you how to create individual AI-enhanced assignments. But the real power of AI in education emerges when you design an entire unit,a complete semester's learning,with AI integration from the start.
 
 This isn't about "adding AI" to an existing unit. It's about **redesigning with AI as a pedagogical partner**, creating learning experiences that weren't previously possible.
 
 This chapter walks through complete unit design using backwards design principles, showing you how to scaffold student learning from "first encounter with AI" to "competent professional use."
 
----
+,
 
 ## The Backwards Design Approach
 
@@ -28,7 +28,7 @@ Start here, always. What should students be able to do by the end of the unit?
 
 **Note:** These outcomes don't mention AI. They describe professional competencies. AI is the *means*, not the *end*.
 
----
+,
 
 ### Step 2: Design Assessments (How Will Students Demonstrate Mastery?)
 
@@ -53,7 +53,7 @@ Using the process-based assessment principles from Chapter 7, design assessments
 - **Why this timing:** Synthesizes learning from entire semester
 - **AI integration:** Students use AI for literature synthesis and draft feedback (Chapter 5 self-assessment model)
 
----
+,
 
 ### Step 3: Map Learning Activities (How Will Students Prepare for Assessments?)
 
@@ -61,7 +61,7 @@ Now design the week-by-week learning journey that scaffolds students from novice
 
 **Key principle:** Gradually increase complexity of AI interaction while building skill.
 
----
+,
 
 ## Complete 12-Week Unit Design Example
 
@@ -84,14 +84,14 @@ In-class demonstration:
 **Purpose:**
 - Students see AI in action (demystify)
 - Understand AI can help explore complexity
-- No pressure—just observation
+- No pressure,just observation
 
 **Student Task:**
 - Install ChatGPT or Claude
 - Complete the "Getting Started" tutorial (Chapter 2 exercise)
 - Submit screenshot showing they successfully generated a simple HR scenario
 
----
+,
 
 ### Week 2: Conflict Theory and AI Exploration
 
@@ -116,7 +116,7 @@ Assignment: Theory Application Practice (ungraded)
 - Low-stakes experimentation
 - Lecturer can see who needs prompt-writing help
 
----
+,
 
 ### Week 3: Communication Skills for Conflict
 
@@ -140,7 +140,7 @@ Practice Simulation (ungraded, but required):
 - Builds confidence before graded assessment
 - Students realise they can practice privately and improve
 
----
+,
 
 ### Week 4: Legal Framework and Procedural Fairness
 
@@ -164,7 +164,7 @@ Formative Exercise:
 - Students can practice until mastery (not time-limited)
 - AI provides immediate correction
 
----
+,
 
 ### Week 5: Investigation Skills
 
@@ -189,11 +189,11 @@ Scaffolded practice for Assessment 1:
 - Students enter Assessment 1 having already practiced
 - Reduces anxiety, improves quality
 
----
+,
 
 ### Week 6: **Assessment 1 Due - Investigation Interview Simulation**
 
-**No new content this week—focus on assessment**
+**No new content this week,focus on assessment**
 
 Students submit:
 1. Transcript of investigation interview with AI persona
@@ -204,7 +204,7 @@ Students submit:
 - Availability for consultation/questions
 - Technical support for any AI access issues
 
----
+,
 
 ### Week 7: Feedback Week + Mediation Theory
 
@@ -228,7 +228,7 @@ Scenario Exploration:
 - Introduce new content at moderate cognitive load
 - Build toward Assessment 2
 
----
+,
 
 ### Week 8: Facilitation Skills
 
@@ -251,7 +251,7 @@ Multi-party simulation practice:
 - Build skills for Assessment 2
 - Students who struggled with Assessment 1 get redemption opportunity
 
----
+,
 
 ### Week 9: Cultural and Ethical Considerations
 
@@ -277,7 +277,7 @@ AI Ethics Exercise:
 - Connect theory (cultural frameworks, ethics) to practice
 - Prepare for Assessment 2 cultural/ethical analysis
 
----
+,
 
 ### Week 10: Designing Interventions
 
@@ -300,7 +300,7 @@ Portfolio Development:
 - Peer learning and feedback
 - Lecturer can identify students who need additional support
 
----
+,
 
 ### Week 11: **Assessment 2 Due - Conflict Resolution Portfolio**
 
@@ -309,7 +309,7 @@ Students submit:
 2. Transcript(s) of simulated intervention (conversation with AI personas)
 3. Reflective analysis integrating theory and evaluating their practice
 
----
+,
 
 ### Week 12: Contemporary Issues and Research Essay Support
 
@@ -332,20 +332,20 @@ Essay development support:
 - Lighter week (no new major concepts)
 - Celebrate semester's learning
 
----
+,
 
 ### Week 13: **Assessment 3 Due - Research Essay**
 
 Students submit critical analysis essay.
 
----
+,
 
 ## The Scaffolding Progression Model
 
 Notice how AI integration increases in complexity:
 
 | Week | AI Complexity | Student Agency | Stakes |
-|---|---|---|---|
+|,|,|,|,|
 | 1-2 | Observation, simple prompts | Low (following instructions) | None (ungraded) |
 | 3-4 | Single persona, structured scenarios | Medium (some choice in approach) | Low (formative) |
 | 5-6 | Graded simulation, self-assessment | High (must plan and execute) | Medium (25% of grade) |
@@ -360,7 +360,7 @@ Notice how AI integration increases in complexity:
 4. **Critical oversight** (Weeks 9-11)
 5. **Independent professional use** (Weeks 12-13)
 
----
+,
 
 ## Balancing AI and Non-AI Activities
 
@@ -383,7 +383,7 @@ Aim for approximately:
 
 This ensures students develop both technological proficiency and traditional professional skills (working with humans, not just chatbots).
 
----
+,
 
 ## Supporting Student AI Literacy Development
 
@@ -409,9 +409,9 @@ Across the semester, explicitly teach AI literacy:
 - When to use AI vs. when human judgment is essential
 - Transparent vs. hidden AI use
 
-By semester's end, students haven't just used AI—they've developed **AI literacy as a professional competency**.
+By semester's end, students haven't just used AI,they've developed **AI literacy as a professional competency**.
 
----
+,
 
 ## Unit Outline Template (for Your Own Design)
 
@@ -432,7 +432,7 @@ Use this template to design your AI-integrated unit:
 
 ### **ASSESSMENT SUMMARY**
 | Assessment | Weight | Due Week | AI Integration | Outcomes Assessed |
-|---|---|---|---|---|
+|,|,|,|,|,|
 | | | | | |
 | | | | | |
 | | | | | |
@@ -465,7 +465,7 @@ Use this template to design your AI-integrated unit:
 - Academic support for AI use:
 - Equity considerations addressed:
 
----
+,
 
 ## Common Design Mistakes to Avoid
 
@@ -489,11 +489,11 @@ Use this template to design your AI-integrated unit:
 **Problem:** Assuming all students have equal access to AI tools, devices, internet.
 **Solution:** Provide alternatives (lab access, in-class time for AI activities), use university-subscribed tools where possible, ensure core learning is accessible without premium AI access.
 
----
+,
 
 ## Aligning Unit Design with Program Goals
 
-Your unit doesn't exist in isolation—it's part of a degree program.
+Your unit doesn't exist in isolation,it's part of a degree program.
 
 ### Consider:
 
@@ -511,11 +511,11 @@ Your unit doesn't exist in isolation—it's part of a degree program.
 - How does your AI integration support overarching graduate capabilities?
 - Communication? Critical thinking? Professional practice? Technological proficiency?
 
----
+,
 
 ## Communicating the Design to Students
 
-Students need to understand the pedagogical design—it helps them engage meaningfully.
+Students need to understand the pedagogical design,it helps them engage meaningfully.
 
 ### First lecture (explain the approach):
 
@@ -528,7 +528,7 @@ Students need to understand the pedagogical design—it helps them engage meanin
 > - Mid-semester: You'll apply those skills in realistic scenarios for assessment
 > - Late semester: You'll use AI independently as a professional tool
 >
-> By the end, you'll have practiced difficult conversations dozens of times—something that would be impossible without AI. You'll also know when to trust AI, when to question it, and when human judgment must override technology.
+> By the end, you'll have practiced difficult conversations dozens of times,something that would be impossible without AI. You'll also know when to trust AI, when to question it, and when human judgment must override technology.
 >
 > This isn't about making your degree easier. It's about preparing you for professional practice in an AI-augmented world."
 
@@ -541,7 +541,7 @@ Include a section titled **"AI Integration in This Unit"** that explains:
 - Expectations for academic integrity
 - Support available
 
----
+,
 
 ## Evaluating Your AI-Integrated Unit
 
@@ -566,7 +566,7 @@ After the semester, evaluate systematically:
 
 ### Iterate and refine based on evidence.
 
----
+,
 
 ## Your Action Step
 
@@ -579,10 +579,10 @@ Design (or redesign) one unit using this backwards design approach:
 5. **Check balance** (60% traditional, 40% AI-enhanced)
 6. **Plan equity supports** (access, alternatives, scaffolding)
 
-Don't aim for perfection—aim for "better than what I'm currently doing."
+Don't aim for perfection,aim for "better than what I'm currently doing."
 
 You can refine each semester based on what you learn.
 
----
+,
 
-**Next Chapter Preview:** In Chapter 11, we shift focus to postgraduate students and research contexts. You'll learn how to use AI as a research assistant—for literature review, data analysis, research question development, and critical synthesis—while maintaining academic rigor and original thinking. This is particularly relevant for MCom students and thesis supervision.
+**Next Chapter Preview:** In Chapter 11, we shift focus to postgraduate students and research contexts. You'll learn how to use AI as a research assistant,for literature review, data analysis, research question development, and critical synthesis,while maintaining academic rigor and original thinking. This is particularly relevant for MCom students and thesis supervision.

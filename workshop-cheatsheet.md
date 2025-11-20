@@ -4,7 +4,7 @@
 **Audience: HR lecturers (low-tech, smart, practical)**  
 **Goal: Show potential without overwhelming**
 
----
+,
 
 ## 🎯 Opening Hook (5 minutes)
 
@@ -15,14 +15,14 @@
 - Just plain English instructions
 - Start small, scale gradually
 
----
+,
 
 ## 💡 The Core Concept: Chat Interface as Teaching Tool (10 minutes)
 
 ### Traditional vs. AI-Enhanced
 
 | Traditional Approach | AI-Enhanced Approach |
-|-------------------|---------------------|
+|,,,,,,-|,,,,,,,|
 | Case study (read once) | Conversation simulation (practice repeatedly) |
 | Group discussion (limited participation) | Individual role-play (everyone practices) |
 | Written assignment (delayed feedback) | Immediate AI feedback |
@@ -32,7 +32,7 @@
 - **Process over product** - Focus on thinking, not final answer
 - **Engagement through interaction** - Active vs. passive learning
 
----
+,
 
 ## 🚀 Live Demo: Three Quick Wins (15 minutes)
 
@@ -84,7 +84,7 @@ After they respond, provide:
 Then ask students to evaluate your analysis and identify any missing considerations.
 ```
 
----
+,
 
 ## 🔄 Updating Existing Activities (10 minutes)
 
@@ -101,7 +101,7 @@ Then ask students to evaluate your analysis and identify any missing considerati
 **Before:** "Group role-play (3 students participate)"
 **After:** "Individual AI practice, then share insights"
 
----
+,
 
 ## 🧠 Building Critical Thinking with AI (5 minutes)
 
@@ -159,7 +159,7 @@ Ask students: Which perspective carries most weight and why?
 **Example Learning Outcome:**
 Instead of "What would you do?" → "Evaluate these 4 approaches and justify your choice using professional standards."
 
----
+,
 
 ## 📝 Student Prompt Library (5 minutes)
 
@@ -177,7 +177,7 @@ Instead of "What would you do?" → "Evaluate these 4 approaches and justify you
 - "Challenge this HR assumption: [statement]"
 - "What ethical issues in this [HR situation]?"
 
----
+,
 
 ## 🎯 Assessment Design Shift (5 minutes)
 
@@ -192,7 +192,7 @@ Instead of "What would you do?" → "Evaluate these 4 approaches and justify you
 3. **Improvement:** Practice again with refined approach
 4. **Reflection:** What did you learn about yourself?
 
----
+,
 
 ## 🛠️ Getting Started Today (5 minutes)
 
@@ -206,7 +206,7 @@ Instead of "What would you do?" → "Evaluate these 4 approaches and justify you
 - Claude (claude.ai)  
 - Any AI chat interface works
 
----
+,
 
 ## 📚 Your Next Steps
 
@@ -221,7 +221,7 @@ Instead of "What would you do?" → "Evaluate these 4 approaches and justify you
 
 **Full book:** `github.com/michaelborck-education/ai-teaching-partner-hr`
 
----
+,
 
 ## 💬 Discussion & Questions (5 minutes)
 
@@ -230,7 +230,7 @@ Instead of "What would you do?" → "Evaluate these 4 approaches and justify you
 - What concerns do you have about academic integrity?
 - How might this change student engagement?
 
----
+,
 
 ## 🎁 Closing Thought
 

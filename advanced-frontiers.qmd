@@ -2,7 +2,7 @@
 
 ## Why This Chapter Exists
 
-The previous chapters teach you to work with AI tools directly—writing prompts, generating content, creating learning experiences. That's powerful and covers 90% of what you'll need.
+The previous chapters teach you to work with AI tools directly,writing prompts, generating content, creating learning experiences. That's powerful and covers 90% of what you'll need.
 
 But there's a next level: **setting up AI to work semi-autonomously**.
 
@@ -14,7 +14,7 @@ Imagine:
 
 This chapter explores these emerging capabilities. It's optional but powerful once you're comfortable with the basics.
 
----
+,
 
 ## Part 1: AI Agents Explained (The Simple Version)
 
@@ -51,7 +51,7 @@ WITH AGENT (what we're exploring):
 
 ### Why Agents Matter for Teaching
 
-**Time leverage:** What takes 30 minutes manually, an agent does in seconds—every single time.
+**Time leverage:** What takes 30 minutes manually, an agent does in seconds,every single time.
 
 **Consistency:** Agents don't get tired or inconsistent. The same process runs the same way each time.
 
@@ -59,13 +59,13 @@ WITH AGENT (what we're exploring):
 
 **Data insights:** Agents can track patterns you'd never notice manually.
 
----
+,
 
 ## Part 1.5: Prompt Chaining - Simulating Agents Today (Without Needing Agent Technology)
 
 Before we talk about building or using actual agents, here's something important: **you can simulate agent-like behavior right now using prompt chaining.**
 
-Prompt chaining is when you guide the AI through a multi-step workflow in a single conversation. The **educator is the orchestrator**—you direct the steps, AI executes each one, and the results build on each other.
+Prompt chaining is when you guide the AI through a multi-step workflow in a single conversation. The **educator is the orchestrator**,you direct the steps, AI executes each one, and the results build on each other.
 
 ### Why Prompt Chaining Matters
 
@@ -78,7 +78,7 @@ With prompt chaining, you can:
 - Redirect if something isn't working
 - Combine outputs into final products
 
-**The educator remains in control throughout.** You're not just telling the AI "do this whole thing"—you're directing a step-by-step process.
+**The educator remains in control throughout.** You're not just telling the AI "do this whole thing",you're directing a step-by-step process.
 
 ### Three Prompt Chaining Approaches
 
@@ -123,7 +123,7 @@ Create a complete assessment plan following these steps.
 
 #### **Approach 2: Modular Prompt Chain (Explicit Steps with Pauses)**
 
-Work through steps one at a time, adjusting based on each result. This is closer to how agents actually work—step by step, human in the loop.
+Work through steps one at a time, adjusting based on each result. This is closer to how agents actually work,step by step, human in the loop.
 
 ```
 Step 1: "Create a list of the top 5 risks in [supply chain scenario].
@@ -202,7 +202,7 @@ Now proceed to Step 2."
 STEP 2: [continues based on your feedback]
 ```
 
----
+,
 
 ### Key Principle: You're the Orchestrator
 
@@ -278,13 +278,13 @@ Include:
 
 Notice: **you never wrote a prompt longer than a sentence, but you built an entire unit through conversation.**
 
----
+,
 
 ## Part 2: Agents in Practice (Tools You Can Use Today)
 
 ### Copilot Agents (Microsoft)
 
-Microsoft is building "Copilot Agents"—AI agents with specific skills integrated into their Copilot Enterprise.
+Microsoft is building "Copilot Agents",AI agents with specific skills integrated into their Copilot Enterprise.
 
 **What's possible (current or near-term):**
 - **Document processing agent** - Scans course materials, extracts key concepts, generates study materials
@@ -300,13 +300,14 @@ Microsoft is building "Copilot Agents"—AI agents with specific skills integrat
 
 **Practical First Step:**
 Try using Copilot in Word to:
+
 - Upload a course document
 - Ask: "Create 20 quiz questions from this material, difficulty-calibrated"
 - Agent processes and returns questions
 
 ### Custom GPTs (ChatGPT)
 
-If you're using ChatGPT Plus or Pro, you can create "Custom GPTs"—specialized versions of ChatGPT trained for your specific need.
+If you're using ChatGPT Plus or Pro, you can create "Custom GPTs",specialized versions of ChatGPT trained for your specific need.
 
 **What you can do:**
 1. Upload your course materials to the Custom GPT
@@ -315,6 +316,7 @@ If you're using ChatGPT Plus or Pro, you can create "Custom GPTs"—specialized 
 
 **Example Custom GPT:**
 "HR Case Study Analyzer"
+
 - Trained on your HR course materials
 - Understands your teaching approach
 - Generates scenarios specific to your unit
@@ -348,7 +350,7 @@ Similar concept: create a persistent workspace for a specific teaching project.
 - Consistent feedback (same context, same quality of feedback)
 - Building institutional knowledge (project grows with contributions)
 
----
+,
 
 ## Part 3: Automation Platforms (Scaling What Works)
 
@@ -461,7 +463,7 @@ Workflow:
 Benefit: One submission → Five formats automatically
 ```
 
----
+,
 
 ## Part 4: Retrieval-Augmented Generation (RAG) for Teaching
 
@@ -526,7 +528,7 @@ Workflow: Assignment Feedback Agent with Course Context
 Result: Personalized, contextual, course-specific feedback
 ```
 
----
+,
 
 ## Part 5: Multimodal AI (Image, Video, Audio, Text)
 
@@ -619,7 +621,7 @@ Tools:
 - HeyGen (AI avatars in videos)
 - Descript (AI-powered video editing)
 
----
+,
 
 ## Part 6: Building Custom Tools (Advanced)
 
@@ -681,7 +683,7 @@ What it does:
 4. **Track ROI** - Did you save time? Is quality better?
 5. **Iterate** - Refine based on actual use
 
----
+,
 
 ## Part 7: The Emerging AI Ecosystem (Stay Informed Without Drowning)
 
@@ -749,13 +751,13 @@ Rather than chasing every new tool:
 4. **Adopt only if it solves a real problem** for you
 5. **Stay connected to teaching communities** (conferences, journals, networks)
 
----
+,
 
 ## Part 8: The Future You're Teaching For
 
 ### Principle: Build Skills, Not Tool Dependence
 
-Students entering the workforce will use AI tools you can't predict. Your job isn't to teach them this year's tools—it's to teach them to:
+Students entering the workforce will use AI tools you can't predict. Your job isn't to teach them this year's tools,it's to teach them to:
 
 - **Learn new tools quickly** - Frameworks transfer between platforms
 - **Evaluate AI critically** - Skills apply regardless of tool
@@ -788,7 +790,7 @@ As tools become more capable:
 
 Your expertise becomes **curation and judgment**, not execution. That's actually more valuable.
 
----
+,
 
 ## Part 8.5: Emerging Capabilities - The Conversation You Need to Have
 
@@ -853,7 +855,7 @@ As discussed in Chapter 8, **transparency is essential**. With voice cloning and
 3. **Ethical Boundaries**
    - **Don't use** voice cloning to impersonate yourself in misleading ways
    - **Don't create** AI avatars of colleagues without explicit permission
-   - **Be cautious** with deepfakes—even for educational purposes, clarity is essential
+   - **Be cautious** with deepfakes,even for educational purposes, clarity is essential
    - **Never use** for deception (e.g., pretending to be present when you're not)
 
 4. **Data Governance Concerns** (see Chapter 8)
@@ -913,7 +915,7 @@ Automated grading raises some of the same concerns as data governance:
 - **Transparency:** Students should know AI is assisting with grading
 - **Fairness:** AI systems can embed bias (Chapter 8 discusses this in detail)
 - **Accountability:** Final decision and grade remain your responsibility
-- **Data:** Student work gets processed by the system—understand where data goes
+- **Data:** Student work gets processed by the system,understand where data goes
 
 **Honest assessment:**
 - **Useful for:** Identifying patterns, reducing time on routine feedback, catching inconsistencies
@@ -935,7 +937,7 @@ Questionable: "AI grades the assignments, I just review overall patterns
 Wrong: "AI assigns final grades, I post them without reviewing."
 ```
 
----
+,
 
 ## Part 9: Staying Grounded
 
@@ -943,7 +945,7 @@ Wrong: "AI assigns final grades, I post them without reviewing."
 
 **The hype says:** AI will do everything for you!
 
-**The reality:** AI handles the 80% of work that's routine and repetitive. The 20% that requires judgment, creativity, and care—that's still yours.
+**The reality:** AI handles the 80% of work that's routine and repetitive. The 20% that requires judgment, creativity, and care,that's still yours.
 
 Good use of AI agents/automation:
 - ✅ Generate multiple quiz options for you to choose from
@@ -967,7 +969,7 @@ As you automate more:
 4. **Adjust when needed** - Don't let automation run on autopilot
 5. **Remember the purpose** - Technology serves learning, not vice versa
 
----
+,
 
 ## A Note on Complexity
 
@@ -984,7 +986,7 @@ The goal isn't that you implement every technique. The goal is that you **unders
 - Make informed decisions about what to adopt
 - Know what to explore when you have a real problem to solve
 
----
+,
 
 ## Bringing It Together
 
@@ -1019,7 +1021,7 @@ The goal isn't that you implement every technique. The goal is that you **unders
 
 **Both are fine.** Some educators will dig deep into automation and love it. Others will master prompt engineering and be perfectly satisfied. Neither path is wrong.
 
----
+,
 
 ## Resources for Going Deeper
 
@@ -1039,7 +1041,7 @@ When evaluating a new tool or capability:
 4. Can students understand how it works?
 5. What happens if it breaks?
 
----
+,
 
 ## Conclusion: The Frontier Ahead
 
@@ -1055,7 +1057,7 @@ But the principles remain:
 
 ### A Reminder on Ethics as Technology Advances
 
-As you encounter new tools—voice cloning, avatar creation, automated grading, content generation—return to **Chapter 8: Ethics, Data Governance & Integrity**. The questions you ask there apply here:
+As you encounter new tools,voice cloning, avatar creation, automated grading, content generation,return to **Chapter 8: Ethics, Data Governance & Integrity**. The questions you ask there apply here:
 
 - How do I use this tool transparently?
 - What data governance concerns exist?
@@ -1078,7 +1080,7 @@ The future of education includes AI. But the future of teaching still requires e
 
 That's you.
 
----
+,
 
 ## Final Thought
 
@@ -1090,9 +1092,9 @@ The goal is that **you understand what's possible**, so you can:
 - Adapt your teaching as technology changes
 - Stay rooted in pedagogy while exploring possibilities
 
-The fundamentals (Chapters 2-4) work great on their own. These frontiers expand your possibilities—if and when you're ready to explore them.
+The fundamentals (Chapters 2-4) work great on their own. These frontiers expand your possibilities,if and when you're ready to explore them.
 
----
+,
 
 *This chapter explores emerging capabilities at the frontier of AI in education. Start with the chapters on fundamental prompting and pedagogy. Return here when you're curious about automation and advanced tools. The basics work great on their own.*
 

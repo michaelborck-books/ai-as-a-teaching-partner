@@ -6,7 +6,7 @@ You have a well-designed case study in Word or PDF. Students read it, maybe disc
 
 **What if you could transform that static document into an interactive experience where every student actively engages with the content?**
 
----
+,
 
 ## The Solution: AI-Generated Interactive HTML
 
@@ -24,7 +24,7 @@ You have a well-designed case study in Word or PDF. Students read it, maybe disc
 - **Printable** - Students can save their work
 - **Offline capable** - Download for later use
 
----
+,
 
 ## 🛠️ The Transformation Process
 
@@ -82,7 +82,7 @@ Technical requirements:
 Make it engaging but academically rigorous and appropriate for [your discipline].
 ```
 
----
+,
 
 ## 📋 Example Transformations
 
@@ -106,7 +106,7 @@ Make it engaging but academically rigorous and appropriate for [your discipline]
 - **Save progress** functionality
 - **Print-ready format**
 
----
+,
 
 ## 🎯 Practical Examples by Discipline
 
@@ -135,7 +135,7 @@ Depending on your field, here are typical interactive transformations:
 ### More Examples
 See the Cross-Discipline Applications section below for additional detailed examples for Supply Chain, Information Systems, Tourism & Hospitality, and Analytics.
 
----
+,
 
 ## 📤 Uploading to Blackboard
 
@@ -153,7 +153,7 @@ See the Cross-Discipline Applications section below for additional detailed exam
 - Paste generated HTML code
 - Interactive content appears directly in LMS
 
----
+,
 
 ## 🎨 Design Best Practices
 
@@ -174,7 +174,7 @@ See the Cross-Discipline Applications section below for additional detailed exam
 - **Touch-friendly** - large buttons
 - **Readable text** - no pinching required
 
----
+,
 
 ## 🚀 Getting Started Template
 
@@ -210,7 +210,7 @@ Add:
 Keep everything in a single HTML file.
 ```
 
----
+,
 
 ## 📚 Integration with Existing Activities
 
@@ -228,7 +228,7 @@ Keep everything in a single HTML file.
 - **Include media** - images, videos
 - **Connect systems** - grade book integration
 
----
+,
 
 ## 🎯 Success Stories
 
@@ -242,7 +242,7 @@ Keep everything in a single HTML file.
 **After:** Interactive policy analysis tool
 **Result:** Deeper understanding, practical application
 
----
+,
 
 ## 🛠️ Technical Tips
 
@@ -258,7 +258,7 @@ Keep everything in a single HTML file.
 - **Save not working** - verify browser permissions
 - **Mobile layout** - test responsive design
 
----
+,
 
 ## 📈 Measuring Success
 
@@ -274,7 +274,7 @@ Keep everything in a single HTML file.
 - **Critical thinking** - deeper analysis
 - **Professional readiness** - workplace preparation
 
----
+,
 
 ## 🔄 Continuous Improvement
 
@@ -289,7 +289,7 @@ Keep everything in a single HTML file.
 - **LMS changes** - adapt to Blackboard updates
 - **Accessibility standards** - maintain compliance
 
----
+,
 
 ## 🎁 Ready-to-Use Prompt Library
 
@@ -317,7 +317,7 @@ Build interactive assessment from this worksheet:
 Include scoring, feedback, progress tracking.
 ```
 
----
+,
 
 ## Cross-Discipline Applications: Interactive Content Transformation
 
@@ -611,9 +611,9 @@ Include organisational development theory and change management frameworks.
 - Content updates to reflect current industry practices
 - Student feedback integration for continuous improvement
 
----
+,
 
----
+,
 
 ## 📸 Expanding Beyond HTML: Multimedia & Visual Learning
 
@@ -640,6 +640,7 @@ While HTML interactive tools are powerful, they're just the beginning. AI can he
 
 **Practical Example:**
 ```
+
 Upload: Your 30-page textbook chapter to NotebookLM
 Ask: "Generate 20 multiple-choice questions at the undergraduate level"
 Result: Ready-to-use quiz in minutes
@@ -663,6 +664,7 @@ Result: Visual knowledge structure for students
 
 **Marketing Example:**
 ```
+
 Prompt: "Create an infographic showing the customer journey for a SaaS product,
 including awareness, consideration, purchase, and retention stages."
 
@@ -671,6 +673,7 @@ Result: Professional infographic showing funnel with key metrics and touchpoints
 
 **Supply Chain Example:**
 ```
+
 Prompt: "Create a flowchart showing a supply chain network with suppliers,
 manufacturing, distribution centers, and retail, highlighting critical paths."
 
@@ -679,6 +682,7 @@ Result: Professional diagram showing complexity and dependencies
 
 **Finance Example:**
 ```
+
 Prompt: "Generate a visual diagram showing how financial ratios interconnect
 (liquidity, profitability, leverage, efficiency)."
 
@@ -702,6 +706,7 @@ While AI video generation is still emerging, you can:
 
 **Practical Workflow:**
 ```
+
 1. Record lecture (video or audio)
 2. Use AI to transcribe and summarize key points
 3. Generate study questions from transcript
@@ -709,7 +714,7 @@ While AI video generation is still emerging, you can:
 5. Combine into multimedia learning package
 ```
 
----
+,
 
 ## 🎮 Building Interactive Learning Objects
 
@@ -746,8 +751,10 @@ Make it engaging but educationally rigorous.
 
 **Practical Application with NotebookLM:**
 ```
+
 Upload: Your course readings/lecture notes
 Ask NotebookLM: "Generate flashcard questions covering key concepts"
+
 Result: Pre-made flashcards with retrieval practice optimization
 
 Then import into Anki or Quizlet for spaced repetition learning
@@ -779,7 +786,7 @@ For each concept:
 Format: HTML with click-to-expand nodes showing connected ideas
 ```
 
----
+,
 
 ## 🎨 Creative Content Generation & Narrative Transformation
 
@@ -875,7 +882,7 @@ Include: Timeline, key metrics, decision points, stakeholder perspectives
 Make it suitable for teaching [discipline] students about [concept].
 ```
 
----
+,
 
 ## 🔧 Advanced Interactive Tools: Building Agents & Automations (Future Capability)
 
@@ -907,7 +914,7 @@ Rather than manually creating a quiz prompt each time:
 
 **Note:** These agents require more technical setup but dramatically increase your teaching leverage. See Advanced Frontiers chapter for more on agents and automation.
 
----
+,
 
 ## Exporting Conversation Results: From Interactive Back to Document
 
@@ -1021,6 +1028,7 @@ Instead of:
 Try:
 "Analyze [case study] with AI's help, then request AI generate a
 professional report of your analysis. Submit:
+
 1. A summary of your analysis process (500 words)
 2. The generated report
 3. A reflection on what the document shows about your understanding"
@@ -1033,7 +1041,7 @@ This reveals thinking, not just output.
 This workflow complements the static-to-interactive work in this chapter:
 
 | Direction | Chapter Focus | Tool Purpose |
-|-----------|---|---|
+|,,,--|,|,|
 | **Static → Interactive** | This Chapter (13) | Engage students *in* learning |
 | **Interactive/Conversation → Document** | Chapter 14 | Students *communicate* their learning |
 
@@ -1043,7 +1051,7 @@ Both represent the full cycle of AI-enhanced teaching:
 3. Students use AI to generate professional deliverables of their work (Chapter 14)
 4. Students submit documents reflecting genuine learning
 
----
+,
 
 ## 🚀 Next Steps
 
@@ -1066,6 +1074,6 @@ For comprehensive guidance on having students generate professional documents (W
 
 **Key Principle:** This chapter focuses on practical transformations you can do today with current AI tools. As capabilities evolve, your teaching can evolve with them. The pedagogical principles remain constant even as tools change.
 
----
+,
 
-*This chapter bridges the gap between static content and interactive learning experiences, making your teaching materials more engaging and effective across all business disciplines. See Chapter 14 to complete the cycle—showing students how to generate professional deliverables from their learning work.*
+*This chapter bridges the gap between static content and interactive learning experiences, making your teaching materials more engaging and effective across all business disciplines. See Chapter 14 to complete the cycle,showing students how to generate professional deliverables from their learning work.*

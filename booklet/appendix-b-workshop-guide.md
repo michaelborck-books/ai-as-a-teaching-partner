@@ -15,7 +15,7 @@ By the end of this 60-minute session, participants will:
 4. Have a resource list to continue learning
 5. Feel excited (not threatened) about AI possibilities
 
----
+,
 
 ## Pre-Workshop Preparation (15 minutes)
 
@@ -38,7 +38,7 @@ By the end of this 60-minute session, participants will:
 - [ ] If possible, allow participants to have laptops/devices to follow along
 - [ ] Have water and refreshments available
 
----
+,
 
 ## Workshop Agenda (60 minutes)
 
@@ -50,11 +50,11 @@ By the end of this 60-minute session, participants will:
 **Slide 2: The Challenge We Face**
 
 Show this scenario:
-> "You have 60 students. They all need practice with difficult conversations—disciplinary meetings, investigation interviews, conflict resolution. Traditional role-play allows 5 students to practice per 2-hour session. It would take 12 weeks to give everyone one turn.
+> "You have 60 students. They all need practice with difficult conversations,disciplinary meetings, investigation interviews, conflict resolution. Traditional role-play allows 5 students to practice per 2-hour session. It would take 12 weeks to give everyone one turn.
 >
 > **What if every student could practice 10 times before the real assessment?**"
 
-**Key message:** AI isn't about replacing teaching—it's about scaling things we know work but can't do for everyone.
+**Key message:** AI isn't about replacing teaching,it's about scaling things we know work but can't do for everyone.
 
 **Slide 3: What AI Is (and Isn't)**
 
@@ -64,9 +64,9 @@ Keep it simple:
 - **Key point:** Think of it as a tireless teaching assistant that never gets exhausted but needs your expertise to guide it
 
 **Talk track:**
-> "If you can copy and paste text, you can use AI. This isn't about being technical. It's about knowing what to ask for and critically evaluating what you get back. That's exactly what we teach our students to do with research sources—and it applies here too."
+> "If you can copy and paste text, you can use AI. This isn't about being technical. It's about knowing what to ask for and critically evaluating what you get back. That's exactly what we teach our students to do with research sources,and it applies here too."
 
----
+,
 
 ### Segment 2: Live Demonstration (20 minutes)
 
@@ -103,13 +103,13 @@ Begin.
 **Type it live. Show the much better result.**
 
 **Say:**
-> "Same tool, different instruction. The quality of what we get depends entirely on the quality of what we ask for. This is the fundamental skill—knowing what to ask."
+> "Same tool, different instruction. The quality of what we get depends entirely on the quality of what we ask for. This is the fundamental skill,knowing what to ask."
 
 **Debrief (1 minute):**
 Ask: "What made the second prompt better?"
 Expected answers: specificity, context, clear requirements, role definition
 
----
+,
 
 **Demo 2: Conversation Simulation (10 minutes)**
 
@@ -141,22 +141,22 @@ you about some concerns that have been raised..."
 - Demonstrate realistic back-and-forth
 
 **After the conversation, say:**
-> "Now imagine every student can practice this scenario five times before their actual assessment. They can make mistakes, learn from them, and try again—all without requiring me to role-play 60 times or arranging peer practice that's inconsistent.
+> "Now imagine every student can practice this scenario five times before their actual assessment. They can make mistakes, learn from them, and try again,all without requiring me to role-play 60 times or arranging peer practice that's inconsistent.
 >
-> After the conversation, students submit the transcript and I can assess their actual process—how they asked questions, built rapport, handled resistance. That's much more valuable than asking them to write an essay about what they *would* do."
+> After the conversation, students submit the transcript and I can assess their actual process,how they asked questions, built rapport, handled resistance. That's much more valuable than asking them to write an essay about what they *would* do."
 
 **Debrief (2 minutes):**
 Ask: "How could you use something like this in a class you teach?"
 Capture 2-3 responses on whiteboard
 
----
+,
 
 **Demo 3: AI as Feedback Tool (5 minutes)**
 
 **Say:**
 > "One more quick example. We all know students need more feedback than we have time to provide. Watch this."
 
-**Show a mediocre student response to a case study** (prepare this in advance—2-3 paragraphs with identifiable flaws).
+**Show a mediocre student response to a case study** (prepare this in advance,2-3 paragraphs with identifiable flaws).
 
 **Type this prompt live:**
 
@@ -181,9 +181,9 @@ Here is the student's response:
 **Say:**
 > "Students can use this to check their draft before submission. They get immediate, specific feedback. Then they revise. The work I grade is much better because they've already gone through a revision cycle.
 >
-> I'm not outsourcing grading to AI—I still grade the final work. But AI provides the formative feedback that helps students improve along the way."
+> I'm not outsourcing grading to AI,I still grade the final work. But AI provides the formative feedback that helps students improve along the way."
 
----
+,
 
 ### Segment 3: Hands-On Practice (20 minutes)
 
@@ -214,33 +214,33 @@ Here is the student's response:
 - What would you refine?
 - How could you use this in your next class?
 
----
+,
 
 ### Segment 4: Addressing Concerns and Next Steps (10 minutes)
 
-**Anticipated Questions/Concerns—Address Proactively:**
+**Anticipated Questions/Concerns,Address Proactively:**
 
 **Q: "What about academic integrity? Won't students just cheat?"**
 
 **A:**
-> "Great question. This booklet includes a whole chapter on this (Chapter 9). Short answer: We make AI use transparent and expected, then we grade students on their critical use of AI, not their avoidance of it. We teach them to *critique* AI outputs and improve on them. That's harder than avoiding AI—and it's a professional skill they'll need."
+> "Great question. This booklet includes a whole chapter on this (Chapter 9). Short answer: We make AI use transparent and expected, then we grade students on their critical use of AI, not their avoidance of it. We teach them to *critique* AI outputs and improve on them. That's harder than avoiding AI,and it's a professional skill they'll need."
 
 **Q: "I'm not technical. Is this too complex for me?"**
 
 **A:**
-> "If you can use Google, you can use AI. The technical part is handled by the AI companies. Your job is the same as always—design good learning experiences, set clear objectives, assess student work. AI is just a tool, like a textbook or a case study database."
+> "If you can use Google, you can use AI. The technical part is handled by the AI companies. Your job is the same as always,design good learning experiences, set clear objectives, assess student work. AI is just a tool, like a textbook or a case study database."
 
 **Q: "What if AI gives incorrect information?"**
 
 **A:**
-> "It absolutely can—and that's a teaching opportunity. When we teach students to critically evaluate AI outputs and catch errors, we're building exactly the kind of critical thinking we want. AI isn't an oracle. It's a tool that requires human oversight."
+> "It absolutely can,and that's a teaching opportunity. When we teach students to critically evaluate AI outputs and catch errors, we're building exactly the kind of critical thinking we want. AI isn't an oracle. It's a tool that requires human oversight."
 
 **Q: "How much time does this take?"**
 
 **A:**
-> "Initial setup takes longer—maybe 1-2 hours to write and test a good prompt. But once it's created, you can reuse it every semester. And it can save time on grading by providing initial formative feedback that improves the quality of work you receive."
+> "Initial setup takes longer,maybe 1-2 hours to write and test a good prompt. But once it's created, you can reuse it every semester. And it can save time on grading by providing initial formative feedback that improves the quality of work you receive."
 
----
+,
 
 **Next Steps (5 minutes)**
 
@@ -256,21 +256,21 @@ Here is the student's response:
    "Create one prompt for something you're teaching in the next month. Test it yourself. Refine it."
 
    **Action 2 (This month):**
-   "Try one low-stakes AI activity with your students—either an optional practice exercise or an in-class demonstration."
+   "Try one low-stakes AI activity with your students,either an optional practice exercise or an in-class demonstration."
 
    **Action 3 (This semester):**
-   "Pilot one AI-enhanced assignment. Start small—maybe worth 10-15% of the grade."
+   "Pilot one AI-enhanced assignment. Start small,maybe worth 10-15% of the grade."
 
 4. **Offer ongoing support:**
    - Your email for questions
    - Offer to meet individually with anyone who wants help implementing
    - Suggest forming a faculty learning community around AI experimentation
 
----
+,
 
 ## Quick Start Guide (Handout Template)
 
----
+,
 
 ### **QUICK START GUIDE: AI IN HR TEACHING**
 
@@ -325,7 +325,7 @@ identification, (2) Theory application, (3) Practical recommendations.
 **Tips for better results:**
 - Be specific about context (location, industry, student level)
 - Define what success looks like (length, format, criteria)
-- Test and refine—if the output isn't quite right, adjust your prompt and try again
+- Test and refine,if the output isn't quite right, adjust your prompt and try again
 
 **Need help?**
 Contact: [Your email]
@@ -333,9 +333,9 @@ Contact: [Your email]
 **Want to learn more?**
 Read the full booklet: [Link or location]
 
----
+,
 
----
+,
 
 ## Post-Workshop Follow-Up
 
@@ -355,9 +355,9 @@ Read the full booklet: [Link or location]
 ### End of Semester:
 - [ ] Gather feedback: What did people actually implement? What worked? What didn't?
 - [ ] Refine the workshop based on lessons learned
-- [ ] Celebrate wins—share examples of successful implementations
+- [ ] Celebrate wins,share examples of successful implementations
 
----
+,
 
 ## Variations for Different Workshop Formats
 
@@ -372,7 +372,7 @@ Skip: Multiple demos, extended Q&A
 
 **Best for:** Faculty meetings where you have limited time
 
----
+,
 
 ### 90-Minute Extended Version
 
@@ -384,7 +384,7 @@ Add:
 
 **Best for:** Professional development sessions or teaching retreats
 
----
+,
 
 ### Half-Day Workshop
 
@@ -397,7 +397,7 @@ Add:
 
 **Best for:** Department-wide pedagogical innovation initiatives
 
----
+,
 
 ## Facilitation Tips
 
@@ -406,23 +406,23 @@ Add:
 **If someone says:** "This is just a fad / AI will make students lazy / This undermines real learning"
 
 **Respond with:**
-> "I hear your concern. Let me ask—what do you most wish your students could practice before they face high-stakes assessments? [Listen] This is a tool for scaling that practice. You still design the learning, set the standards, and grade the work. AI just makes personalised practice feasible for all students, not just a lucky few."
+> "I hear your concern. Let me ask,what do you most wish your students could practice before they face high-stakes assessments? [Listen] This is a tool for scaling that practice. You still design the learning, set the standards, and grade the work. AI just makes personalised practice feasible for all students, not just a lucky few."
 
 ### Managing Enthusiasm
 
 **If someone wants to immediately overhaul their entire curriculum:**
 
 **Respond with:**
-> "I love your enthusiasm! I'd encourage starting with one small experiment first—maybe just one assignment or one in-class activity. Test it, get student feedback, refine it. Then expand. Small pilots reduce risk and help you learn what works in your specific context."
+> "I love your enthusiasm! I'd encourage starting with one small experiment first,maybe just one assignment or one in-class activity. Test it, get student feedback, refine it. Then expand. Small pilots reduce risk and help you learn what works in your specific context."
 
 ### Managing Technical Anxiety
 
 **If someone says:** "I'm not good with technology"
 
 **Respond with:**
-> "You don't need to be. If you can type a question into Google, you can use AI. Let me show you again—it's literally just typing instructions and reading what comes back. The challenge is pedagogical, not technical: What do you want students to learn? How will you assess it? Those are teaching questions, not tech questions."
+> "You don't need to be. If you can type a question into Google, you can use AI. Let me show you again,it's literally just typing instructions and reading what comes back. The challenge is pedagogical, not technical: What do you want students to learn? How will you assess it? Those are teaching questions, not tech questions."
 
----
+,
 
 ## Key Messages to Reinforce Throughout
 
@@ -436,7 +436,7 @@ Add:
 
 5. **You're not alone:** Offer ongoing support and create a community of practice.
 
----
+,
 
 ## Success Indicators (How to Know the Workshop Worked)
 
@@ -455,7 +455,7 @@ Add:
 - Student feedback on AI-integrated teaching is positive
 - Faculty request advanced workshop or ongoing support
 
----
+,
 
 ## Final Facilitation Note
 

@@ -5,7 +5,7 @@
 
 ## 📚 Book Cross-Reference
 | Concept | Book Chapter | Quick Start |
-|---------|---------------|-------------|
+|,,,|,,,,,|,,,,-|
 | Getting started with AI | Ch 2 | Try one prompt today |
 | Implementation plan | Ch 3 | 5-phase rollout |
 | Six essential techniques | Ch 4 | Pick one, master it |
@@ -63,7 +63,7 @@ Then ask me to identify which arguments are most persuasive and why.
 ## 🔄 Activity Upgrade Examples
 
 | Traditional | AI-Enhanced |
-|------------|---------------|
+|,,,,|,,,,,|
 | Read case study | Practice conversation with AI |
 | Write reflection | Get AI feedback, then improve |
 | Group discussion | Individual AI practice, then share |
@@ -82,5 +82,5 @@ Then ask me to identify which arguments are most persuasive and why.
 
 **No installation required. Free versions available.**
 
----
+,
 *Full guide: github.com/michaelborck-education/ai-teaching-partner-hr*

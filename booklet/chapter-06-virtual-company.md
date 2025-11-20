@@ -2,11 +2,11 @@
 
 ## The Big Idea
 
-Imagine this: Your students don't just read case studies about HR challenges—they actually work as HR professionals in a simulated company where they interact with AI-powered employees, managers, and stakeholders over weeks or even an entire semester.
+Imagine this: Your students don't just read case studies about HR challenges,they actually work as HR professionals in a simulated company where they interact with AI-powered employees, managers, and stakeholders over weeks or even an entire semester.
 
 They receive complaints, conduct investigations, negotiate with union representatives, handle performance issues, and make strategic recommendations. Each interaction builds on previous ones. The "employees" remember past conversations. The company has policies, culture, and ongoing challenges.
 
-**This is the virtual company simulation—the most ambitious application of AI in HR education.**
+**This is the virtual company simulation,the most ambitious application of AI in HR education.**
 
 It's more complex than a single conversation simulation, but it's increasingly feasible with current AI technology. This chapter will show you how to build toward this vision progressively, starting simple and adding layers of complexity.
 
@@ -19,7 +19,7 @@ Traditional case studies are static snapshots. Students analyse what *already ha
 - Stakeholders react to your actions
 - You must navigate politics, personalities, and competing priorities simultaneously
 
-A virtual company simulation creates **emergent complexity** where students experience these dynamics. They don't just know *about* HR work—they practice *doing* HR work in a realistic context.
+A virtual company simulation creates **emergent complexity** where students experience these dynamics. They don't just know *about* HR work,they practice *doing* HR work in a realistic context.
 
 ## The Progressive Implementation Model
 
@@ -32,11 +32,11 @@ You don't need to build the entire virtual company at once. Start simple and add
 
 Let's explore each level.
 
----
+,
 
 ## Level 1: Single Employee Persona (Master Prompt)
 
-This is the simplest version—essentially an enhanced version of the conversation simulation from Chapter 4, but with richer organisational context.
+This is the simplest version,essentially an enhanced version of the conversation simulation from Chapter 4, but with richer organisational context.
 
 ### The Master Prompt Template
 
@@ -112,13 +112,14 @@ I will begin the meeting now.
 
 **Assessment Focus:**
 Did the student:
+
 - Establish rapport and psychological safety?
 - Ask questions that elicited Jamie's full perspective?
 - Avoid leading questions or showing bias toward the complainant?
 - Identify what other information is needed (interviewing Priya, reviewing policies, checking documentation)?
 - Recognize the underlying issues (inadequate management training, unclear performance standards)?
 
----
+,
 
 ## Level 2: Multiple Employee Personas (Cast of Characters)
 
@@ -138,7 +139,7 @@ Now we add complexity: students interact with multiple AI personas representing 
 
 ### Creating the Cast
 
-You create four separate Master Prompts—one for each character. Each prompt includes:
+You create four separate Master Prompts,one for each character. Each prompt includes:
 - The shared company context (so all personas are consistent)
 - The specific character's background and perspective
 - What that character knows and doesn't know
@@ -226,6 +227,7 @@ You are the external HR Consultant. You must:
 
 **The Challenge:**
 Each persona will give a different version of events. Students must:
+
 - Identify what's factual vs. interpretive
 - Recognize what information is missing
 - Ask probing questions to uncover hidden context
@@ -233,7 +235,7 @@ Each persona will give a different version of events. Students must:
 
 This mirrors real HR work where truth is rarely simple.
 
----
+,
 
 ## Level 3: Persistent Context (Company Memory)
 
@@ -277,6 +279,7 @@ Students draft a resolution plan (training for Jamie, revised flexible work poli
 
 **Week 5-6: Implementation Simulation**
 Students have follow-up conversations with Jamie and Priya to implement the plan. The AI personas react based on:
+
 - How well the student conducted the initial investigation
 - Whether the resolution plan seems fair
 - How the student communicates and manages the process
@@ -307,11 +310,11 @@ The AI remembers that the student's report was superficial and didn't validate P
 
 **Student:** "Hi Priya, I wanted to check in and see how things are going since we implemented the new flexible work schedule."
 
-**AI (as Priya):** *smiles cautiously* "Actually, it's been better. The flexible start times have made a huge difference with childcare. And Jamie and I had that mediation session you set up—it was awkward, but I think we both understand each other better now. I feel like someone actually took this seriously, which means a lot."
+**AI (as Priya):** *smiles cautiously* "Actually, it's been better. The flexible start times have made a huge difference with childcare. And Jamie and I had that mediation session you set up,it was awkward, but I think we both understand each other better now. I feel like someone actually took this seriously, which means a lot."
 
 The AI remembers that the student was thorough, empathetic, and fair. This builds trust.
 
----
+,
 
 ## Level 4: Dynamic Events (Evolving Scenarios)
 
@@ -359,7 +362,7 @@ This creates **emergent complexity** that mirrors real organisational life, wher
 Create a semester-long project where students act as the HR team for a virtual company. Each week brings new developments:
 
 | Week | Event | Student Task |
-|---|---|---|
+|,|,|,|
 | 1-2 | Introduction to InnovateCo, cast of characters | Conduct organisational culture assessment |
 | 3-4 | Performance management complaint (Jamie/Priya) | Investigate and resolve |
 | 5-6 | Employee requests union representation | Respond to union inquiry, prepare for negotiation |
@@ -369,7 +372,7 @@ Create a semester-long project where students act as the HR team for a virtual c
 
 Students work in teams (acting as the HR department). All teams interact with the same personas, but the personas respond differently based on each team's approach.
 
----
+,
 
 ## Practical Implementation Guidance
 
@@ -424,14 +427,14 @@ Work with your university's IT department to create a custom web interface where
 **Grading Rubric Example:**
 
 | Criterion | Weight | Description |
-|---|---|---|
+|,|,|,|
 | Investigation Process | 25% | Quality of questions, fairness, thoroughness |
 | Stakeholder Management | 20% | Rapport-building, empathy, professionalism |
 | Analysis & Synthesis | 25% | Ability to integrate multiple perspectives and identify underlying issues |
 | Recommendations | 20% | Practical, justified, legally sound solutions |
 | Reflection | 10% | Metacognitive awareness, learning demonstrated |
 
----
+,
 
 ## Common Questions
 
@@ -441,7 +444,7 @@ A: The beauty of AI personas is that they respond dynamically. Even if two stude
 
 **Q: What if a student gets "stuck" and the conversation goes nowhere?**
 
-A: Build a "reset" option into the assignment. Students can restart the conversation once if needed, but they must reflect on why the first attempt failed. This teaches recovery from mistakes—an important professional skill.
+A: Build a "reset" option into the assignment. Students can restart the conversation once if needed, but they must reflect on why the first attempt failed. This teaches recovery from mistakes,an important professional skill.
 
 **Q: How much time does this take to set up?**
 
@@ -453,9 +456,9 @@ Level 3-4: Ongoing time investment, but you're building reusable assets.
 
 **Q: Can I use the same scenarios year after year?**
 
-A: Yes! Unlike traditional case studies that students might find online, AI simulations are dynamic—each student's experience is unique. However, you should refresh and refine your prompts based on what you learn from each cohort.
+A: Yes! Unlike traditional case studies that students might find online, AI simulations are dynamic,each student's experience is unique. However, you should refresh and refine your prompts based on what you learn from each cohort.
 
----
+,
 
 ## The Vision: HR Education Transformed
 
@@ -467,9 +470,9 @@ Imagine your graduates leaving university having:
 - Practiced recovery from mistakes without real-world harm
 - Developed confidence in their professional judgment
 
-This is what virtual company simulations can achieve. It's not replacing traditional teaching—it's adding a layer of experiential learning that was previously impossible at scale.
+This is what virtual company simulations can achieve. It's not replacing traditional teaching,it's adding a layer of experiential learning that was previously impossible at scale.
 
----
+,
 
 ## Your Action Step
 
@@ -483,6 +486,6 @@ Before Chapter 7, decide your level of ambition:
 
 Choose what feels manageable for your current teaching load and technical comfort level. You can always scale up later.
 
----
+,
 
 **Next Chapter Preview:** In Chapter 7, we shift from "how to use AI tools" to "how to rethink assessment." We'll explore the fundamental difference between assessing **process** (professional methodology) versus **product** (theoretical knowledge), and show you three complete assessment models specifically designed for HR education: the Simulated HR Consultation, the Evidence-Based Strategic Intervention Plan, and the Competency-Based Recruitment Portfolio. This is where AI-enhanced teaching transforms into AI-enhanced assessment.

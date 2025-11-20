@@ -2,7 +2,7 @@
 
 These templates help simulate **agent-like workflows** in a single AI prompt. Use them to guide the assistant through multi-step reasoning or report generation.
 
----
+,
 
 ## 🧠 1. Guided Workflow (Full Chain in One Prompt)
 
@@ -24,7 +24,7 @@ Here is the market text:
 <<<INSERT EXCERPT>>>
 ```
 
----
+,
 
 ## 🧠 2. Modular Prompt Chain (Explicit Steps)
 
@@ -41,7 +41,7 @@ Step 4: Compile everything into a report.
 Output all four steps, clearly labelled.
 ```
 
----
+,
 
 ## ⏸️ 3. Interactive Chain (Pause Between Steps)
 
@@ -57,7 +57,7 @@ Steps:
 Start by asking: "Ready to begin. May I proceed with step 1?"
 ```
 
----
+,
 
 ## 🎓 Bonus Prompt Modifiers
 
@@ -69,6 +69,6 @@ Add these to the end of any prompt to adjust tone, format, or output:
 - “Write like a trusted advisor, not a robot.”  
 - “Make this suitable for pasting into a client email or Word report.”
 
----
+,
 
-> 🧠 These prompt chains let you simulate agent logic — reasoning, summarising, and combining information — without using any tools beyond ChatGPT, Claude, or Copilot Chat.
+> 🧠 These prompt chains let you simulate agent logic , reasoning, summarising, and combining information , without using any tools beyond ChatGPT, Claude, or Copilot Chat.

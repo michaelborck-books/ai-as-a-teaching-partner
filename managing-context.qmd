@@ -2,7 +2,7 @@
 
 ## Why Context Matters: Understanding AI's Limitations
 
-One of the most underrated skills in working with AI is **managing context**—the information you feed to an AI system and how you structure your conversations.
+One of the most underrated skills in working with AI is **managing context**,the information you feed to an AI system and how you structure your conversations.
 
 Think of context like the working memory of AI. Unlike humans, who can maintain focus across days of conversation, AI has specific limitations:
 
@@ -19,7 +19,7 @@ This is particularly important for educators because:
 - You'll want consistent quality across multiple deliverables (course redesigns, prompt libraries)
 - You'll be modeling these skills for students
 
----
+,
 
 ## The Four Core Problems
 
@@ -31,7 +31,7 @@ This is particularly important for educators because:
 
 **Teaching impact:** When designing complex units or courses, you'll have lengthy conversations. Without managing context, outputs become inconsistent.
 
----
+,
 
 ### **Problem 2: Output Token Scarcity**
 
@@ -39,19 +39,19 @@ This is particularly important for educators because:
 
 **Why:** Every model has a maximum output token limit (typically 2,000–4,000 tokens). If you ask for 5 things, you get roughly 400–800 tokens per thing. Quality suffers.
 
-**Teaching impact:** You might get a "complete" unit design that needs heavy revision, or you abandon it and start over—wasting time.
+**Teaching impact:** You might get a "complete" unit design that needs heavy revision, or you abandon it and start over,wasting time.
 
----
+,
 
 ### **Problem 3: Hallucination Acceleration**
 
-**What happens:** As conversations get longer, AI becomes more likely to "confidently generate false information"—making up citations, inventing examples, or misremembering earlier statements.
+**What happens:** As conversations get longer, AI becomes more likely to "confidently generate false information",making up citations, inventing examples, or misremembering earlier statements.
 
 **Why:** Longer conversations increase uncertainty. AI is tracking more information and making more inferential leaps. It tries to fill gaps with plausible-sounding but false information.
 
 **Teaching impact:** Teaching materials with invented examples or false citations are problematic. Students trust what they see in your materials.
 
----
+,
 
 ### **Problem 4: Lost Context Across Sessions**
 
@@ -61,7 +61,7 @@ This is particularly important for educators because:
 
 **Teaching impact:** Multi-week projects (semester redesigns, curriculum overhauls) become fragmented. You must re-establish context repeatedly.
 
----
+,
 
 ## Core Strategy 1: Break Complex Tasks Into Steps
 
@@ -82,7 +82,7 @@ design assessments, write student instructions, create a rubric, and draft
 a unit description."
 ```
 
-**Break it into steps—first, ask for a plan:**
+**Break it into steps,first, ask for a plan:**
 ```
 I'm redesigning a unit on supply chain management for 3rd-year business
 students (40 students, mix of majors). Help me create a structured plan.
@@ -160,7 +160,7 @@ Design these weeks including:
 Make it manageable for a 3-hour/week course.
 ```
 
----
+,
 
 ## Core Strategy 2: One Task Per Prompt (Usually)
 
@@ -232,7 +232,7 @@ Sometimes asking for multiple outputs makes sense:
 
 **The key:** Are the outputs relatively equal in scope and complexity? If yes, ask for multiple. If one task is much bigger than others, split them.
 
----
+,
 
 ## Core Strategy 3: Use Output Constraints to Manage Tokens
 
@@ -338,7 +338,7 @@ Focus on what an audit team needs to decide.
 
 :::
 
----
+,
 
 ## Core Strategy 4: Keep Conversations Focused and Modular
 
@@ -365,7 +365,7 @@ Focus on what an audit team needs to decide.
 
 **Rule of thumb:** One conversation per major project. Use the same conversation as you iterate and refine within that project. Start a new conversation when you move to a different project.
 
----
+,
 
 ## Core Strategy 5: Summarize and Handoff for Long Conversations
 
@@ -433,7 +433,7 @@ conversation to continue working.
 
 You then start a new conversation and continue with: "I'm continuing supply chain unit redesign. Here's our progress. Let's design Week 1-2 activities."
 
----
+,
 
 ## Core Strategy 6: Make Context Explicit and Structured
 
@@ -486,7 +486,7 @@ that encourage quieter students to engage and show their thinking?
 - **Style:** What's your teaching approach? What's worked before? What hasn't?
 - **History:** Have we worked on this before? What did we already decide?
 
----
+,
 
 ## Core Strategy 7: Batch Similar Tasks
 
@@ -534,12 +534,12 @@ context. Some of my students are from cultures where conflict is handled very
 differently than in Western business tradition.
 ```
 
----
+,
 
 ## Common Mistakes and How to Fix Them
 
 | Mistake | What Goes Wrong | Fix |
-|---------|-----------------|-----|
+|,,,|,,,,,--|,--|
 | **Asking for 10 things at once** | Output is shallow; tokens divided 10 ways | Break into 2–3 prompts, one main task per prompt |
 | **Vague task description** | AI misunderstands what you want | Add explicit context: who, what, why, constraints |
 | **"Design my whole course" in one go** | Incoherent, shallow output | Ask for plan first, then design one section at a time |
@@ -550,7 +550,7 @@ differently than in Western business tradition.
 | **Pasting entire documents without framing** | AI doesn't know what to focus on | Add a sentence: "Here's my unit outline. Focus on the assessment section." |
 | **Starting a new conversation when context is long** | Lost work and having to re-explain everything | Summarize first, then paste summary into new chat |
 
----
+,
 
 ## Practical Workflow for Managing Context
 
@@ -580,7 +580,7 @@ Here's a workflow that brings everything together:
 3. Assess completeness (did AI address all your needs?)
 4. Iterate if needed (use follow-up prompts to refine, not to ask for entirely new things)
 
----
+,
 
 ## Real-World Example: Managing Context Well
 
@@ -609,7 +609,7 @@ What's the learning arc across the semester? What should each week focus on?
 
 **Result:** You get a coherent 10-week plan with learning progression.
 
----
+,
 
 **Conversation 2: Learning Outcomes**
 ```
@@ -623,7 +623,7 @@ that focus on authentic supply chain thinking (not just knowledge).
 
 **Result:** Outcomes aligned to the plan, focused on professional judgment.
 
----
+,
 
 **Conversation 3: Week 1 Deep Dive**
 ```
@@ -644,7 +644,7 @@ Make it manageable for a 3-hour week.
 
 **Result:** A coherent, complete Week 1.
 
----
+,
 
 **Conversation 4: Weeks 2-3 Deep Dive**
 ```
@@ -653,7 +653,7 @@ Continue with Weeks 2-3 using the same structure...
 
 **Result:** By batching weeks and working modularly, the whole unit comes together coherently.
 
----
+,
 
 **Conversation 5: Assessment Integration**
 ```
@@ -667,7 +667,7 @@ outcomes?
 
 **Result:** A coherent, well-integrated unit with assessment that ties it together.
 
----
+,
 
 ## Context Management for Different Scenarios
 
@@ -701,7 +701,7 @@ outcomes?
 
 **Benefit:** Assessments that actually measure what you care about. Clear communication to students.
 
----
+,
 
 ## When Context Management Matters Most
 
@@ -714,7 +714,7 @@ Context management is most important when:
 
 For quick, one-off tasks (generating a single prompt, quick idea generation), context management is less critical. But for the substantial work you do as an educator, managing context improves quality dramatically.
 
----
+,
 
 ## Key Principles Summary
 
@@ -729,7 +729,7 @@ For quick, one-off tasks (generating a single prompt, quick idea generation), co
 
 > **The underlying principle:** Context management is about respecting the AI's limitations while maximizing its strengths. You're not trying to have perfect conversations; you're trying to have *focused* conversations that produce high-quality outputs consistently.
 
----
+,
 
 ## Why Students Should Learn This
 
@@ -747,7 +747,7 @@ Consider teaching context management explicitly:
 
 This transfers from classroom to professional practice. If your students graduate understanding how to manage context with AI, they'll be more effective professionals.
 
----
+,
 
 ## Your Next Step
 

@@ -1,10 +1,10 @@
-## 🔨 0:30–0:45 — Prompt Crafting with CRAFT
+## 🔨 0:30–0:45 , Prompt Crafting with CRAFT
 
 ### 🌟 Purpose
 
-Teach participants how to write better prompts that get more relevant, high-quality results — and introduce a structured framework (CRAFT) they can use repeatedly in any tool.
+Teach participants how to write better prompts that get more relevant, high-quality results , and introduce a structured framework (CRAFT) they can use repeatedly in any tool.
 
----
+,
 
 ### 💡 Why It Matters
 
@@ -14,23 +14,23 @@ Teach participants how to write better prompts that get more relevant, high-qual
 
 > Think of prompting like a briefing: the better you brief the AI, the better its draft.
 
-But also — the first prompt is rarely the final answer. Good prompts invite a **conversation**, not just a command.
+But also , the first prompt is rarely the final answer. Good prompts invite a **conversation**, not just a command.
 
----
+,
 
 ## 🧠 C.R.A.F.T Framework
 
 | Letter | Meaning         | Example                                           |
-| ------ | --------------- | ------------------------------------------------- |
+| ,, | ,,,,, | ,,,,,,,,,,,,,,,,- |
 | C      | **Context**     | "This data is from Curtin engineering units over 3 semesters." |
 | R      | **Role**        | "You are a senior Teaching Support Officer."                   |
 | A      | **Action**      | "Analyse enrolment trends and resource utilisation."          |
 | F      | **Format**      | "Write in bullet points."                                      |
 | T      | **Tone/Target** | "Use clear language for a faculty board presentation."         |
 
-> You don’t have to use every element every time — but this gives you the scaffolding.
+> You don’t have to use every element every time , but this gives you the scaffolding.
 
----
+,
 
 ### 🛠 DEMO: Improving a Prompt with CRAFT
 
@@ -42,11 +42,11 @@ But also — the first prompt is rarely the final answer. Good prompts invite a 
 
 > "This is enrolment data from engineering units at Curtin over three semesters. You are an experienced Teaching Support Officer. Analyse the enrolment trends and identify any units at risk of low numbers. Output in three bullet points using clear language for the faculty board."
 
----
+,
 
 ### 🗣 Prompting as a Conversation
 
-CRAFT is a great **starting point** — but don't stop there. One-shot prompting can feel transactional. The real power is in **using AI as a collaborator**.
+CRAFT is a great **starting point** , but don't stop there. One-shot prompting can feel transactional. The real power is in **using AI as a collaborator**.
 
 > "Think of CRAFT as your first message to a new colleague. The next steps are to discuss, clarify, iterate."
 
@@ -58,7 +58,7 @@ CRAFT is a great **starting point** — but don't stop there. One-shot prompting
 
 You’re not just prompting. You’re **working together.**
 
----
+,
 
 ### 🔁 Practice Exercise (Interactive)
 
@@ -74,17 +74,17 @@ Then:
 * Share 1–2 examples
 * Highlight how **prompting evolves across turns**
 
----
+,
 
 ### 🤔 Optional Discussion Prompt
 
 > "Which parts of CRAFT do you naturally include already? Which ones do you skip?"
 > "How might you follow up your own prompt to improve or adapt the output?"
 
----
+,
 
 ### 🏛 Key Takeaway
 
-> "CRAFT isn't just for writing better prompts — it's a way to start better conversations with AI. Think of it like briefing a capable Teaching Support colleague, not commanding a tool. It works best when you build on it turn by turn."
+> "CRAFT isn't just for writing better prompts , it's a way to start better conversations with AI. Think of it like briefing a capable Teaching Support colleague, not commanding a tool. It works best when you build on it turn by turn."
 
 

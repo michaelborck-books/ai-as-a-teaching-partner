@@ -69,9 +69,9 @@ Throughout this book, **prompting** is your core skill. Whether you're:
 - Automating workflows with agents
 - Building custom tools
 
-...you're fundamentally communicating with AI through prompts. Master prompting, and you can adapt to any AI tool—past, present, or future. **Chapters 2-4 teach you prompting as a conceptual foundation; everything else applies that foundation to specific teaching challenges.**
+...you're fundamentally communicating with AI through prompts. Master prompting, and you can adapt to any AI tool,past, present, or future. **Chapters 2-4 teach you prompting as a conceptual foundation; everything else applies that foundation to specific teaching challenges.**
 
----
+,
 
 # How to Use This Book
 
@@ -93,7 +93,7 @@ Use **Appendix B** (one-hour faculty workshop guide) as a facilitation template.
 ## If you need institutional justification:
 Refer to **Appendix C** (alignment with Curtin learning outcomes) to demonstrate how AI integration supports existing educational goals.
 
----
+,
 
 # The Core Philosophy
 
@@ -101,7 +101,7 @@ Three principles underpin everything in this book:
 
 **1. AI as Scaffolding, Not Replacement**
 
-You are the expert educator. AI is a tool that helps you scale what you already know works—personalised practice, immediate feedback, realistic simulations. AI builds the framework quickly; you ensure it's pedagogically sound and academically rigorous.
+You are the expert educator. AI is a tool that helps you scale what you already know works,personalised practice, immediate feedback, realistic simulations. AI builds the framework quickly; you ensure it's pedagogically sound and academically rigorous.
 
 *How this applies to your discipline:*
 
@@ -142,7 +142,7 @@ Rather than trying to prevent AI use (impossible and counterproductive), we teac
 
 You don't need to revolutionize your entire curriculum overnight. Start with one prompt, one assignment, one semester. Build confidence and capability progressively.
 
----
+,
 
 # Acknowledgments
 
@@ -154,9 +154,9 @@ This book synthesises ideas from multiple sources:
 - Professional practice standards and ethical guidelines across business disciplines
 - Emerging research on AI in higher education
 
-The goal is not to be cutting-edge or technically impressive. The goal is to help business educators do their work better—prepare confident, competent, ethical professionals for complex workplaces.
+The goal is not to be cutting-edge or technically impressive. The goal is to help business educators do their work better,prepare confident, competent, ethical professionals for complex workplaces.
 
----
+,
 
 # Important Notes
 
@@ -172,7 +172,7 @@ This book was developed for Curtin University's business programs. If you're at 
 
 Consider this book a foundation, not a complete solution. You'll discover what works for your students, your teaching style, and your context through experimentation. The appendices provide templates you can adapt and build upon.
 
----
+,
 
 # Getting Help and Providing Feedback
 
@@ -189,11 +189,11 @@ As you implement ideas from this book, you may have questions, encounter challen
 - Share successes and failures with your teaching and learning community
 - Contribute to the growing body of practice around AI in education
 
----
+,
 
 # A Personal Note to Readers
 
-If you're feeling skeptical about AI in education, that's healthy. Technology is not inherently good or bad—it's how we use it that matters.
+If you're feeling skeptical about AI in education, that's healthy. Technology is not inherently good or bad,it's how we use it that matters.
 
 If you're worried this is too technical, I promise it's not. If you can write an email, you can write an AI prompt.
 

@@ -14,7 +14,7 @@ These aren't random AI tricks. These are seven proven prompting techniques speci
 
 Each technique is easy to adapt and can be used by students directly or by you to generate teaching materials. Let's explore each one with ready-to-use examples.
 
----
+,
 
 ## Technique 1: Reverse Prompting (for Scoping and Policy Design)
 
@@ -44,13 +44,14 @@ Begin with your first question.
 
 ### What Happens
 The AI will start asking questions like:
+
 - "Will all roles be eligible for flexible arrangements, or will there be specific criteria?"
 - "Have you considered how this will affect team collaboration and meeting schedules?"
 - "What equipment or technology support will the company provide for remote workers?"
 - "How will you handle performance measurement for remote versus office staff?"
 - "Are there legal or insurance implications you need to address?"
 
-The student must think through each question before responding. By the end, they've been guided to consider fairness, logistics, legal compliance, technology needs, and cultural impact—all before drafting a single policy sentence.
+The student must think through each question before responding. By the end, they've been guided to consider fairness, logistics, legal compliance, technology needs, and cultural impact,all before drafting a single policy sentence.
 
 ### Variations for Different Topics
 - "I need to design an onboarding program for graduate hires. Ask me questions to ensure I've thought through all the key elements."
@@ -60,7 +61,7 @@ The student must think through each question before responding. By the end, they
 ### Teaching Tip
 Use this as a **pre-writing exercise**. Have students complete the AI questioning session, then require them to submit both the transcript and their subsequent policy draft. You can assess whether they actually incorporated the insights from the questions.
 
----
+,
 
 ## Technique 2: Pros and Cons (for Decision Making)
 
@@ -68,7 +69,7 @@ Use this as a **pre-writing exercise**. Have students complete the AI questionin
 The AI systematically analyzes multiple approaches to an HR problem, evaluating each option against specific criteria. This develops the ability to make justified recommendations rather than just stating preferences.
 
 ### Why It Works for HR
-HR professionals constantly evaluate competing strategies—Should we outsource recruitment? Which performance model should we adopt? How should we handle redundancy? This technique builds the muscle for balanced, evidence-based decision-making.
+HR professionals constantly evaluate competing strategies,Should we outsource recruitment? Which performance model should we adopt? How should we handle redundancy? This technique builds the muscle for balanced, evidence-based decision-making.
 
 ### The Student Prompt (Ready to Use)
 
@@ -95,7 +96,8 @@ The AI will identify 3-4 performance review models (e.g., annual reviews, contin
 
 ### The Follow-Up Task
 Don't let students simply accept the AI's recommendation. Require them to:
-- Challenge one of the "pros" listed—is it really an advantage in all contexts?
+
+- Challenge one of the "pros" listed,is it really an advantage in all contexts?
 - Add a disadvantage the AI missed
 - Argue for a *different* model than the AI recommended, using evidence
 - Identify which psychological or motivational theory supports or contradicts each approach
@@ -110,7 +112,7 @@ This transforms the AI output from an answer into a starting point for deeper an
 ### Teaching Tip
 This technique works brilliantly for **in-class discussions**. Project the AI's analysis on screen, then divide students into groups where each group must argue for one of the models. They have to use the AI's framework but add their own reasoning.
 
----
+,
 
 ## Technique 3: Stepwise Chain of Thought (for Process Management)
 
@@ -118,7 +120,7 @@ This technique works brilliantly for **in-class discussions**. Project the AI's 
 The AI walks through a complex HR process one step at a time, pausing after each step until the student signals they're ready to continue. This slows down high-stakes processes that students often rush through.
 
 ### Why It Works for HR
-Many HR processes—disciplinary action, grievance handling, redundancy consultation—are legally and ethically sensitive. Students need to understand *why* each step exists and what documentation or legal considerations apply at that stage. This technique forces deliberate, sequential thinking.
+Many HR processes,disciplinary action, grievance handling, redundancy consultation,are legally and ethically sensitive. Students need to understand *why* each step exists and what documentation or legal considerations apply at that stage. This technique forces deliberate, sequential thinking.
 
 ### The Student Prompt (Ready to Use)
 
@@ -164,7 +166,7 @@ This is excellent for **individual revision or exam prep**. Students can practic
 
 You can also use this to **generate assessment materials**: Have the AI walk through a process, then you create an exam question where one of the steps was done incorrectly and students must identify the error and its consequences.
 
----
+,
 
 ## Technique 4: Role Play (for Skill Building)
 
@@ -234,7 +236,7 @@ dialogue.
 Begin the meeting. I will speak first.
 ```
 
-Now the student has to manage a realistic, emotionally charged scenario. They must practice de-escalation, empathy, procedural fairness, and documentation—all while the AI responds dynamically to what they say.
+Now the student has to manage a realistic, emotionally charged scenario. They must practice de-escalation, empathy, procedural fairness, and documentation,all while the AI responds dynamically to what they say.
 
 ### Variations for Different Topics
 - AI plays a union representative in an enterprise bargaining negotiation
@@ -244,6 +246,7 @@ Now the student has to manage a realistic, emotionally charged scenario. They mu
 
 ### Teaching Tip
 **Assessment approach:** Require students to submit the full transcript of the conversation along with a reflective analysis answering:
+
 - What communication techniques did you use?
 - Where did the conversation go well or poorly?
 - What would you do differently next time?
@@ -251,7 +254,7 @@ Now the student has to manage a realistic, emotionally charged scenario. They mu
 
 This makes the process visible and assessable.
 
----
+,
 
 ## Technique 5: Debating (for Strategic and Ethical Analysis)
 
@@ -308,7 +311,7 @@ are in place").
 ```
 
 **What Happens:**
-The AI will construct sophisticated arguments for both positions, then provide a nuanced synthesis. Students can't just pick a side—they have to understand the legitimate concerns and benefits on both sides.
+The AI will construct sophisticated arguments for both positions, then provide a nuanced synthesis. Students can't just pick a side,they have to understand the legitimate concerns and benefits on both sides.
 
 ### Variation C: Multi-Stakeholder Debate
 
@@ -343,7 +346,7 @@ Begin the debate.
 ```
 
 **What Happens:**
-The AI will create a realistic executive debate where each stakeholder has legitimate but competing priorities. Students see that there's rarely a perfect answer—only trade-offs and compromise.
+The AI will create a realistic executive debate where each stakeholder has legitimate but competing priorities. Students see that there's rarely a perfect answer,only trade-offs and compromise.
 
 ### Follow-Up Task for Students
 
@@ -354,14 +357,14 @@ After reading the debate, students must:
 4. Reflect on which psychological or organisational theory best explains the tension between these perspectives
 
 ### Teaching Tip
-This technique is perfect for **preparing students for case study exams**. Instead of memorizing model answers, they practice analysing competing priorities and justifying nuanced positions—exactly what they'll need to do in professional practice.
+This technique is perfect for **preparing students for case study exams**. Instead of memorizing model answers, they practice analysing competing priorities and justifying nuanced positions,exactly what they'll need to do in professional practice.
 
----
+,
 
 ## Technique 6: Formative Assessment Generator (for Practice and Mastery)
 
 ### What It Does
-The AI generates unlimited practice questions, scenarios, or quizzes that students can use to test their knowledge and build confidence. This provides low-stakes repetition and immediate feedback—essential for skill development.
+The AI generates unlimited practice questions, scenarios, or quizzes that students can use to test their knowledge and build confidence. This provides low-stakes repetition and immediate feedback,essential for skill development.
 
 ### Why It Works for HR
 Many HR competencies require both knowledge (legislation, theory) and application (recognizing situations where that knowledge applies). Students need more practice than traditional homework provides, but creating dozens of unique practice scenarios is time-prohibitive for lecturers. AI solves this.
@@ -390,7 +393,7 @@ The AI creates scenario after scenario. Students test themselves, get immediate 
 
 **Key feature:** AI adapts. If student gets several wrong, AI can simplify. If student masters basic scenarios, AI can make them more complex.
 
----
+,
 
 ### Use Case 2: Application Practice
 
@@ -414,7 +417,7 @@ Begin with Scenario 1.
 **What Happens:**
 Progressive difficulty builds confidence and competence. Students move from obvious cases to nuanced judgment calls.
 
----
+,
 
 ### Use Case 3: Exam Preparation
 
@@ -441,7 +444,7 @@ on what I got right/wrong and why.
 **What Happens:**
 Students can generate multiple practice exams with different questions each time. They enter the real exam having practiced extensively.
 
----
+,
 
 ### Use Case 4: Targeted Remediation
 
@@ -468,7 +471,7 @@ Generate the quiz.
 **What You Get:**
 A targeted remediation tool that teaches while testing. Students who failed your assessment can use this to identify and fix their knowledge gaps.
 
----
+,
 
 ### Teaching Tip: How to Integrate This
 
@@ -481,7 +484,7 @@ In your unit outline:
 
 > "Before the Week 8 exam, complete a self-generated practice test (minimum 20 questions). Submit a screenshot showing completion and a 100-word reflection: What did you learn from this practice? What areas do you still need to review?"
 
-Worth 5% of final grade—graded on completion and reflection quality, not on how many they got right.
+Worth 5% of final grade,graded on completion and reflection quality, not on how many they got right.
 
 **Option 3: Study Group Activity**
 
@@ -489,7 +492,7 @@ Worth 5% of final grade—graded on completion and reflection quality, not on ho
 
 Combines AI efficiency with peer learning.
 
----
+,
 
 ### Critical Principle: Formative, Not Summative
 
@@ -502,7 +505,7 @@ Combines AI efficiency with peer learning.
 
 **The value:** Unlimited, personalised practice that builds confidence and competence before high-stakes assessment.
 
----
+,
 
 ### Variation: Adaptive Difficulty
 
@@ -521,9 +524,9 @@ Track my progress and tell me when I've achieved mastery.
 Begin.
 ```
 
-This creates a personalised learning path—AI adjusts difficulty based on student performance.
+This creates a personalised learning path,AI adjusts difficulty based on student performance.
 
----
+,
 
 ### Why This Matters
 
@@ -540,7 +543,7 @@ AI removes these constraints:
 
 **Result:** Students can practice until they achieve mastery, not until they run out of practice problems.
 
----
+,
 
 ### Simulating Adaptive Difficulty
 
@@ -567,7 +570,7 @@ Begin with Scenario 1 at medium difficulty.
 - Student-controlled difficulty progression
 - Mastery-based advancement
 - Builds confidence through appropriate challenge
-- No technical setup required—just good prompting
+- No technical setup required,just good prompting
 
 **Teaching Tip:**
 
@@ -576,7 +579,7 @@ Encourage students to track their progress:
 
 This creates accountability without requiring sophisticated adaptive systems.
 
----
+,
 
 ## Technique 7: The Expert Panel (for Multi-Perspective Analysis)
 
@@ -625,7 +628,7 @@ Begin with Expert 1: Organisational Psychologist.
 **The AI creates three distinct voices:**
 
 **Organizational Psychologist:**
-> "The 35% turnover suggests a breakdown in psychological contract or poor person-organization fit. Sales roles are inherently stressful, but this level suggests systemic issues—possibly unrealistic targets, poor management relationships, or lack of autonomy. I recommend: (1) Conduct stay/exit interview analysis focusing on psychological factors, (2) Assess manager-employee relationship quality, (3) Review goal-setting processes..."
+> "The 35% turnover suggests a breakdown in psychological contract or poor person-organization fit. Sales roles are inherently stressful, but this level suggests systemic issues,possibly unrealistic targets, poor management relationships, or lack of autonomy. I recommend: (1) Conduct stay/exit interview analysis focusing on psychological factors, (2) Assess manager-employee relationship quality, (3) Review goal-setting processes..."
 
 **Compensation Specialist:**
 > "At 35% turnover, you're likely seeing pay inequity or uncompetitive base/commission structures. Sales talent is mobile and market-driven. I recommend: (1) Conduct compensation benchmarking against competitors, (2) Analyse pay dispersion within the team, (3) Review commission structures for fairness and achievability..."
@@ -733,14 +736,14 @@ Most HR teaching presents one "correct" approach. But professional practice requ
 **Role Play** (Technique 4):
 > "After developing your strategy based on expert consultation, role-play presenting it to a skeptical stakeholder (CFO, union rep, CEO) and defend your choices."
 
----
+,
 
 ## How to Choose Which Technique to Use
 
 Match the technique to the learning objective:
 
 | If you want students to... | Use this technique |
-|---|---|
+|,|,|
 | Define a complex problem or policy comprehensively | **Reverse Prompting** |
 | Evaluate competing options and justify a choice | **Pros and Cons** |
 | Follow a legally/ethically sensitive process correctly | **Stepwise Chain of Thought** |
@@ -760,9 +763,9 @@ The real power comes from combining these techniques. For example:
 4. Student uses **Role Play** to practice explaining the policy to a skeptical manager
 5. Student uses **Debating** to analyse potential criticisms from different stakeholders
 
-This sequence takes the student through analysis, decision-making, communication, and critical reflection—a complete professional process.
+This sequence takes the student through analysis, decision-making, communication, and critical reflection,a complete professional process.
 
----
+,
 
 ## Your Action Step
 
@@ -770,8 +773,8 @@ Before moving to Chapter 4, choose **one technique** from this chapter and try i
 
 Copy one of the example prompts, adapt it to your specific content, and see what happens. Get comfortable with at least one of these techniques before we move into the more complex applications in the next chapters.
 
-Remember: these aren't just AI tools—they're pedagogical strategies. The AI just makes them scalable and available to every student, any time they want to practice.
+Remember: these aren't just AI tools,they're pedagogical strategies. The AI just makes them scalable and available to every student, any time they want to practice.
 
----
+,
 
 **Next Chapter Preview:** In Chapter 4, we'll take the Role Play technique and expand it into a full "Flight Simulator" system for HR conversations. You'll learn how to design high-fidelity simulations, structure the debrief and critique phase, and turn the entire experience into a powerful assessment tool. We'll work through a complete example from start to finish.

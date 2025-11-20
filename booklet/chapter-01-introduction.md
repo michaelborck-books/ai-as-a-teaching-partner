@@ -24,7 +24,7 @@ You can teach students the theory of performance management, employment law, and
 
 ## The Flight Simulator Concept
 
-Think about how pilots are trained. They don't learn to handle engine failure during a storm by reading a textbook. They don't practice emergency landings by watching videos. They use **flight simulators**—sophisticated environments where they can crash the plane, make terrible decisions, experience rare scenarios, and learn from catastrophic failures without anyone getting hurt.
+Think about how pilots are trained. They don't learn to handle engine failure during a storm by reading a textbook. They don't practice emergency landings by watching videos. They use **flight simulators**,sophisticated environments where they can crash the plane, make terrible decisions, experience rare scenarios, and learn from catastrophic failures without anyone getting hurt.
 
 That's what AI can do for HR education.
 
@@ -40,9 +40,9 @@ And here's the remarkable part: **after the simulation, the AI can act as an exp
 
 ## What Makes This Different from Traditional Teaching?
 
-Traditional HR education often focuses on **product**—the final answer, the correct policy, the right theoretical framework. Students write essays, complete exams, and submit reports that demonstrate they *know* things.
+Traditional HR education often focuses on **product**,the final answer, the correct policy, the right theoretical framework. Students write essays, complete exams, and submit reports that demonstrate they *know* things.
 
-But HR professional work is about **process**—the methodology of how you investigate a complaint, the approach you take in a negotiation, the steps you follow to ensure fair dismissal, the communication style you use to de-escalate conflict.
+But HR professional work is about **process**,the methodology of how you investigate a complaint, the approach you take in a negotiation, the steps you follow to ensure fair dismissal, the communication style you use to de-escalate conflict.
 
 **AI allows us to assess and teach process, not just product.**
 
@@ -51,7 +51,7 @@ Instead of asking "Can the student define procedural fairness?" we can now ask:
 - "Review this student's conversation with an underperforming employee. Did they apply motivational theory appropriately?"
 - "Analyse how this student navigated a discrimination complaint. Where did their process break down?"
 
-This shift—from testing knowledge recall to evaluating applied professional methodology—is transformational for HR education.
+This shift,from testing knowledge recall to evaluating applied professional methodology,is transformational for HR education.
 
 ## Three Core Principles of This Approach
 
@@ -59,13 +59,13 @@ As you read through this booklet and begin experimenting with AI in your teachin
 
 ### 1. **AI as Scaffolding, Not Replacement**
 
-AI is like a construction crew that can quickly build the framework for complex learning scenarios—generating interview questions, drafting policy outlines, creating simulated employees, analysing student responses. But your role as the educator is irreplaceable: you design the learning objectives, you set the ethical boundaries, you guide students to inspect and refine their work, and you ensure the final structure is robust and professionally sound.
+AI is like a construction crew that can quickly build the framework for complex learning scenarios,generating interview questions, drafting policy outlines, creating simulated employees, analysing student responses. But your role as the educator is irreplaceable: you design the learning objectives, you set the ethical boundaries, you guide students to inspect and refine their work, and you ensure the final structure is robust and professionally sound.
 
 ### 2. **Transparency Over Prohibition**
 
 Many educators worry about students using AI to cheat. This booklet takes the opposite approach: **give students the AI tools, teach them to use AI ethically, and grade them on their ability to critically evaluate and improve AI outputs.**
 
-In the real world, HR professionals will use AI tools. Our job isn't to prevent that—it's to ensure they can use them responsibly, identify their limitations, and maintain human judgment on ethical and legal matters.
+In the real world, HR professionals will use AI tools. Our job isn't to prevent that,it's to ensure they can use them responsibly, identify their limitations, and maintain human judgment on ethical and legal matters.
 
 ### 3. **Start Simple, Scale Gradually**
 
@@ -75,7 +75,7 @@ You don't need to revolutionize your entire curriculum tomorrow. This booklet wi
 
 **Part 1 (Chapters 1-2)** introduces you to AI and walks you through your first successful AI interaction. No prior experience needed.
 
-**Part 2 (Chapter 3)** gives you five proven prompt techniques specifically adapted for HR education—tools you can use immediately.
+**Part 2 (Chapter 3)** gives you five proven prompt techniques specifically adapted for HR education,tools you can use immediately.
 
 **Part 3 (Chapters 4-6)** shows you three powerful applications: conversation simulations, self-assessment tools, and virtual company scenarios. Each chapter includes complete worked examples.
 
@@ -87,7 +87,7 @@ You don't need to revolutionize your entire curriculum tomorrow. This booklet wi
 
 ## A Personal Note
 
-If you're feeling skeptical, that's healthy. If you're worried this is too technical, I promise it's not. If you're concerned about losing control of your teaching, you won't—you'll gain new capabilities.
+If you're feeling skeptical, that's healthy. If you're worried this is too technical, I promise it's not. If you're concerned about losing control of your teaching, you won't,you'll gain new capabilities.
 
 The goal of this booklet is simple: **by the end, you should feel excited and equipped to try one new thing in your next class.**
 
@@ -97,6 +97,6 @@ Because ultimately, that's what we're here for: to send confident, competent, et
 
 Let's begin.
 
----
+,
 
 **Next Chapter Preview:** In Chapter 2, you'll have your first conversation with an AI tool. We'll walk through exactly what to type, what to expect, and how to think about prompts as instructions to a very capable (but not infallible) assistant.

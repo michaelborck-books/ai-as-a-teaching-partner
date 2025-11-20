@@ -20,16 +20,16 @@ You have several free options. I recommend starting with one of these two:
 1. Go to **chat.openai.com** in any web browser
 2. Create a free account (takes 2 minutes)
 3. You'll see a simple text box at the bottom of the screen
-4. That's it—you're ready to go
+4. That's it,you're ready to go
 
 ### Option B: Claude (by Anthropic)
 1. Go to **claude.ai** in any web browser
 2. Create a free account
-3. Same interface—a clean text box waiting for your instructions
+3. Same interface,a clean text box waiting for your instructions
 
 Both work essentially the same way. For this booklet, examples will work with either tool. Choose whichever interface you prefer.
 
-**Note:** You don't need to download anything, install software, or configure settings. It's as simple as using Google—type something in, get a response back.
+**Note:** You don't need to download anything, install software, or configure settings. It's as simple as using Google,type something in, get a response back.
 
 ## Step 2: Understanding Prompts
 
@@ -38,7 +38,7 @@ A **prompt** is simply the instruction or question you type into the AI tool. Th
 - Has read an enormous amount of material on nearly every subject
 - Can generate text, analyse situations, and role-play scenarios
 - Follows your instructions literally (which is both powerful and requires precision)
-- Doesn't have opinions, emotions, or genuine understanding—just pattern recognition
+- Doesn't have opinions, emotions, or genuine understanding,just pattern recognition
 
 The quality of what you get back depends almost entirely on the quality of your prompt.
 
@@ -54,7 +54,7 @@ Write a case study about HR.
 
 Hit enter and see what you get.
 
-You'll probably receive something generic—maybe a story about employee conflict or a hiring scenario. It's *fine*, but it's not particularly useful for your specific teaching needs.
+You'll probably receive something generic,maybe a story about employee conflict or a hiring scenario. It's *fine*, but it's not particularly useful for your specific teaching needs.
 
 **Why was this weak?** Because the prompt was vague. "HR" covers everything from payroll to industrial relations. "A case study" could be 100 words or 5,000 words. The AI had to guess what you wanted.
 
@@ -124,7 +124,7 @@ This tells the AI to execute the task now. Simple, but effective.
 
 ## Practice Exercise: Your Turn
 
-Now it's your turn to write a prompt from scratch. Think of something you currently teach in your HR course—a topic where you wish you had more practice materials or better scenarios.
+Now it's your turn to write a prompt from scratch. Think of something you currently teach in your HR course,a topic where you wish you had more practice materials or better scenarios.
 
 Use this template:
 
@@ -179,7 +179,7 @@ As you experiment, keep these realities in mind:
 **"The response was too short/long."**
 → Specify word count or structure: "Provide 500 words" or "Write exactly 5 paragraphs."
 
-**"It's too generic—not specific to Australia/my context."**
+**"It's too generic,not specific to Australia/my context."**
 → Add context: "Set this scenario in an Australian workplace context, referencing the Fair Work Act" or "The company is based in Perth, Western Australia."
 
 **"The AI ignored part of my prompt."**
@@ -210,6 +210,6 @@ Get comfortable with the basic rhythm: prompt → response → refine → use.
 
 The more you practice, the more natural it becomes. And the more specific your prompts, the more useful your outputs.
 
----
+,
 
-**Next Chapter Preview:** In Chapter 3, you'll learn five specific prompting techniques that are perfectly suited to HR education. Each one is designed to develop a different critical thinking skill in your students: scoping problems, evaluating options, following processes, practicing conversations, and debating ethical positions. These aren't just "AI tricks"—they're pedagogical strategies that AI makes scalable.
+**Next Chapter Preview:** In Chapter 3, you'll learn five specific prompting techniques that are perfectly suited to HR education. Each one is designed to develop a different critical thinking skill in your students: scoping problems, evaluating options, following processes, practicing conversations, and debating ethical positions. These aren't just "AI tricks",they're pedagogical strategies that AI makes scalable.

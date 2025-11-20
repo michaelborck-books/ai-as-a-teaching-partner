@@ -2,17 +2,17 @@
 
 ## Practical Applications for Business Education
 
----
+,
 
 ### A Guide for Business Educators
 
 **Curtin University Edition**
 
----
+,
 
 *Version 1.0 | 2025*
 
----
+,
 
 ## About This Booklet
 
@@ -44,7 +44,7 @@ You won't need to code, install complex software, or understand how AI works tec
 - **Honest assessment**: What AI does well, what it doesn't, and what requires human judgment
 - **Ethical frameworks**: How to integrate AI responsibly and teach students to do the same
 
----
+,
 
 ## How to Use This Booklet
 
@@ -66,7 +66,7 @@ Use **Appendix B** (one-hour faculty workshop guide) as a facilitation template.
 ### If you need institutional justification:
 Refer to **Appendix C** (alignment with Curtin learning outcomes) to demonstrate how AI integration supports existing educational goals.
 
----
+,
 
 ## The Core Philosophy
 
@@ -74,7 +74,7 @@ Three principles underpin everything in this booklet:
 
 **1. AI as Scaffolding, Not Replacement**
 
-You are the expert educator. AI is a tool that helps you scale what you already know works—personalized practice, immediate feedback, realistic simulations. AI builds the framework quickly; you ensure it's pedagogically sound and academically rigorous.
+You are the expert educator. AI is a tool that helps you scale what you already know works,personalized practice, immediate feedback, realistic simulations. AI builds the framework quickly; you ensure it's pedagogically sound and academically rigorous.
 
 **2. Transparency Over Prohibition**
 
@@ -84,7 +84,7 @@ Rather than trying to prevent AI use (impossible and counterproductive), we teac
 
 You don't need to revolutionize your entire curriculum overnight. Start with one prompt, one assignment, one semester. Build confidence and capability progressively.
 
----
+,
 
 ## Acknowledgments
 
@@ -98,9 +98,9 @@ This booklet synthesizes ideas from multiple sources:
 
 AI tools were used in the initial drafting of this document. All content has been reviewed and edited by the author for accuracy and pedagogical appropriateness.
 
-The goal is not to be cutting-edge or technically impressive. The goal is to help business educators do their work better—prepare confident, competent, ethical professionals for complex workplaces.
+The goal is not to be cutting-edge or technically impressive. The goal is to help business educators do their work better,prepare confident, competent, ethical professionals for complex workplaces.
 
----
+,
 
 ## Business Education Team
 
@@ -111,7 +111,7 @@ This resource is developed by the Business Education Team, a collaborative group
 
 If you contribute to this project, please contact the lead to be added to this list.
 
----
+,
 
 ## Important Notes
 
@@ -127,7 +127,7 @@ This booklet was developed for Curtin University's business programs, with HR se
 
 Consider this booklet a foundation, not a complete solution. You'll discover what works for your students, your teaching style, and your context through experimentation. The appendices provide templates you can adapt and build upon.
 
----
+,
 
 ## Getting Help and Providing Feedback
 
@@ -144,11 +144,11 @@ As you implement ideas from this booklet, you may have questions, encounter chal
 - Share successes and failures with your teaching and learning community
 - Contribute to the growing body of practice around AI in education
 
----
+,
 
 ## A Personal Note to Readers
 
-If you're feeling skeptical about AI in education, that's healthy. Technology is not inherently good or bad—it's how we use it that matters.
+If you're feeling skeptical about AI in education, that's healthy. Technology is not inherently good or bad,it's how we use it that matters.
 
 If you're worried this is too technical, I promise it's not. If you can write an email, you can write an AI prompt.
 
@@ -162,11 +162,11 @@ Because ultimately, that's what we're here for.
 
 Let's begin.
 
----
+,
 
 **Next:** [Table of Contents](#table-of-contents)
 
----
+,
 
 <div style="page-break-after: always;"></div>
 
@@ -306,7 +306,7 @@ Let's begin.
 
 **Conclusion: Where Do We Go From Here?** ..................... 310
 
----
+,
 
 ## List of Figures and Tables
 
@@ -321,7 +321,7 @@ Let's begin.
 - Table 3: Weekly AI Complexity Progression (Chapter 10)
 - Table 4: Learning Outcome Alignment Matrix (Appendix C)
 
----
+,
 
 ## Quick Reference Guides
 
@@ -339,6 +339,6 @@ Let's begin.
 - Chapter 9: Using AI ethically and responsibly
 - Chapter 11: AI as research assistant (postgraduate)
 
----
+,
 
 *Let's begin with Chapter 1.*

@@ -14,9 +14,9 @@ Whether you need:
 
 ...you can have a natural language conversation with AI and end up with a complete, professionally formatted document.
 
-This changes everything about workflow efficiency and communication. Instead of "analyze this data, give me the results, and I'll spend an hour formatting it into PowerPoint," you can have AI generate the presentation directly—one conversation, complete output.
+This changes everything about workflow efficiency and communication. Instead of "analyze this data, give me the results, and I'll spend an hour formatting it into PowerPoint," you can have AI generate the presentation directly,one conversation, complete output.
 
----
+,
 
 ## The Core Principle: Conversation-Driven Document Creation
 
@@ -40,7 +40,7 @@ The key insight: **The conversation IS the work. The document is the output of t
 
 This is fundamentally different from "use AI to write a report" (which replaces thinking) versus "use AI to help you think through an analysis, then generate the presentation of that thinking" (which amplifies thinking).
 
----
+,
 
 ## Application 1: Data Analysis → PowerPoint Presentation
 
@@ -71,7 +71,7 @@ Can you:
 4. Suggest 3-5 visualizations that would be most revealing
 ```
 
-This is exploratory conversation—you're learning what's in your data.
+This is exploratory conversation,you're learning what's in your data.
 
 #### **Step 2: Request Specific Analysis**
 
@@ -88,7 +88,7 @@ Can you:
 5. Suggest what these findings might mean
 ```
 
-This is collaborative analysis—AI helps you think through the data.
+This is collaborative analysis,AI helps you think through the data.
 
 #### **Step 3: Generate Visualizations**
 
@@ -151,7 +151,7 @@ Output as a PowerPoint file (.pptx) I can download.
 - Workflow efficiency (why this is faster than manual formatting)
 
 **Real teaching moment:**
-"Notice how we spent our time thinking about what's interesting in the data, not struggling to format charts in PowerPoint. That's the power of letting AI handle presentation formatting—your expertise is identifying meaningful patterns, not struggling with tools."
+"Notice how we spent our time thinking about what's interesting in the data, not struggling to format charts in PowerPoint. That's the power of letting AI handle presentation formatting,your expertise is identifying meaningful patterns, not struggling with tools."
 
 ### Discipline-Specific Examples
 
@@ -228,13 +228,13 @@ management priorities.
 
 :::
 
----
+,
 
 ## Application 2: Qualitative Analysis → Documented Findings
 
 ### The Scenario
 
-You have qualitative data—interview transcripts, open-ended survey responses, focus group recordings. You want to:
+You have qualitative data,interview transcripts, open-ended survey responses, focus group recordings. You want to:
 1. Extract text from audio
 2. Code and identify themes
 3. Synthesize findings
@@ -339,7 +339,7 @@ Include speaker notes with detailed explanations for each theme.
 - Professional research communication
 
 **Critical teaching point:**
-"AI helps us with the time-intensive parts—transcription, initial theme identification, organization. But YOU are the researcher. You review the themes AI identified, decide if they're accurate, select the quotes that matter, and interpret what they mean. The AI is your research assistant, not your research."
+"AI helps us with the time-intensive parts,transcription, initial theme identification, organization. But YOU are the researcher. You review the themes AI identified, decide if they're accurate, select the quotes that matter, and interpret what they mean. The AI is your research assistant, not your research."
 
 ### Discipline-Specific Examples
 
@@ -411,7 +411,7 @@ report.
 
 :::
 
----
+,
 
 ## Application 3: Generic Document Creation
 
@@ -517,7 +517,7 @@ Make sure:
 I'll use this for further analysis in [tool].
 ```
 
----
+,
 
 ## Tool-Specific: Artifacts and Canvas
 
@@ -528,7 +528,7 @@ Different AI platforms offer different ways to work with generated documents:
 ChatGPT's "Artifacts" feature shows generated code, documents, and interactive content in a side panel:
 
 **To use for document creation:**
-1. When ChatGPT generates HTML, code, or markdown—it appears in Artifacts
+1. When ChatGPT generates HTML, code, or markdown,it appears in Artifacts
 2. You can preview directly, copy, or download
 3. This works well for interactive HTML documents or code-based outputs
 
@@ -570,7 +570,7 @@ Create [document/spreadsheet] that I can export to Google Docs/Sheets.
 When you're done, I'll click the export button to add this to my Drive.
 ```
 
----
+,
 
 ## Workflow Integration: The Big Picture
 
@@ -697,7 +697,7 @@ cultural findings and recommendations.
 
 :::
 
----
+,
 
 ## Key Principles
 
@@ -743,7 +743,7 @@ In academic and professional contexts, disclose AI use:
 
 Context matters. Transparency is always right.
 
----
+,
 
 ## Assessment Strategy
 
@@ -790,7 +790,7 @@ Try: "Analyze this data with AI's help, then submit:
 
 This shows thinking, not just output.
 
----
+,
 
 ## Common Workflows by Discipline
 
@@ -834,13 +834,13 @@ This shows thinking, not just output.
 - Change readiness data → Readiness analysis → Change management plan
 - Survey data → Stakeholder analysis → Stakeholder engagement strategy
 
----
+,
 
 ## Your Advantage: The Natural Language Interface
 
 The most powerful thing about this workflow is often overlooked:
 
-**You don't need to know how to code, format, or structure—you just need to think.**
+**You don't need to know how to code, format, or structure,you just need to think.**
 
 You can have a natural language conversation with AI about what you want to understand, ask questions, explore nuance, and then ask for the output. No technical skills required. No struggling with tools.
 
@@ -853,20 +853,20 @@ Now: Have a good conversation. Get a professional output.
 
 **That's the real power here.**
 
----
+,
 
 ## Before You Create Documents
 
 Remember:
-1. **Conversation is the work**—the document is output
-2. **You control quality**—review everything before use
-3. **You add value**—edit, refine, make it yours
-4. **You're transparent**—disclose AI use appropriately
-5. **You stay in control**—AI is your assistant, not your replacement
+1. **Conversation is the work**,the document is output
+2. **You control quality**,review everything before use
+3. **You add value**,edit, refine, make it yours
+4. **You're transparent**,disclose AI use appropriately
+5. **You stay in control**,AI is your assistant, not your replacement
 
 With those principles, document generation becomes a powerful teaching and professional tool.
 
----
+,
 
 ## Your Next Step
 
@@ -879,4 +879,4 @@ Try this in your own work:
 5. Notice: How much more efficient was that than creating it yourself?
 6. Review critically: Is everything accurate? What would you edit?
 
-Then bring that experience to your teaching. Your students will understand the power—and the responsibility—much more clearly when you've tried it yourself.
+Then bring that experience to your teaching. Your students will understand the power,and the responsibility,much more clearly when you've tried it yourself.

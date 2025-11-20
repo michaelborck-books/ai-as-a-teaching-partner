@@ -26,7 +26,7 @@ The prompt-based conversational simulation directly supports key learning outcom
 
 While showing a dedicated app or agent might look polished, focusing on **prompt engineering** prepares the lecturers for future tools.
 
-*   **Prompt as the Core Skill:** Prompts are the language of interaction across all generative AI interfaces—whether it’s a simple chat window, an academic agent system, or a bespoke HR app. By teaching the *skill of prompting*, you are giving them a transferable skill applicable regardless of whether the university later adopts a specialized **agent** or **app**.
+*   **Prompt as the Core Skill:** Prompts are the language of interaction across all generative AI interfaces,whether it’s a simple chat window, an academic agent system, or a bespoke HR app. By teaching the *skill of prompting*, you are giving them a transferable skill applicable regardless of whether the university later adopts a specialized **agent** or **app**.
 
 **Conclusion:**
 

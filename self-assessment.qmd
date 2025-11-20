@@ -8,7 +8,7 @@ That's a legitimate concern. Students could paste assignment questions into Chat
 
 **This chapter proposes a radically different approach: Give students the AI tools openly, teach them to use AI ethically, and grade them on their ability to critically improve AI outputs.**
 
-Why? Because in their professional careers across all business disciplines, they *will* use AI tools. Our job isn't to prevent that—it's to ensure they use them responsibly, understand their limitations, and maintain human judgment on critical matters.
+Why? Because in their professional careers across all business disciplines, they *will* use AI tools. Our job isn't to prevent that,it's to ensure they use them responsibly, understand their limitations, and maintain human judgment on critical matters.
 
 ## The Transparency Model
 
@@ -18,7 +18,7 @@ Here's the core idea:
 1. **The grading rubric** (what you'll assess them on)
 2. **The exact AI critique prompt** (the tool to check their work)
 
-This transforms AI from a cheating shortcut into a **transparent learning tool**—like giving students the answer key to practice problems before the real exam.
+This transforms AI from a cheating shortcut into a **transparent learning tool**,like giving students the answer key to practice problems before the real exam.
 
 ### The Psychology Behind It
 
@@ -31,7 +31,7 @@ When you give students the rubric and the AI critique tool:
 
 This is pedagogically powerful across all business disciplines because **reflective practice**, **self-directed learning**, and **continuous improvement** are core professional competencies.
 
----
+,
 
 ## How It Works: A Step-by-Step Example
 
@@ -55,7 +55,7 @@ Students must analyse a workplace conflict scenario and recommend an appropriate
 
 Let's see this in action.
 
----
+,
 
 ## Complete Worked Example
 
@@ -95,7 +95,7 @@ Your analysis will be assessed using the rubric provided below.
 ### Step 2: The Grading Rubric (Given to Students)
 
 | Criterion | Excellent (4) | Good (3) | Adequate (2) | Poor (1) |
-|---|---|---|---|---|
+|,|,|,|,|,|
 | **Issue Identification** | Identifies all major legal, ethical, and interpersonal issues with nuanced understanding | Identifies most major issues with reasonable understanding | Identifies some issues but misses key elements or lacks depth | Fails to identify critical issues or shows misunderstanding |
 | **Investigation Process** | Demonstrates comprehensive understanding of fair investigative process; identifies all relevant information needed | Shows good understanding of investigation requirements; identifies most relevant information | Shows basic understanding but missing important investigative steps | Little evidence of understanding proper investigation process |
 | **Legal/Policy Application** | Accurately applies relevant law/policy with sophisticated understanding of implications | Correctly applies relevant law/policy with good understanding | Applies some relevant law/policy but with gaps or minor errors | Fails to apply relevant law/policy or shows significant misunderstanding |
@@ -150,7 +150,7 @@ Here is the student's draft:
 Begin your feedback.
 ```
 
----
+,
 
 ## What This Looks Like in Practice
 
@@ -178,7 +178,7 @@ You've identified the surface-level conflict, but your analysis lacks specificit
 
 **What's missing:** You haven't identified potential procedural issues (why wasn't this addressed earlier?), power dynamics (David is Maria's manager), or organisational culture problems (two other employees find his style "difficult").
 
----
+,
 
 **CRITERION 2: Investigation Process - Score: 2/4**
 
@@ -195,7 +195,7 @@ You've identified the need for an investigation, but your description is too vag
 
 **What's missing:** Any mention of procedural fairness, natural justice, or legal compliance in the investigation process.
 
----
+,
 
 **CRITERION 3: Legal/Policy Application - Score: 1/4**
 
@@ -208,9 +208,9 @@ This is your weakest area. You haven't applied any specific legal principles or 
 - Potential bullying claim under work health and safety legislation
 - Potential breach of the employer's duty of care
 
-You also need to reference the organization's obligations—to provide a safe workplace, to investigate complaints fairly, to act on findings.
+You also need to reference the organization's obligations,to provide a safe workplace, to investigate complaints fairly, to act on findings.
 
----
+,
 
 **CRITERION 4: Theoretical Integration - Score: 1/4**
 
@@ -221,7 +221,7 @@ You have not applied any psychological theory to your analysis.
 - Conflict resolution models would guide your intervention choice
 - Leadership or management theory could inform what training David might need
 
----
+,
 
 **CRITERION 5: Risk Analysis - Score: 2/4**
 
@@ -235,13 +235,13 @@ You've identified two risks (lawsuit, resignation) but your analysis is shallow.
 - Potential for retaliation against Maria if not handled carefully
 - Liability if the organisation knew about the problem and didn't act
 
----
+,
 
 **CRITERION 6: Writing Quality - Score: 3/4**
 
 Your writing is clear and easy to follow, which is good. However, it's quite informal for a professional HR analysis ("not being a good manager"). Use more precise, professional language.
 
----
+,
 
 **STRONGEST ASPECT:**
 You correctly identified that this requires formal investigation and that there are consequences for inaction. You've grasped the seriousness of the situation.
@@ -249,7 +249,7 @@ You correctly identified that this requires formal investigation and that there 
 **WEAKEST ASPECT:**
 Complete lack of theoretical integration and very weak legal/policy analysis. You're describing the problem but not demonstrating deep HR knowledge or analytical skill.
 
----
+,
 
 **THREE SPECIFIC ACTIONS FOR REVISION:**
 
@@ -263,20 +263,20 @@ Complete lack of theoretical integration and very weak legal/policy analysis. Yo
 
 This draft needs substantial development before submission. Focus on the three actions above and your score will improve significantly.
 
----
+,
 
 ## The Impact on Learning
 
 Notice what just happened:
 
 1. **The student received specific, detailed feedback** identifying exactly what's missing
-2. **The feedback is educational**, not just evaluative—it explains *why* things are problems and *what* good looks like
+2. **The feedback is educational**, not just evaluative,it explains *why* things are problems and *what* good looks like
 3. **The student has clear actions** for improvement
 4. **The student can revise and resubmit to the AI** multiple times until they meet the standard
 
 This is **formative assessment at scale**. Every student gets personalised feedback. They can iterate until they learn. And they arrive at your desk with work that's already been through multiple revision cycles.
 
----
+,
 
 ## What You Grade
 
@@ -299,6 +299,7 @@ Use your rubric to assess the final submission. Because students have had the ch
 
 **Dimension 2: Quality of Learning Process (30%)**
 Assess their reflection:
+
 - Did they engage meaningfully with the AI feedback?
 - Did they make substantive revisions?
 - Do they show metacognitive awareness (understanding of their own learning)?
@@ -318,7 +319,7 @@ If a student:
 
 But the transparency model makes genuine misuse much harder, because students have to show their working.
 
----
+,
 
 ## Variations and Adaptations
 
@@ -339,7 +340,7 @@ Students receive feedback from two sources:
 
 Then they write a reflection comparing the two types of feedback: What did each source notice? Where did they disagree? Which feedback was most helpful and why?
 
-This teaches critical evaluation of feedback sources—an important professional skill.
+This teaches critical evaluation of feedback sources,an important professional skill.
 
 ### Variation 3: AI Critique Challenge
 
@@ -350,7 +351,7 @@ After receiving AI feedback, students must:
 
 This prevents students from blindly accepting AI suggestions and develops critical thinking about AI limitations.
 
----
+,
 
 ## Cross-Discipline Applications: Self-Assessment Transparency
 
@@ -368,7 +369,7 @@ Students analyse a failed marketing campaign and recommend improvements, justify
 **Sample Rubric Excerpt:**
 
 | Criterion | Excellent (4) | Good (3) | Adequate (2) | Poor (1) |
-|---|---|---|---|---|
+|,|,|,|,|,|
 | **Market Analysis** | Demonstrates sophisticated understanding of target audience, competitive landscape, and market trends | Shows good understanding of market factors with clear analysis | Basic market analysis with some gaps | Poor or missing market analysis |
 | **Strategic Recommendations** | Recommendations are innovative, data-driven, and aligned with business objectives | Solid recommendations with clear rationale and objectives alignment | Generic recommendations lacking specificity or strong rationale | Poor or impractical recommendations |
 
@@ -403,7 +404,7 @@ Students evaluate financial statements for potential material misstatements and 
 **Sample Rubric Excerpt:**
 
 | Criterion | Excellent (4) | Good (3) | Adequate (2) | Poor (1) |
-|---|---|---|---|---|
+|,|,|,|,|,|
 | **Risk Identification** | Identifies all significant risks with sophisticated understanding of business processes and financial reporting implications | Identifies key risks with good understanding of business and financial factors | Identifies some risks but misses important areas or lacks depth | Fails to identify critical risks |
 | **Audit Procedures** | Recommends comprehensive, risk-based procedures that address identified risks appropriately | Recommends appropriate procedures for most identified risks | Basic procedures recommended but not fully risk-based or comprehensive | Inadequate or inappropriate procedures |
 
@@ -438,7 +439,7 @@ Students analyse a business dataset, identify insights, and recommend strategic 
 **Sample Rubric Excerpt:**
 
 | Criterion | Excellent (4) | Good (3) | Adequate (2) | Poor (1) |
-|---|---|---|---|---|
+|,|,|,|,|,|
 | **Data Analysis** | Sophisticated application of appropriate statistical methods with correct interpretation | Good application of statistical methods with accurate interpretation | Basic statistical analysis with some errors in application or interpretation | Poor or incorrect data analysis |
 | **Business Insights** | Translates data findings into actionable business recommendations with clear strategic implications | Connects data insights to business recommendations effectively | Basic connection between data and business implications | Weak or missing link between data and business strategy |
 
@@ -473,7 +474,7 @@ Students analyse a customer complaint scenario in a hospitality setting and deve
 **Sample Rubric Excerpt:**
 
 | Criterion | Excellent (4) | Good (3) | Adequate (2) | Poor (1) |
-|---|---|---|---|---|
+|,|,|,|,|,|
 | **Problem Analysis** | Sophisticated analysis of customer expectations, service failure impact, and underlying causes | Good analysis of customer issues and service failure elements | Basic identification of problems with limited depth | Poor or incomplete problem analysis |
 | **Recovery Strategy** | Comprehensive, customer-centric recovery plan with multiple touchpoints and follow-up | Effective recovery strategy addressing key customer needs | Basic recovery approach with limited scope | Inadequate or inappropriate recovery strategy |
 
@@ -508,7 +509,7 @@ Students analyse business requirements for a new IT system and develop functiona
 **Sample Rubric Excerpt:**
 
 | Criterion | Excellent (4) | Good (3) | Adequate (2) | Poor (1) |
-|---|---|---|---|---|
+|,|,|,|,|,|
 | **Requirements Elicitation** | Comprehensive identification of stakeholder needs with sophisticated prioritization | Good identification and prioritization of key requirements | Basic requirements identification with some gaps | Poor or incomplete requirements analysis |
 | **Technical Specifications** | Detailed, unambiguous specifications with appropriate technical depth | Clear specifications covering essential technical requirements | Basic specifications with limited technical detail | Inadequate or unclear technical specifications |
 
@@ -543,7 +544,7 @@ Students analyse a change management scenario and develop an implementation plan
 **Sample Rubric Excerpt:**
 
 | Criterion | Excellent (4) | Good (3) | Adequate (2) | Poor (1) |
-|---|---|---|---|---|
+|,|,|,|,|,|
 | **Change Analysis** | Sophisticated analysis of organisational readiness, stakeholder impact, and change complexity | Good analysis of change factors and stakeholder considerations | Basic identification of change elements with limited depth | Poor or incomplete change analysis |
 | **Implementation Strategy** | Comprehensive change plan with clear phases, stakeholder engagement, and risk mitigation | Effective implementation strategy with good stakeholder consideration | Basic change approach with limited strategic elements | Inadequate or poorly structured change strategy |
 
@@ -606,13 +607,13 @@ Here is the student's draft:
 - Teach students how to interpret AI feedback in their professional context
 - Encourage reflection on how AI tools will be used in their future careers
 
----
+,
 
 ## Student-Facing Instructions
 
 When you introduce this to students, be explicit about the learning model:
 
----
+,
 
 **HOW TO USE THE AI SELF-ASSESSMENT TOOL**
 
@@ -629,20 +630,20 @@ This assignment includes access to an AI feedback tool. Here's how to use it eth
 - Ask the AI to write the assignment for you
 - Copy-paste AI-generated text into your submission without understanding it
 - Ignore the feedback and submit your first draft
-- Treat the AI's feedback as infallible—it can be wrong
+- Treat the AI's feedback as infallible,it can be wrong
 
 **REMEMBER:**
 The goal is not to "beat the AI" or trick it into giving you a good score. The goal is to use the AI as a learning tool so that YOU understand the concepts and develop professional judgment better by the time you submit.
 
 You will submit evidence of your revision process, so I can see your learning journey. The quality of your final work AND your learning process will both be graded.
 
----
+,
 
 ## Addressing Lecturer Concerns
 
 **"Won't this just teach students to game the AI?"**
 
-No—because you're assessing the learning process, not just the final product. Students who genuinely engage with feedback and revise their thinking will show that in their reflection. Students who just prompt-engineer to get a high score without learning will have nothing meaningful to say about what they learned.
+No,because you're assessing the learning process, not just the final product. Students who genuinely engage with feedback and revise their thinking will show that in their reflection. Students who just prompt-engineer to get a high score without learning will have nothing meaningful to say about what they learned.
 
 **"What if the AI gives them incorrect feedback?"**
 
@@ -652,9 +653,9 @@ Also, because you're providing the critique prompt, you control the assessment c
 
 **"Isn't this just making things easier for students?"**
 
-No—it's making feedback faster and more accessible, but the cognitive work hasn't changed. Students still need to understand the concepts, apply theory correctly, and demonstrate critical thinking. The AI just accelerates the feedback loop so they can learn faster.
+No,it's making feedback faster and more accessible, but the cognitive work hasn't changed. Students still need to understand the concepts, apply theory correctly, and demonstrate critical thinking. The AI just accelerates the feedback loop so they can learn faster.
 
-In fact, this model often reveals students who've been hiding behind vague writing—the AI forces them to be specific and substantive.
+In fact, this model often reveals students who've been hiding behind vague writing,the AI forces them to be specific and substantive.
 
 **"What about students who don't have access to AI tools?"**
 
@@ -663,7 +664,7 @@ If equity is a concern, you can:
 - Run the AI critique process in class or during office hours
 - Make the AI feedback optional but provide other scaffolding for students who don't use it
 
----
+,
 
 ## The Bigger Picture: Teaching AI Literacy
 
@@ -684,7 +685,7 @@ Your job isn't to prevent them from using these tools. It's to teach them:
 
 By making AI use transparent and educational, you're preparing them for professional practice in an AI-augmented world.
 
----
+,
 
 ## Your Action Step
 
@@ -698,6 +699,6 @@ Before moving to the next chapter, try this:
 
 Once you've tested it, you're ready to introduce this model in your class.
 
----
+,
 
 **Next Chapter Preview:** In the next chapter, we'll explore advanced applications and considerations for scaling AI-enhanced teaching across your program. We'll discuss how to maintain quality, support different student needs, and prepare students for an AI-integrated professional landscape.

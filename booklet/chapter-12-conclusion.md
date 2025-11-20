@@ -17,7 +17,7 @@ You now have the knowledge and tools to integrate AI into your HR teaching in me
 
 **But knowledge alone isn't enough.**
 
----
+,
 
 ## The Question That Matters
 
@@ -27,7 +27,7 @@ As you close this booklet, you face a decision:
 
 It's easy to read about innovative pedagogy and think "That's interesting." It's harder to actually change your practice.
 
-You're busy. You have existing materials that work well enough. You're comfortable with your current approach. Change is risky—what if students resist? What if colleagues judge? What if it doesn't work?
+You're busy. You have existing materials that work well enough. You're comfortable with your current approach. Change is risky,what if students resist? What if colleagues judge? What if it doesn't work?
 
 These are legitimate concerns.
 
@@ -39,7 +39,7 @@ The question is: **"Will my graduates know how to use AI responsibly, critically
 
 If the answer is "I hope so" or "They'll figure it out," you're sending students into professional practice unprepared.
 
----
+,
 
 ## Start With One Thing
 
@@ -59,19 +59,19 @@ Choose the smallest experiment that feels manageable:
 **Risk:** Minimal
 **Learning:** High
 
----
+,
 
 ### Option 2: Student Demonstration (Next Class)
 - In your next lecture, project a live AI conversation on screen
 - Show students how AI can help them practice skills
 - Answer their questions
-- Don't assign anything—just plant the seed
+- Don't assign anything,just plant the seed
 
 **Time investment:** 15 minutes in class
 **Risk:** None (optional for students)
 **Learning:** Medium
 
----
+,
 
 ### Option 3: Low-Stakes Practice Exercise (This Semester)
 - Add one optional AI practice activity to an existing assignment
@@ -83,7 +83,7 @@ Choose the smallest experiment that feels manageable:
 **Risk:** Low (it's optional)
 **Learning:** Substantial (you'll see what students actually do with AI)
 
----
+,
 
 ### Option 4: Pilot Assessment (Next Semester)
 - Redesign one existing assignment using ideas from Chapter 4, 5, or 7
@@ -95,7 +95,7 @@ Choose the smallest experiment that feels manageable:
 **Risk:** Moderate (but manageable with clear instructions)
 **Learning:** Transformative (you'll see process-based assessment in action)
 
----
+,
 
 ### Option 5: Full Unit Redesign (Next Academic Year)
 - Use the backwards design approach from Chapter 10
@@ -107,7 +107,7 @@ Choose the smallest experiment that feels manageable:
 **Risk:** Higher (but with high potential reward)
 **Learning:** Comprehensive (you'll develop deep expertise in AI-enhanced pedagogy)
 
----
+,
 
 ## Pick one. Not five. One.
 
@@ -117,7 +117,7 @@ The biggest mistake educators make with innovation is trying to do too much at o
 
 One well-executed pilot teaches you more than five half-baked attempts.
 
----
+,
 
 ## What Success Looks Like
 
@@ -140,7 +140,7 @@ How will you know if your AI integration is working?
 - You create at least one reusable resource you'll use again
 - You gather feedback that informs your next iteration
 
----
+,
 
 ### Medium-Term Success (Within 2-3 Semesters)
 
@@ -161,7 +161,7 @@ How will you know if your AI integration is working?
 - Students expect and value AI-enhanced learning opportunities
 - You've expanded from one unit to multiple units or assessment types
 
----
+,
 
 ### Long-Term Success (3+ Years)
 
@@ -181,7 +181,7 @@ How will you know if your AI integration is working?
 - Your university recognizes this as teaching innovation
 - The approach influences accreditation or curriculum design discussions
 
----
+,
 
 ## Avoiding Common Pitfalls
 
@@ -195,7 +195,7 @@ As you move forward, watch for these mistakes:
 
 If you can't answer that clearly, don't use AI for that task.
 
----
+,
 
 ### Pitfall 2: Assuming Technical Competence
 
@@ -203,7 +203,7 @@ If you can't answer that clearly, don't use AI for that task.
 
 **The fix:** Explicitly teach prompt writing, critical evaluation, and ethical use. Build technical scaffolding just like you build content scaffolding.
 
----
+,
 
 ### Pitfall 3: No Clear Assessment Criteria
 
@@ -213,7 +213,7 @@ If you can't answer that clearly, don't use AI for that task.
 
 Make criteria explicit and transparent.
 
----
+,
 
 ### Pitfall 4: Ignoring Equity
 
@@ -221,15 +221,15 @@ Make criteria explicit and transparent.
 
 **The fix:** Provide alternatives (lab time, office hours facilitation, university-subscribed tools). Ensure core learning is accessible regardless of premium AI access.
 
----
+,
 
 ### Pitfall 5: Blind Faith in AI Outputs
 
 **The mistake:** Treating AI-generated content as inherently correct or reliable.
 
-**The fix:** Teach students—and remember yourself—that AI makes confident mistakes. Always verify. Always maintain human oversight. Always question.
+**The fix:** Teach students,and remember yourself,that AI makes confident mistakes. Always verify. Always maintain human oversight. Always question.
 
----
+,
 
 ## Building Community
 
@@ -256,7 +256,7 @@ You don't have to do this alone.
 - You build evidence for institutional change
 - You contribute to the field's understanding
 
----
+,
 
 ## The Bigger Picture: Transforming HR Education
 
@@ -278,9 +278,9 @@ Graduates enter workplaces confident with AI tools, critical of AI limitations, 
 
 **This is the future we're building.**
 
-Not a future where AI replaces HR professionals, but where HR professionals use AI skillfully and ethically to do their work better—to serve people, organizations, and society more effectively.
+Not a future where AI replaces HR professionals, but where HR professionals use AI skillfully and ethically to do their work better,to serve people, organizations, and society more effectively.
 
----
+,
 
 ## Your Legacy
 
@@ -290,13 +290,13 @@ Every student you teach will work with AI in their careers.
 
 That's in your hands.
 
-When you integrate AI into your teaching—transparently, critically, and pedagogically—you're not just adopting a new tool. You're preparing the next generation of HR professionals for a world that will be shaped by technology but must still be guided by human wisdom.
+When you integrate AI into your teaching,transparently, critically, and pedagogically,you're not just adopting a new tool. You're preparing the next generation of HR professionals for a world that will be shaped by technology but must still be guided by human wisdom.
 
 That's not a small thing.
 
 That's your professional responsibility and your legacy.
 
----
+,
 
 ## Final Words
 
@@ -304,7 +304,7 @@ If you've read this far, you're the kind of educator who cares about continuous 
 
 **That's exactly the mindset needed for this work.**
 
-AI in education isn't settled science. We're all figuring this out together—what works, what doesn't, what's ethical, what's effective. You're not behind. You're not too late. You're here, right now, at exactly the right time.
+AI in education isn't settled science. We're all figuring this out together,what works, what doesn't, what's ethical, what's effective. You're not behind. You're not too late. You're here, right now, at exactly the right time.
 
 You have:
 - The knowledge (this booklet)
@@ -332,11 +332,11 @@ Not next month. Not next semester. This week.
 
 Your students are waiting for the learning experiences only you can design.
 
----
+,
 
 ## One Last Thing
 
-When you try your first AI-enhanced activity—whether it goes brilliantly or disastrously—take a moment to reflect:
+When you try your first AI-enhanced activity,whether it goes brilliantly or disastrously,take a moment to reflect:
 
 - What surprised you?
 - What will you do differently next time?
@@ -352,7 +352,7 @@ One experiment. One refinement. One semester at a time.
 
 **You're ready.**
 
----
+,
 
 *For ongoing support, resources, and community:*
 - Curtin Teaching and Learning: [link]
@@ -365,13 +365,13 @@ One experiment. One refinement. One semester at a time.
 
 **Good luck. And thank you for being the kind of educator who never stops learning.**
 
----
+,
 
 # About the Author
 
 [Note: Insert author bio, credentials, and institutional affiliation here]
 
----
+,
 
 # Colophon
 
@@ -398,6 +398,6 @@ One experiment. One refinement. One semester at a time.
 
 **Citation:** [Insert preferred citation format]
 
----
+,
 
 **END OF BOOKLET**

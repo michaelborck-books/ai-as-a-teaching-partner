@@ -16,7 +16,7 @@ The prompts are organised by purpose:
 - **Section 4:** Student Self-Assessment (for students to use directly)
 - **Section 5:** Ethical Analysis (for exploring AI issues in HR)
 
----
+,
 
 ## Section 1: Content Generation Prompts
 
@@ -51,7 +51,7 @@ Begin.
 - Add specific legal context if needed
 - Adjust word count for your needs
 
----
+,
 
 ### 1.2 Behavioural Interview Question Generator
 
@@ -75,7 +75,7 @@ After each question, briefly note which competency it targets.
 Begin.
 ```
 
----
+,
 
 ### 1.3 Policy Analysis Exercise Generator
 
@@ -101,7 +101,7 @@ Version B—students should discover them through analysis.
 Begin.
 ```
 
----
+,
 
 ### 1.4 Complex Scenario with Multiple Stakeholders
 
@@ -130,7 +130,7 @@ Make the scenario realistic with no easy "right answer."
 Begin.
 ```
 
----
+,
 
 ### 1.5 Data Analysis Scenario Generator
 
@@ -162,7 +162,7 @@ Do not provide the "answer"—create ambiguity that requires critical analysis.
 Begin.
 ```
 
----
+,
 
 ## Section 2: Conversation Simulation Prompts
 
@@ -209,7 +209,7 @@ I will begin the conversation now.
 - Adjust emotional state and hidden context to match your learning objectives
 - Consider legal/ethical issues you want students to navigate
 
----
+,
 
 ### 2.2 Union Representative in Bargaining
 
@@ -247,7 +247,7 @@ creative solutions that meet member needs. Begin the negotiation when I
 make my opening statement.
 ```
 
----
+,
 
 ### 2.3 Employee Making Discrimination Complaint
 
@@ -293,7 +293,7 @@ I am the HR representative taking your complaint. Stay in character. This
 is a confidential meeting. I will begin by explaining the process.
 ```
 
----
+,
 
 ### 2.4 Manager Resistant to HR Initiative
 
@@ -334,7 +334,7 @@ convinced this is valuable and feasible.
 I will begin the conversation.
 ```
 
----
+,
 
 ## Section 3: Assessment and Critique Prompts
 
@@ -395,7 +395,7 @@ Here is the transcript:
 Begin your critique.
 ```
 
----
+,
 
 ### 3.2 Written Assignment Critique Template
 
@@ -438,7 +438,7 @@ Here is the student's submission:
 Begin your feedback.
 ```
 
----
+,
 
 ### 3.3 AI Output Evaluation Prompt (for students critiquing AI)
 
@@ -471,7 +471,7 @@ Here is the AI-generated output to evaluate:
 Begin your evaluation.
 ```
 
----
+,
 
 ## Section 4: Student Self-Assessment Prompts
 
@@ -511,7 +511,7 @@ Provide your feedback.
 before submission. Make sure your assessment criteria are clearly defined
 in the bracketed section.
 
----
+,
 
 ### 4.2 Conversation Practice Self-Evaluation
 
@@ -546,7 +546,7 @@ Here is my transcript:
 Provide your coaching feedback.
 ```
 
----
+,
 
 ### 4.3 Theory Application Check
 
@@ -571,7 +571,7 @@ Please help me check my thinking:
 Guide me to think critically, but don't write the analysis for me.
 ```
 
----
+,
 
 ## Section 5: Ethical Analysis Prompts
 
@@ -610,7 +610,7 @@ Help me identify potential ethical and legal risks:
 Provide a thorough analysis with specific examples.
 ```
 
----
+,
 
 ### 5.2 Evaluating AI Policy Draft for Ethical Issues
 
@@ -643,7 +643,7 @@ Here is the policy draft:
 Begin your audit.
 ```
 
----
+,
 
 ### 5.3 Exploring AI Accountability Scenarios
 
@@ -682,15 +682,15 @@ Provide a thorough, nuanced analysis that helps students think through the
 complexity of AI accountability.
 ```
 
----
+,
 
 ## Section 6: Research and Postgraduate Prompts
 
-**Purpose:** These prompts support postgraduate research work. For comprehensive guidance on appropriate AI use in research contexts, see **Chapter 11: The Research Assistant**. These prompts are starting points—always maintain critical oversight and verify AI outputs.
+**Purpose:** These prompts support postgraduate research work. For comprehensive guidance on appropriate AI use in research contexts, see **Chapter 11: The Research Assistant**. These prompts are starting points,always maintain critical oversight and verify AI outputs.
 
 **⚠️ CRITICAL WARNING:** AI frequently hallucinates citations, inventing papers that don't exist or misattributing real papers. **Verify every reference before including in your work.** Never trust AI citations without checking them against actual databases.
 
----
+,
 
 ### 6.1 Literature Search and Exploration
 
@@ -715,7 +715,7 @@ Do not invent citations. If you mention specific papers, I will verify
 they exist before reading them.
 ```
 
----
+,
 
 ### 6.2 Research Question Refinement (Socratic Method)
 
@@ -739,7 +739,7 @@ Ask one question at a time and wait for my response before continuing.
 Begin with your first clarifying question.
 ```
 
----
+,
 
 ### 6.3 Qualitative Data Preliminary Coding
 
@@ -768,7 +768,7 @@ Provide your preliminary coding suggestions.
 
 **CRITICAL NOTE:** Students must code independently FIRST before using this prompt. AI should be used to check for blind spots, not to do the analysis.
 
----
+,
 
 ### 6.4 Thesis Structure and Argumentation Check
 
@@ -796,7 +796,7 @@ Here is my outline:
 Provide your structural critique.
 ```
 
----
+,
 
 ### 6.5 Methodology Feasibility Check
 
@@ -828,9 +828,9 @@ Challenge my assumptions—don't just agree with me. Help me identify
 potential problems before I commit to this approach.
 ```
 
----
+,
 
-### 6.6 Citation Verification Reminder (Not a Prompt—A Protocol)
+### 6.6 Citation Verification Reminder (Not a Prompt,A Protocol)
 
 **Before submitting any research work:**
 
@@ -853,12 +853,13 @@ potential problems before I commit to this approach.
 
 **This is non-negotiable for academic integrity.**
 
----
+,
 
 ### How to Use These Research Prompts
 
 **For Students:**
 These prompts help you work more efficiently, but they don't replace genuine intellectual work. Use them to:
+
 - Explore new areas quickly
 - Check your thinking for blind spots
 - Get unstuck when you're not sure how to proceed
@@ -872,12 +873,13 @@ These prompts help you work more efficiently, but they don't replace genuine int
 
 **For Supervisors:**
 Share these prompts with your research students, but emphasize:
+
 - AI accelerates process, not insight
 - Verification is mandatory
 - You will ask probing questions to ensure genuine understanding
 - Oral examinations will reveal whether students did the work
 
----
+,
 
 ## How to Adapt These Prompts
 
@@ -893,7 +895,7 @@ Share these prompts with your research students, but emphasize:
 
 5. **Combine prompts**: Use two prompts in sequence (e.g., generate a scenario with Prompt 1.1, then create a role-play persona with Prompt 2.1)
 
----
+,
 
 ## Testing Your Prompts
 
@@ -905,7 +907,7 @@ Before giving students a new prompt:
 4. **Test again**: Keep iterating until you get consistently good results
 5. **Document what works**: Keep a record of your best-performing prompts
 
----
+,
 
 ## Final Notes
 
@@ -915,6 +917,6 @@ This prompt library will grow as you experiment. Treat it as a living document:
 - Share effective prompts with colleagues
 - Refine based on student feedback
 
-The goal isn't to find the "perfect" prompt—it's to build a collection of reliable tools that make your teaching more effective and your students' learning more engaging.
+The goal isn't to find the "perfect" prompt,it's to build a collection of reliable tools that make your teaching more effective and your students' learning more engaging.
 
 **Good luck, and happy prompting!**

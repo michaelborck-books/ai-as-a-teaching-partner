@@ -1,9 +1,9 @@
 # 📊 From Data to Decisions: Value-Adding AI Prompts for Teaching Support Officers
 
 *Using Unit Performance and Student Data as Input Material*  
-These prompts demonstrate how AI can assist in **analysing, compliance checking, and strategic planning** — not just automating, but **adding strategic value**.
+These prompts demonstrate how AI can assist in **analysing, compliance checking, and strategic planning** , not just automating, but **adding strategic value**.
 
----
+,
 
 ## 🧠 Summary Use Case: "Act Like a Teaching Support Analyst"
 
@@ -20,7 +20,7 @@ These prompts demonstrate how AI can assist in **analysing, compliance checking,
 - Board presentations
 - Strategic planning sessions
 
----
+,
 
 ## 📰 Communication Use Case: Faculty Update or Student Portal
 
@@ -37,7 +37,7 @@ These prompts demonstrate how AI can assist in **analysing, compliance checking,
 - Student portal updates
 - Semester wrap-up communications
 
----
+,
 
 ## 💼 Executive Summary: Board Presentation
 
@@ -54,7 +54,7 @@ These prompts demonstrate how AI can assist in **analysing, compliance checking,
 - Executive briefings
 - Annual reports
 
----
+,
 
 ## 🎯 Strategy Use Case: Best Practices Identification
 
@@ -71,7 +71,7 @@ These prompts demonstrate how AI can assist in **analysing, compliance checking,
 - Best practice documentation
 - Strategic planning initiatives
 
----
+,
 
 ## 🧩 Bonus: Ask AI to Help You Repurpose Content
 
@@ -81,6 +81,6 @@ Instead of rewriting manually, try:
 - "Reword this technical report section for new Teaching Support staff."  
 - "Create a brief update for the student portal based on these changes."
 
----
+,
 
-> 🧠 **Key Message**: AI doesn't just reduce your workload — it enhances the *strategic impact* of your teaching support role.
+> 🧠 **Key Message**: AI doesn't just reduce your workload , it enhances the *strategic impact* of your teaching support role.

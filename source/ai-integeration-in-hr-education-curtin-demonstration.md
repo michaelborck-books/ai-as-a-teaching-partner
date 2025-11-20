@@ -19,7 +19,7 @@ Given that the lecturers teach courses focused on Human Resources, the demonstra
 One of the explicit objectives of the double degree is gaining expertise to help **recruit employees** and improve individual and **team performance**. Career paths include Human resources officer/consultant and Recruitment consultant.
 
 | User Idea Alignment | HR Concept (from Sources) | Suggested AI Demonstration |
-| :--- | :--- | :--- |
+| :, | :, | :, |
 | **Interview App/Prompts** | **Recruiting employees** and preparing future **Recruitment consultants**. | **Simulated AI Interviewer:** Use a generative AI tool to create an interview environment. The lecturer can prompt the AI with a job description (e.g., for a Human resources officer) and ask it to: <br>1. Generate tailored, behavioural interview questions. <br>2. Evaluate a sample candidate response against a predefined rubric, mimicking how HR software might score initial screenings. |
 | **Interactive Quiz/Flashcards** | **Building high-performing teams** and understanding **remuneration and performance**. | **Scenario Generator:** Prompt the AI to create complex performance management scenarios or case studies based on conflict in a high-performing team. Lecturers could then use this content for immediate, interactive quizzes or discussion prompts. |
 
@@ -28,7 +28,7 @@ One of the explicit objectives of the double degree is gaining expertise to help
 The postgraduate major covers **strategic HR planning**, **HR analytics**, and **employment relations**. The undergraduate degree emphasises knowledge of **relevant legislative and legal rules**.
 
 | User Idea Alignment | HR Concept (from Sources) | Suggested AI Demonstration |
-| :--- | :--- | :--- |
+| :, | :, | :, |
 | **Prompts related to HR/HY** | **HR analytics** and evaluating information for evidence-based decisions. | **Data Analysis Simulation:** Demonstrate how prompts can analyse mock HR data (e.g., turnover rates, diversity metrics) and instantly summarise findings or identify potential risks, directly applying to the concept of **HR analytics**. |
 | **Standalone HTML Pages** | Knowledge of **relevant legislative and legal rules**. | **Policy Drafting/Summaries:** Show how AI can quickly draft initial outlines for employee handbooks or summarise complex sections of employment law (relevant to Industrial Relations). The output can be used as a starting point for students who must critically review and refine the AI's generated policy draft, demonstrating how to "utilise critical thinking skills to evaluate and integrate information". |
 
