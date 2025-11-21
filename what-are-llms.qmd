@@ -143,7 +143,7 @@ Bigger models:
 
 ## What Can LLMs Do Well?
 
-### ** Writing and Content Generation**
+### **Writing and Content Generation**
 
 **What they're good at:**
 
@@ -164,11 +164,11 @@ Customer service team uses LLM to draft responses:
 
 ---
 
-### ** Summarization and Analysis**
+### **Summarisation and Analysis**
 
 **What they're good at:**
 
-- Summarizing long documents
+- Summarising long documents
 - Extracting key points from reports
 - Identifying themes in customer feedback
 - Creating executive summaries
@@ -185,7 +185,7 @@ Legal team reviews 500-page contracts:
 
 ---
 
-### ** Question Answering and Explanation**
+### **Question Answering and Explanation**
 
 **What they're good at:**
 

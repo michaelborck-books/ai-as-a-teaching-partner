@@ -321,13 +321,13 @@ AI tools are powerful but not infallible. When implementing AI-enhanced teaching
 ### Management Technical Challenges
 
 #### Common Issues
-- **Organizational complexity:** May oversimplify human dynamics and politics
-- **Cultural context:** May miss organizational culture and subtext
+- **Organisational complexity:** May oversimplify human dynamics and politics
+- **Cultural context:** May miss organisational culture and subtext
 - **Stakeholder complexity:** May not understand all stakeholder perspectives
 - **Implementation challenges:** May underestimate change management difficulties
 
 #### Mitigation Strategies
-- **Organizational context:** Provide detailed information about culture and politics
+- **Organisational context:** Provide detailed information about culture and politics
 - **Stakeholder mapping:** Include all relevant parties and their interests
 - **Implementation planning:** Focus on practical change management strategies
 - **Human judgment:** Combine AI suggestions with management experience
@@ -420,7 +420,7 @@ AI tools are powerful but not infallible. When implementing AI-enhanced teaching
 
 #### Feedback Loops
 - **Regular surveys:** Collect systematic feedback on AI tool performance
-- **Issue tracking:** Monitor and categorize technical problems
+- **Issue tracking:** Monitor and categorise technical problems
 - **Solution documentation:** Record effective troubleshooting approaches
 - **Improvement implementation:** Apply lessons learned to prevent future issues
 

@@ -136,7 +136,7 @@ And so on. By breaking the work into steps, each output gets full attention and 
 
 **Ask for a plan first:**
 ```
-I'm teaching organisational behavior to 2nd-year business students (60 students,
+I'm teaching organisational behaviour to 2nd-year business students (60 students,
 first-year of their major). Help me structure this 12-week course.
 
 What are the major topics we should cover? In what order? What's the learning
@@ -146,7 +146,7 @@ of weeks?
 
 **Then work through week-by-week or module-by-module:**
 ```
-Using the plan above, let's design Week 1-2: Introduction to Organizational
+Using the plan above, let's design Week 1-2: Introduction to Organisational
 Behavior.
 
 Learning focus: [paste from plan]
@@ -414,7 +414,7 @@ conversation to continue working.
 - Goal: more active learning, professional judgment development
 
 **Key decisions made:**
-- Organized around real supply chain decisions (not functions)
+- Organised around real supply chain decisions (not functions)
 - Emphasized risk thinking and trade-offs
 - Used simulation and case critique for learning
 
@@ -517,7 +517,7 @@ I need 5 discussion questions for a 12-week management unit. They should:
 
 Topics (one question each):
 1. Leadership styles and contexts
-2. Ethical decision-making in organizations
+2. Ethical decision-making in organisations
 3. Managing team conflict
 4. Change management and resistance
 5. Inclusive leadership and diversity

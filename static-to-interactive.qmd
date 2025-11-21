@@ -741,7 +741,7 @@ Requirements:
 Make it engaging but educationally rigorous.
 ```
 
-**Result:** Students get personalized quiz experience; you see detailed performance data.
+**Result:** Students get personalised quiz experience; you see detailed performance data.
 
 ### Building Flashcard Systems
 
@@ -924,7 +924,7 @@ A complementary workflow to this chapter's focus on transforming static content 
 
 When students:
 - Complete an interactive simulation and want to document their decisions
-- Have a conversation analyzing a case study and need to produce a report
+- Have a conversation analysing a case study and need to produce a report
 - Gather data and want to create a presentation of findings
 - Conduct analysis and need professional documentation
 
@@ -955,10 +955,10 @@ Format as a professional report suitable for [class submission/portfolio].
 
 #### **Conversation Analysis → Presentation**
 
-A student has an extended conversation with AI analyzing a complex business case, then needs to present findings:
+A student has an extended conversation with AI analysing a complex business case, then needs to present findings:
 
 ```
-I've had a detailed conversation analyzing [case study]. Here's a summary
+I've had a detailed conversation analysing [case study]. Here's a summary
 of what we explored:
 [Paste key points from conversation]
 
@@ -1023,7 +1023,7 @@ When students use AI to generate presentations or reports:
 **Grading recommendation:**
 ```
 Instead of:
-"Write a 2000-word report analyzing [case study]"
+"Write a 2000-word report analysing [case study]"
 
 Try:
 "Analyze [case study] with AI's help, then request AI generate a

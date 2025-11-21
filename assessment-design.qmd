@@ -69,7 +69,7 @@ Assess students' ability to reflect on their own learning:
 
 | Criteria | Excellent (50-45) | Good (44-38) | Satisfactory (37-30) | Needs Improvement (29-0) |
 |---|---|---|---|---|
-| **AI Utilization (15 pts)** | Uses AI for research--- drafting--- and critical evaluation | Uses AI for research and drafting | Limited AI use | Minimal or no AI use |
+| **AI Utilisation (15 pts)** | Uses AI for research--- drafting--- and critical evaluation | Uses AI for research and drafting | Limited AI use | Minimal or no AI use |
 | **Content Quality (15 pts)** | Comprehensive--- legally compliant--- practically applicable | Good content with minor gaps | Basic content with significant gaps | Incomplete or inaccurate content |
 | **Critical Analysis (10 pts)** | Identifies policy strengths/weaknesses--- suggests improvements | Some analysis of policy implications | Limited critical analysis | No critical analysis |
 | **Professional Standards (10 pts)** | Aligns with HR best practices and legal requirements | Generally follows professional standards | Some alignment with standards | Poor alignment with standards |
@@ -119,7 +119,7 @@ Assess students' ability to reflect on their own learning:
 **Evaluation Framework:**
 1. **Stakeholder Analysis (20 pts):** Identifies all affected parties
 2. **Ethical Frameworks (20 pts):** Applies relevant ethical theories
-3. **AI Utilization (20 pts):** Uses AI to explore perspectives, not make decisions
+3. **AI Utilisation (20 pts):** Uses AI to explore perspectives, not make decisions
 4. **Professional Recommendation (20 pts):** Justifies decision with evidence
 5. **Reflection (20 pts):** Considers personal and professional growth
 
@@ -171,7 +171,7 @@ Assess students' ability to reflect on their own learning:
 | Criteria | Excellent (50-45) | Good (44-38) | Satisfactory (37-30) | Needs Improvement (29-0) |
 |---|---|---|---|---|
 | **Professional Skepticism (15 pts)** | Appropriate professional skepticism--- documents concerns | Good professional judgment | Limited skepticism | Overly accepting or skeptical |
-| **AI Utilization (10 pts)** | Uses AI for risk identification--- research--- verification | Good use of AI tools | Limited AI use | No meaningful AI use |
+| **AI Utilisation (10 pts)** | Uses AI for risk identification--- research--- verification | Good use of AI tools | Limited AI use | No meaningful AI use |
 | **Standards Application (15 pts)** | Correctly applies relevant accounting standards | Generally correct application | Some standards errors | Major standards violations |
 | **Communication (10 pts)** | Clear--- professional--- well-documented | Generally clear communication | Some communication issues | Poor communication |
 
@@ -210,7 +210,7 @@ Assess students' ability to reflect on their own learning:
 |---|---|---|---|---|
 | **Economic Reasoning (15 pts)** | Sound economic logic--- appropriate theory application | Good economic analysis | Basic economic reasoning | Poor economic logic |
 | **Critical Analysis (15 pts)** | Identifies model limitations--- challenges assumptions | Some critical evaluation | Limited critical analysis | No critical evaluation |
-| **AI Utilization (10 pts)** | Uses AI for modelling--- simulation--- and verification | Good use of AI tools | Limited AI use | No meaningful AI use |
+| **AI Utilisation (10 pts)** | Uses AI for modelling--- simulation--- and verification | Good use of AI tools | Limited AI use | No meaningful AI use |
 | **Communication (10 pts)** | Clear--- professional--- well-structured analysis | Generally clear communication | Some communication issues | Poor communication |
 
 ### Tourism & Hospitality Assessment Rubrics

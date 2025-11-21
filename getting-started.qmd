@@ -39,7 +39,7 @@ If you have a Curtin University login, you have access to MS Copilot Enterprise,
 MS Copilot integrates seamlessly with tools you already use:
 
 - **In Word**: A chat panel opens on the right side,draft paragraphs, get feedback, revise
-- **In Excel**: Analyze data, create formulas, visualize patterns
+- **In Excel**: Analyse data, create formulas, visualize patterns
 - **In PowerPoint**: Generate slides, refine content, create speaker notes
 - **In Outlook**: Draft emails, organise content, summarize threads
 - **In Teams**: Access Copilot in chats and meetings for real-time assistance
@@ -494,7 +494,7 @@ PROMPT 1: "What are the key ethical issues in AI implementation in healthcare?"
 PROMPT 2: "Which of those is most relevant to Australian healthcare compliance?"
 [AI elaborates on one issue]
 
-PROMPT 3: "How would you teach students to analyze this issue?"
+PROMPT 3: "How would you teach students to analyse this issue?"
 [AI proposes teaching approach]
 
 PROMPT 4: "What's a scenario that would help students understand this?"

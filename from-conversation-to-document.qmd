@@ -171,7 +171,7 @@ recommendations for product positioning.
 
 #### Accounting & Finance
 ```
-I have quarterly financial data for [company/sector]. Analyze
+I have quarterly financial data for [company/sector]. Analyse
 trends in revenue, profitability, cash flow. Create a presentation
 for the finance committee that shows: trend analysis, ratio
 analysis, risk factors, and implications for financial planning.
@@ -180,7 +180,7 @@ analysis, risk factors, and implications for financial planning.
 #### Supply Chain & Logistics
 ```
 I have supplier performance data (cost, delivery time, quality
-scores) for our vendor base. Create a presentation analyzing vendor
+scores) for our vendor base. Create a presentation analysing vendor
 performance by category, identifying risks, and recommending
 consolidation or diversification strategies.
 ```
@@ -188,7 +188,7 @@ consolidation or diversification strategies.
 #### Human Resources
 ```
 I have employee engagement survey data (360 responses, items on
-engagement, culture, management, career development). Analyze the
+engagement, culture, management, career development). Analyse the
 results by department and demographic groups. Create a presentation
 for leadership identifying strengths and areas for cultural
 improvement.
@@ -198,14 +198,14 @@ improvement.
 ```
 I have system performance metrics (uptime, response time, error
 rates) across our application portfolio. Create a presentation
-analyzing performance trends, identifying problem systems, and
+analysing performance trends, identifying problem systems, and
 recommending infrastructure improvements.
 ```
 
 #### Tourism & Hospitality
 ```
 I have guest satisfaction survey data (ratings on accommodation,
-service, value, likelihood to return). Analyze by guest type,
+service, value, likelihood to return). Analyse by guest type,
 length of stay, booking channel. Create a presentation identifying
 service improvement opportunities.
 ```
@@ -213,16 +213,16 @@ service improvement opportunities.
 #### Economics
 ```
 I have macroeconomic time series data [GDP, unemployment, inflation,
-interest rates] over [period]. Analyze trends and relationships.
+interest rates] over [period]. Analyse trends and relationships.
 Create a presentation suitable for economics student project that
 explains these patterns and their likely causes.
 ```
 
-#### Management & Organizational Studies
+#### Management & Organisational Studies
 ```
-I have organizational survey data (employee engagement, trust in
+I have organisational survey data (employee engagement, trust in
 management, clarity of strategy, change readiness). Create a
-presentation analyzing organizational health and recommending
+presentation analysing organisational health and recommending
 management priorities.
 ```
 
@@ -298,7 +298,7 @@ Based on the thematic analysis above, create a research memo (2000-2500
 words) that includes:
 
 1. **Background**: What research question this analysis addresses
-2. **Methods**: How the data was collected and analyzed
+2. **Methods**: How the data was collected and analysed
 3. **Findings**: Major themes with supporting quotes
 4. **Interpretation**: What these findings mean for the research area
 5. **Implications**: How this contributes to understanding [topic]
@@ -348,9 +348,9 @@ Include speaker notes with detailed explanations for each theme.
 #### Human Resources
 ```
 I have transcripts from interviews with 8 employees exploring their
-experience during organizational change. Conduct thematic analysis
+experience during organisational change. Conduct thematic analysis
 identifying: how employees experienced the change, barriers they
-faced, what supported them. Create a research memo analyzing these
+faced, what supported them. Create a research memo analysing these
 themes and their implications for change management.
 ```
 
@@ -362,10 +362,10 @@ identifying: what appeals to customers, concerns, willingness to
 purchase, feature priorities. Document findings in a research report.
 ```
 
-#### Management & Organizational Studies
+#### Management & Organisational Studies
 ```
 I have interview data (15 interviews with middle managers) exploring
-how organizational structure affects their effectiveness. Conduct
+how organisational structure affects their effectiveness. Conduct
 thematic analysis identifying structural barriers and facilitators.
 Document in a research memo.
 ```
@@ -405,7 +405,7 @@ business impact.
 ```
 I have interview data (10 CFOs) on their approaches to risk
 management. Conduct thematic analysis identifying: risk priorities,
-assessment approaches, organizational barriers. Create a research
+assessment approaches, organisational barriers. Create a research
 report.
 ```
 
@@ -683,17 +683,17 @@ trends and policy implications.
 
 **Learning objective**: How to communicate economic analysis.
 
-#### Management & Organizational Studies
-**Scenario**: Students conduct organizational survey analysis, present
+#### Management & Organisational Studies
+**Scenario**: Students conduct organisational survey analysis, present
 cultural findings and recommendations.
 
 **Workflow**:
-1. Class completes organizational survey
+1. Class completes organisational survey
 2. AI analyses by team/level, identifies cultural themes
 3. AI creates presentation with findings
-4. Student team presents organizational insights
+4. Student team presents organisational insights
 
-**Learning objective**: How organizational data drives management decisions.
+**Learning objective**: How organisational data drives management decisions.
 
 :::
 
@@ -779,7 +779,7 @@ Process Documentation (10%)
 ### **How to Design Assignments**
 
 ```
-Instead of: "Create a report analyzing this data"
+Instead of: "Create a report analysing this data"
 
 Try: "Analyze this data with AI's help, then submit:
 1. Your conversation with AI (showing your questions and thinking)
@@ -810,7 +810,7 @@ This shows thinking, not just output.
 - Logistics data → Cost analysis → Cost reduction recommendations
 
 ### **Human Resources**
-- Engagement data → Culture analysis → Organizational health presentation
+- Engagement data → Culture analysis → Organisational health presentation
 - Compensation data → Market analysis → Salary strategy report
 - Recruitment data → Hiring funnel analysis → Recruitment strategy brief
 
@@ -827,10 +827,10 @@ This shows thinking, not just output.
 ### **Economics**
 - Economic indicators → Trend analysis → Economic outlook presentation
 - Policy data → Impact analysis → Policy analysis report
-- Labor data → Labor market analysis → Employment trend briefing
+- Labour data → Labour market analysis → Employment trend briefing
 
-### **Management & Organizational Studies**
-- Organizational data → Culture analysis → Organizational development strategy
+### **Management & Organisational Studies**
+- Organisational data → Culture analysis → Organisational development strategy
 - Change readiness data → Readiness analysis → Change management plan
 - Survey data → Stakeholder analysis → Stakeholder engagement strategy
 

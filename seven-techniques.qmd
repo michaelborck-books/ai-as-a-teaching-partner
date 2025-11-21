@@ -940,7 +940,7 @@ Try: A **chain** where students:
 ## Management
 **Change Management Workflow:**
 
-1. **Reverse Prompt:** "What factors must be considered in organizational change?"
+1. **Reverse Prompt:** "What factors must be considered in organisational change?"
 2. **Expert Panel:** "Consult three perspectives: HR, Operations, Finance"
 3. **Pros and Cons:** "Evaluate change approaches based on stakeholder readiness"
 4. **Role Play:** "Communicate the change to resistant employees"
@@ -1014,7 +1014,7 @@ What does a practitioner actually do in your discipline?
 
 - HR: Scope problem → Consult stakeholders → Evaluate options → Draft policy → Communicate → Refine
 - Supply Chain: Identify risks → Evaluate responses → Model impacts → Present strategy → Implement
-- Finance: Identify question → Gather data → Analyze alternatives → Justify decision → Present findings
+- Finance: Identify question → Gather data → Analyse alternatives → Justify decision → Present findings
 
 **Step 2: Map This to Techniques**
 Which techniques align with each phase?

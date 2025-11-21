@@ -17,7 +17,7 @@ Why? Because AI can:
 
 This creates a unique opportunity: **You can use AI to discover how to use AI in ways that fit YOUR teaching context.**
 
-Rather than reading a generic guide or following someone else's strategy, you can have a personalized consultation with AI that helps you figure out what actually matters for your discipline, your students, and your constraints.
+Rather than reading a generic guide or following someone else's strategy, you can have a personalised consultation with AI that helps you figure out what actually matters for your discipline, your students, and your constraints.
 
 ---
 
@@ -239,7 +239,7 @@ Depending on what you teach, you might adapt the consultation prompt for your sp
 You're an AI expert in HR education and practice. Ask me about my teaching
 (students, learning goals, HR context, constraints) so you can recommend both
 obvious and creative ways to use AI to help students develop professional judgment
-about people and organizational challenges.
+about people and organisational challenges.
 
 Include recommendations that help students practice real HR decision-making without
 compromising sensitivity to human impact.

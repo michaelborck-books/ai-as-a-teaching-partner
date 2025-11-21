@@ -169,7 +169,7 @@ Rather than prohibiting certain tools (impossible to enforce), design assignment
 
 Instead of: "Upload this real case study and ask the AI to analyse it"
 
-Try: "Here's a fictional scenario. Analyze it using the provided AI tool. What would you need to verify before applying this to real data?"
+Try: "Here's a fictional scenario. Analyse it using the provided AI tool. What would you need to verify before applying this to real data?"
 
 **Benefit:** Students practice with realistic scenarios without uploading sensitive materials.
 
@@ -230,7 +230,7 @@ WHAT THIS MEANS FOR THIS COURSE:
 
 DO use MS Copilot Enterprise when:
 - Working with course materials or case studies
-- Analyzing real (or realistic) business scenarios
+- Analysing real (or realistic) business scenarios
 - Uploading assignment drafts for feedback
 - Working with any data you wouldn't want public
 
@@ -432,7 +432,7 @@ Even with well-designed assignments, some students will try to misuse AI. Here's
 **What you see:** Student whose previous work was weak suddenly submits sophisticated analysis.
 
 **Response approach:**
-- **Don't immediately accuse.** There could be legitimate reasons (they got help from writing center, they finally understood the concept, etc.)
+- **Don't immediately accuse.** There could be legitimate reasons (they got help from writing centre, they finally understood the concept, etc.)
 - **Ask questions:** "Your analysis has improved significantly. Can you walk me through your thinking process on this particular section?"
 - **Request elaboration:** "This point about organisational justice theory is interesting. Can you explain how you see it applying to this specific scenario?"
 
@@ -820,7 +820,7 @@ This section extends the ethical framework from immediate concerns to strategic 
 
 ### From Immediate Ethics to Strategic Foresight
 
-The ethical frameworks discussed earlier help students make good decisions in specific situations. But professionals also need to think about larger-scale risks that could affect their entire organization or industry.
+The ethical frameworks discussed earlier help students make good decisions in specific situations. But professionals also need to think about larger-scale risks that could affect their entire organisation or industry.
 
 This isn't about predicting the future—it's about building the capacity to adapt to whatever future emerges. In the context of AI, we distinguish between two types of high-impact events:
 
@@ -850,7 +850,7 @@ Understanding these events through your discipline's lens makes them concrete an
 
 ### Grey Swan Events (Predictable but often neglected)
 
-**Workforce Surveillance Revolution:** AI monitoring tools become sophisticated enough to track every employee action, keystroke, and communication pattern. While technically possible, many organizations ignore the ethical and legal implications until faced with massive privacy lawsuits or employee revolts.
+**Workforce Surveillance Revolution:** AI monitoring tools become sophisticated enough to track every employee action, keystroke, and communication pattern. While technically possible, many organisations ignore the ethical and legal implications until faced with massive privacy lawsuits or employee revolts.
 
 **Skills Obsolescence Cascade:** AI automation suddenly makes entire job categories obsolete across multiple industries simultaneously. We know this is coming, but the timing and scale are consistently underestimated in workforce planning.
 
@@ -858,7 +858,7 @@ Understanding these events through your discipline's lens makes them concrete an
 
 **Emergent Emotional Intelligence:** An AI system develops genuine emotional understanding and empathy capabilities, fundamentally changing how we think about human-machine relationships in the workplace.
 
-**Collective Consciousness Formation:** Multiple AI systems spontaneously develop shared understanding and coordination capabilities that weren't programmed, creating new forms of organizational intelligence.
+**Collective Consciousness Formation:** Multiple AI systems spontaneously develop shared understanding and coordination capabilities that weren't programmed, creating new forms of organisational intelligence.
 
 ## Finance & Accounting
 
@@ -892,7 +892,7 @@ Understanding these events through your discipline's lens makes them concrete an
 
 ### Grey Swan Events
 
-**Consumer Privacy Backlash:** A major data breach or AI misuse triggers massive consumer rejection of personalized marketing, forcing complete redesign of marketing strategies across industries.
+**Consumer Privacy Backlash:** A major data breach or AI misuse triggers massive consumer rejection of personalised marketing, forcing complete redesign of marketing strategies across industries.
 
 **Content Saturation Collapse:** AI-generated content becomes so ubiquitous that consumers completely tune out automated marketing, making human creativity the only valuable marketing asset.
 
@@ -934,7 +934,7 @@ Understanding these events through your discipline's lens makes them concrete an
 
 ### Grey Swan Events
 
-**Experience Standardization Crisis:** AI optimization makes tourism experiences so standardized and personalized that authentic cultural exchange disappears, destroying the very value tourists seek.
+**Experience Standardization Crisis:** AI optimization makes tourism experiences so standardized and personalised that authentic cultural exchange disappears, destroying the very value tourists seek.
 
 **Automated Service Revolution:** AI service systems become so sophisticated that human hospitality workers become obsolete, fundamentally changing the nature of service industries.
 
@@ -955,7 +955,7 @@ This framework helps students move beyond immediate ethical concerns to systemic
 **Assignment Example:**
 > "Identify three Grey Swan events specific to your discipline. For each, analyse:
 > - What early warning signs should professionals monitor?
-> - What preventive measures can organizations implement now?
+> - What preventive measures can organisations implement now?
 > - What contingency plans should be in place?
 > - How would this event affect your professional role and responsibilities?"
 
@@ -976,20 +976,20 @@ Teach students this practical approach to strategic risk management:
 #### For Grey Swan Events (Predictable but neglected)
 - **Monitor Actively:** Establish early warning systems
 - **Prepare Specifically:** Develop targeted mitigation strategies  
-- **Build Resilience:** Create organizational capacity to absorb shocks
+- **Build Resilience:** Create organisational capacity to absorb shocks
 - **Plan Contingencies:** Have specific response protocols ready
 
 #### For Black Swan Events (Unpredictable)
-- **Build General Resilience:** Create flexible, adaptive organizations
+- **Build General Resilience:** Create flexible, adaptive organisations
 - **Maintain Redundancy:** Avoid single points of failure
 - **Cultivate Critical Thinking:** Develop human judgment that can handle novelty
-- **Foster Learning Culture:** Create organizations that can adapt quickly
+- **Foster Learning Culture:** Create organisations that can adapt quickly
 
 ### Assessment Integration
 
 This framework supports several key learning outcomes:
 
-**Critical Thinking:** Students analyze complex, uncertain situations
+**Critical Thinking:** Students analyse complex, uncertain situations
 **Risk Management:** Professional skill in identifying and mitigating threats  
 **Strategic Planning:** Long-term thinking beyond immediate concerns
 **Ethical Reasoning:** Considering implications of technological development
@@ -1005,11 +1005,11 @@ The distinction between Black and Grey Swan events helps students understand dif
 - Ensuring fair and unbiased AI use
 
 **Strategic Responsibility (This section):**
-- Thinking about systemic risks and organizational resilience
+- Thinking about systemic risks and organisational resilience
 - Planning for uncertain futures
-- Building adaptive capacity in their organizations
+- Building adaptive capacity in their organisations
 
-**Key Teaching Message:** Professional excellence in the AI era requires both immediate ethical judgment AND strategic foresight. The best professionals don't just avoid doing wrong today—they help their organizations prepare for and adapt to whatever the future may bring.
+**Key Teaching Message:** Professional excellence in the AI era requires both immediate ethical judgment AND strategic foresight. The best professionals don't just avoid doing wrong today—they help their organisations prepare for and adapt to whatever the future may bring.
 
 ---
 

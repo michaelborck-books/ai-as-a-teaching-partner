@@ -167,7 +167,7 @@ You are a senior manager in a hierarchical organization.
 
 Communicate this decision to your team:
 - Acknowledge your authority and responsibility
-- Show respect for organizational structure
+- Show respect for organisational structure
 - Provide clear direction and expectations
 - Maintain appropriate formal tone
 
@@ -303,7 +303,7 @@ Provide culturally appropriate examples and implementation considerations.
 - **Worker protections:** Varying levels of employee rights and protections
 - **Termination procedures:** Different legal requirements and processes
 - **Discrimination laws:** Varying protected characteristics and enforcement
-- **Union relationships:** Different roles and legal status of labor organizations
+- **Union relationships:** Different roles and legal status of labour organisations
 
 #### Global HR AI Adaptations
 ```
@@ -386,7 +386,7 @@ Design technology solutions that consider:
 Provide implementation strategies for local context.
 ```
 
-### Management and Organizational Studies
+### Management and Organisational Studies
 
 #### Cultural Management Styles
 - **Leadership expectations:** Varying perceptions of effective leadership
@@ -462,13 +462,13 @@ Provide culturally appropriate tourism examples and implementation strategies.
 #### Step 1: Context Analysis
 - **Educational system mapping:** Understand local structures and requirements
 - **Cultural assessment:** Identify relevant cultural dimensions and preferences
-- **Regulatory review:** Analyze legal requirements and compliance needs
+- **Regulatory review:** Analyse legal requirements and compliance needs
 - **Resource evaluation:** Assess technological infrastructure and support systems
 
 #### Step 2: Stakeholder Engagement
 - **Local consultation:** Engage with local educators and administrators
 - **Student input:** Gather feedback from local student populations
-- **Industry partnership:** Connect with local businesses and organizations
+- **Industry partnership:** Connect with local businesses and organisations
 - **Cultural experts:** Consult with cultural specialists and community leaders
 
 #### Step 3: Customization Development
@@ -561,7 +561,7 @@ Provide culturally appropriate tourism examples and implementation strategies.
 **Challenges:** Infrastructure limitations, cost constraints, unreliable internet
 **Solutions:**
 - Focused on mobile-first AI applications
-- Utilized free and open-source AI tools
+- Utilised free and open-source AI tools
 - Developed offline AI-enhanced activities
 - Created peer-to-peer learning networks for AI skill development
 

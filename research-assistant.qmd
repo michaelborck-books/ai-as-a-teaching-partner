@@ -1161,7 +1161,7 @@ Format as a professional research document with:
 - Ready for thesis chapter or journal submission
 ```
 
-**Teaching point:** The document format forces organizational clarity. Students can't hide weak analysis under poor presentation. Professional formatting reveals whether thinking is rigorous.
+**Teaching point:** The document format forces organisational clarity. Students can't hide weak analysis under poor presentation. Professional formatting reveals whether thinking is rigorous.
 
 #### **Scenario 2: Data Analysis → PowerPoint Presentation**
 
@@ -1256,7 +1256,7 @@ Research Analysis (70%):
 
 Research Communication (30%):
 - Clarity of presentation (how well findings are explained)
-- Organization (logical flow, clear structure)
+- Organisation (logical flow, clear structure)
 - Professional appearance (formatting quality)
 - Citation accuracy
 

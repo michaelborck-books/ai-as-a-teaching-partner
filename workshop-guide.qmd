@@ -40,7 +40,7 @@ This guide gives you everything needed to run effective workshops that scale AI 
 | Group discussion (limited participation) | Individual role-play (everyone practices) |
 | Written assignment (delayed feedback) | Immediate AI feedback |
 
-**Why this matters:** You're still the expert designer. AI just makes personalized practice feasible for all students, not just a lucky few.
+**Why this matters:** You're still the expert designer. AI just makes personalised practice feasible for all students, not just a lucky few.
 
 ---
 
@@ -311,7 +311,7 @@ You have 48 hours to act. Begin.
 
 **Optimization Challenge:**
 ```
-Analyze this supply chain network for efficiency improvements:
+Analyse this supply chain network for efficiency improvements:
 - Current bottlenecks
 - Cost reduction opportunities
 - Risk mitigation strategies
@@ -367,7 +367,7 @@ Begin your analysis.
 ```
 Present this accounting dilemma: "Your manager wants you to recognize revenue early to meet quarterly targets."
 
-Analyze from:
+Analyse from:
 - Technical accounting standards
 - Ethical professional responsibilities
 - Stakeholder impacts
@@ -378,7 +378,7 @@ Analyze from:
 ## Management
 **Change Leadership:**
 ```
-You are a CEO implementing a major organizational restructuring.
+You are a CEO implementing a major organisational restructuring.
 
 Communicate this change to employees addressing:
 - Business rationale
@@ -392,7 +392,7 @@ Deliver with empathy and clarity. Begin.
 
 **Strategic Decision:**
 ```
-Analyze this management decision: "Should our company go fully remote permanently?"
+Analyse this management decision: "Should our company go fully remote permanently?"
 
 Provide:
 - SWOT analysis
@@ -407,8 +407,8 @@ Provide:
 ```
 You are an Economic Advisor. A government is considering implementing a universal basic income.
 
-Analyze potential impacts on:
-- Labor market participation
+Analyse potential impacts on:
+- Labour market participation
 - Inflation and prices
 - Government budget
 - Social welfare outcomes
@@ -475,7 +475,7 @@ Then ask me to identify which arguments are most persuasive and why.
 
 **2. Multiple Perspective Analysis**
 ```
-Analyze this business decision from 4 perspectives:
+Analyse this business decision from 4 perspectives:
 1. Financial impact
 2. Ethical considerations  
 3. Stakeholder effects
@@ -699,7 +699,7 @@ Focus on [COURSE CONTEXT - e.g., Australian business environment].
 Begin explanation.
 ```
 
-**Show how this creates personalized tutoring.**
+**Show how this creates personalised tutoring.**
 
 ##### Demo 2: Professional Practice (10 minutes)
 
@@ -710,7 +710,7 @@ You are an experienced [PROFESSIONAL ROLE] conducting a job interview for [POSIT
 I am a final-year business student applying for this role.
 
 Ask me realistic interview questions including:
-- Behavioral questions about my experience
+- Behavioural questions about my experience
 - Situational questions to test judgment
 - Technical questions about [DISCIPLINE-SPECIFIC KNOWLEDGE]
 - Questions about how I handle challenges

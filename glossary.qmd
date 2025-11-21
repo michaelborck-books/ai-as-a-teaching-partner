@@ -45,7 +45,7 @@ This glossary provides definitions for key terms and concepts used throughout th
 
 ## G
 
-**Generative AI**: AI systems that can create new content, such as text, images, or code, rather than just analyzing existing data.
+**Generative AI**: AI systems that can create new content, such as text, images, or code, rather than just analysing existing data.
 
 ## H
 
@@ -79,7 +79,7 @@ This glossary provides definitions for key terms and concepts used throughout th
 
 **Prompt Engineering**: The practice of crafting effective instructions (prompts) to get desired outputs from AI systems.
 
-**Prompting**: The act of providing instructions or questions to AI systems to elicit specific responses or behaviors.
+**Prompting**: The act of providing instructions or questions to AI systems to elicit specific responses or behaviours.
 
 ## R
 

@@ -16,7 +16,7 @@ AI integration in education creates new opportunities but also new barriers. Thi
 |---|---|
 | **Physical access** - Ramps--- elevators--- accessible seating | **Digital access** - Device availability--- internet connectivity--- platform compatibility |
 | **Sensory accommodations** - Screen readers--- captioning--- sign language | **AI accommodations** - Alternative input methods--- output customization--- cognitive load management |
-| **Learning support** - Note-takers--- extended time--- alternative formats | **AI support** - Prompt assistance--- output adaptation--- personalized learning pathways |
+| **Learning support** - Note-takers--- extended time--- alternative formats | **AI support** - Prompt assistance--- output adaptation--- personalised learning pathways |
 | **Social inclusion** - Diverse perspectives--- inclusive language | **AI inclusion** - Bias mitigation--- cultural responsiveness--- multiple representation |
 
 ### New Accessibility Challenges
@@ -167,7 +167,7 @@ Use visual descriptions and avoid references to "listen to this" or "as I mentio
 
 #### Challenges
 - **Information processing:** AI outputs may be too complex or fast-paced
-- **Executive function:** Managing AI interactions and organizing information
+- **Executive function:** Managing AI interactions and organising information
 - **Memory retention:** Remembering conversation context and instructions
 - **Attention maintenance:** Staying focused during extended AI interactions
 
@@ -246,7 +246,7 @@ Use simple language and avoid complex sentences.
 - **Real-time features:** Synchronous AI activities may disadvantage some students
 - **Support availability:** Technical help may not be available in all time zones
 - **Collaboration difficulties:** Group work across time zones with AI tools
-- **Deadline fairness:** Due times may favor certain time zones
+- **Deadline fairness:** Due times may favour certain time zones
 
 #### Solutions
 - **Asynchronous options:** Provide flexible timing for AI-based activities
@@ -436,7 +436,7 @@ Consider that English may not be my first language and avoid complex idioms or c
 
 ## Conclusion
 
-AI integration in education offers tremendous potential for expanding access and personalizing learning, but only if implemented with careful attention to accessibility and inclusion. The frameworks and strategies in this chapter provide a foundation for ensuring AI-enhanced teaching benefits all students.
+AI integration in education offers tremendous potential for expanding access and personalising learning, but only if implemented with careful attention to accessibility and inclusion. The frameworks and strategies in this chapter provide a foundation for ensuring AI-enhanced teaching benefits all students.
 
 Key principles for inclusive AI integration:
 1. **Design for everyone:** Consider diverse needs from the beginning
